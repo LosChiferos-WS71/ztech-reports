@@ -86,17 +86,19 @@ Algunos de los beneficios que podrán obtener nuestros usuarios incluiran:
 
 * Incorporar una función de diagnóstico que permita a los propietarios de plantas identificar y tratar enfermedades y plagas comunes que afectan a sus plantas. Esto podría incluir una base de datos de síntomas, imágenes de referencia y soluciones recomendadas.
 
-* Ofrecer una herramienta de planificación de jardín que permita a los propietarios de plantas diseñar y organizar sus espacios de jardinería, seleccionar plantas adecuadas para cada área y crear un calendario de siembra y cuidado.
-
 * Proporcionar recomendaciones personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-* Creemos que proporcionar notificaciones personalizadas sobre el cuidado de las plantas, como recordatorios de riego, alimentación y cuidado en el ambiente aumentará la eficiencia y la satisfacción del usuario. Sabremos que hemos tenido éxito cuando haya una mejora en la calificación de satisfacción del usuario con la aplicación.
+* Creemos que al permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales, podrán identificar cambios o problemas de forma rápida, mejorando la salud y el crecimiento de las plantas. Sabremos que hemos tenido éxito si observamos un aumento del 10% en la longevidad promedio de las plantas registradas en 6 meses.
 
-* Creemos que ofrecer recomendaciones personalizadas de plantas basadas en las condiciones ambientales y las preferencias del usuario aumentará su confianza en su capacidad para cuidar plantas. Sabremos que es cierto cuando veamos un aumento en la interacción del usuario con las recomendaciones de plantas y una mejora en la salud general de las plantas registradas en la aplicación.
+* Creemos que al permitir la creación de perfiles personalizados para cada planta, los propietarios podrán recibir información relevante y adaptada a sus necesidades, mejorando su cuidado y crecimiento. Sabremos que es cierto si observamos un aumento del 30% en la interacción con la función de creación de perfiles en 1 mes.
 
-* Creemos que integrar un sistema de diagnóstico de enfermedades y plagas de plantas ayudará a los usuarios a identificar y tratar problemas de salud de manera oportuna. Sabremos que hemos tenido éxito cuando observemos una disminución en el número de consultas de los usuarios sobre problemas de salud de las plantas y un aumento en la resolución de problemas de salud reportados.
+* Creemos que integrar un sistema de notificaciones sobre condiciones climáticas adversas permitirá a los usuarios tomar medidas preventivas, reduciendo el daño a sus plantas. Sabremos que hemos tenido éxito si observamos una disminución del 25% en las plantas afectadas por el clima en 1 año.
+
+* Creemos que incorporar una función de diagnóstico para identificar y tratar enfermedades y plagas comunes mejorará la salud y longevidad de las plantas. Sabremos que hemos tenido éxito si observamos una disminución del 30% en las plantas afectadas por enfermedades no tratadas en 6 meses.
+
+* Creemos que al proporcionar recomendaciones personalizadas de plantas, aumentará la diversidad y la salud de las plantas cultivadas por los usuarios. Sabremos que hemos tenido éxito si observamos un aumento del 20% en la variedad de plantas en 1 año.
 
 #### 1.2.2.4. Lean UX Canvas
 
