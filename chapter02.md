@@ -13,6 +13,8 @@ En el mercado de macetas inteligentes para plantas, existen varios competidores 
 ### 2.1.1. Análisis competitivo
 
 ![Tabla de Análisis competitivo](./assets/1competidores.jpg)
+![Tabla de Análisis competitivo](./assets/2competidores.jpg)
+![Tabla de Análisis competitivo](./assets/3competidores.jpg)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ---f
