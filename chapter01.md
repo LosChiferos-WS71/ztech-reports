@@ -21,4 +21,8 @@
 #### 1.2.2.4. Lean UX Canvas
 ---
 ## 1.3. Segmentos objetivo
----
+
+| Segmento                               	| Edad       	| Sexo  	| Ubicación  	| Poder Adquisitivo 	| Nivel Socioeconómico 	| Hábito de Consumo                                                                                                                  	|
+|----------------------------------------	|------------	|-------	|------------	|-------------------	|----------------------	|------------------------------------------------------------------------------------------------------------------------------------	|
+| Cuidadores de plantas                  	| 25-45 años 	| Ambos 	| Lima, Perú 	| Medio a Alto      	| Medio a Alto         	| Interesados en jardinería, dispuestos a invertir en cuidado de plantas y accesorios.                                               	|
+| Proveedores de materiales para plantas 	| 30-60 años 	| Ambos 	| Lima, Perú 	| Medio a Alto      	| Medio a Alto         	| Ofrecen productos y servicios de jardinería de alta calidad, orientados a satisfacer las necesidades de los cuidadores de plantas. 	|
