@@ -49,6 +49,28 @@ Resumimos el viaje del proveedor desde el registro en la plataforma hasta la ges
 ![Empathy Map Proveedor](./assets/2.3.4.EmpathyMapping/Empathy%20Map%20Proveedor.png)
 ---
 ### 2.3.5. As-is Scenario Mapping
+> Cliente
+![as-is-cliente](./assets/2.3.5.AsIsScenarioMapping/As-Is%20Scenario%20Mapping%20Cliente.png)
+- Áreas Positivas:
+  - Interés y emoción por probar nuevas tecnologías.
+  - Satisfacción por la compra y mejoras visibles en el cuidado de las plantas.
+  - Confianza en la empresa y la calidad de los productos.
+- Áreas Negativas:
+  - Frustración por problemas técnicos persistentes.
+  - Expectativas de respuestas rápidas en el soporte no siempre cumplidas.
+- Blank Areas:
+  - Necesidad de aprender más sobre la configuración avanzada de sensores.
+
+> Proveedor
+![as-is-proveedor](./assets/2.3.5.AsIsScenarioMapping/As-Is%20Scenario%20Mapping%20Proveedor.png)
+- Áreas Positivas:
+  - Interés en colaborar y mejorar la eficiencia en la gestión de pedidos.
+  - Expectativas de respuestas efectivas en el soporte.
+- Áreas Negativas:
+  - Estrés por problemas logísticos y de entrega.
+  - Necesidad de identificar y mejorar áreas específicas en la gestión.
+- Blank Areas:
+  - Necesidad de aprender más sobre la gestión avanzada de pedidos y calidad de productos.
 ---
 ## 2.4. Ubiquitous Language
 ---
