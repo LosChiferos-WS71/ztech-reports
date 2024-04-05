@@ -58,7 +58,7 @@ Hemos detectado una creciente preocupación entre los propietarios de plantas do
 
 **User Outcome:**
 
-* Algunos de los beneficios que podrán obtener los cuidadores de plantas domésticas con nuestra aplicación incluirán:
+Algunos de los beneficios que podrán obtener nuestros usuarios incluiran:
 
 * Mayor facilidad para encontrar información específica sobre el cuidado de sus plantas, lo que les permitirá mantenerlas saludables y florecientes.
 
@@ -66,27 +66,27 @@ Hemos detectado una creciente preocupación entre los propietarios de plantas do
 
 * Una mayor confianza en sus habilidades como cuidadores de plantas, al contar con orientación y asesoramiento específico para cada tipo de planta que posean.
 
-* Los cuidadores de plantas podrán notar una mejora en la salud y el aspecto general de sus plantas, lo que aumentará su satisfacción y disfrute en su afición por la jardinería.
+* Los propietarios de plantas podrán notar una mejora en la salud y el aspecto general de sus plantas, lo que aumentará su satisfacción y disfrute en su afición por la jardinería.
 
 **Business Outcome:**
 
-* Nuestros servicios ayudarán a que los proveedores de materiales para plantas y suministros de jardinería puedan llegar a un público más amplio, lo que aumentará sus ventas y la visibilidad de sus productos.
+* Nuestros servicios ayudarán a que los proveedores puedan llegar a un público más amplio, lo que aumentará sus ventas y la visibilidad de sus productos.
 
-* Permitiremos a los cuidadores de plantas acceder a una variedad de productos y recursos relacionados con el cuidado de plantas, lo que impulsará las ventas de nuestros socios proveedores y mejorará la experiencia general de los usuarios.
+* Permitiremos a los propietarios de plantas acceder a una variedad de productos y recursos relacionados con el cuidado de plantas, lo que impulsará las ventas de nuestros socios proveedores y mejorará la experiencia general de los usuarios.
 
-* Buscamos ser la principal plataforma que permita a los cuidadores de plantas encontrar información, productos y servicios relacionados con el cuidado de sus plantas, lo que nos posicionará como líderes en el mercado de la jardinería doméstica.
+* Buscamos ser la principal plataforma que permita a los propietarios de plantas obtener información relacionados con el cuidado de sus plantas, lo que nos posicionará como líderes en el mercado de la jardinería doméstica.
 
 **Features:**
 
-* Permitir a los usuarios monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura, la humedad del suelo y los niveles de potasio. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
+* Permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura, la humedad del suelo y los niveles de potasio. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
 
-* Los usuarios podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir información relevante como el tipo de planta, las condiciones ambientales ideales y el historial de cuidado.
+* Los propietarios de plantas podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir información relevante como el tipo de planta, las condiciones ambientales ideales y el historial de cuidado.
 
-* Integrar un sistema  que notifique a los usuarios sobre condiciones climáticas adversas que puedan afectar a sus plantas, como heladas, olas de calor o fuertes lluvias. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
+* Integrar un sistema  que notifique a los propietarios de plantas sobre condiciones climáticas adversas que puedan afectar a sus plantas, como heladas, olas de calor o fuertes lluvias. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
 
-* Incorporar una función de diagnóstico que permita a los usuarios identificar y tratar enfermedades y plagas comunes que afectan a sus plantas. Esto podría incluir una base de datos de síntomas, imágenes de referencia y soluciones recomendadas.
+* Incorporar una función de diagnóstico que permita a los propietarios de plantas identificar y tratar enfermedades y plagas comunes que afectan a sus plantas. Esto podría incluir una base de datos de síntomas, imágenes de referencia y soluciones recomendadas.
 
-* Ofrecer una herramienta de planificación de jardín que permita a los usuarios diseñar y organizar sus espacios de jardinería, seleccionar plantas adecuadas para cada área y crear un calendario de siembra y cuidado.
+* Ofrecer una herramienta de planificación de jardín que permita a los propietarios de plantas diseñar y organizar sus espacios de jardinería, seleccionar plantas adecuadas para cada área y crear un calendario de siembra y cuidado.
 
 * Proporcionar recomendaciones personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
 
