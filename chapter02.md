@@ -33,6 +33,13 @@ En esta sección, se establecen los segmentos que se están considerando para ca
 ![User Task Matrix](./assets/2.3.2.UserTaskMatrix/TaskMatrix.png)
 ---
 ### 2.3.3. User Journey Mapping
+Resumimos el viaje del cliente desde el descubrimiento de la maceta inteligente hasta su uso continuo y soporte. Se enfoca en la experiencia desde el registro en la app, la compra y configuración de la maceta, hasta la satisfacción o frustración con el soporte.
+> Cliente
+![Journey Map Cliente](./assets/2.3.3.UserJourneyMapping/Journey%20Map%20Cliente.png)
+
+Resumimos el viaje del proveedor desde el registro en la plataforma hasta la gestión de pedidos, entregas y resolución de problemas relacionados con la calidad o logística. Se centra en la experiencia desde la consulta de stock, aceptación de pedidos, entrega y comunicación con el soporte.
+> Proveedor
+![Journey Map Proveedor](./assets/2.3.3.UserJourneyMapping/Journey%20Map%20Proveedor.png)
 ---
 ### 2.3.4. Empathy Mapping
 ---
