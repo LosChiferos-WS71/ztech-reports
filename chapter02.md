@@ -42,6 +42,11 @@ Resumimos el viaje del proveedor desde el registro en la plataforma hasta la ges
 ![Journey Map Proveedor](./assets/2.3.3.UserJourneyMapping/Journey%20Map%20Proveedor.png)
 ---
 ### 2.3.4. Empathy Mapping
+> Cliente
+![Empathy Map Cliente](./assets/2.3.4.EmpathyMapping/Empathy%20Map%20Cliente.png)
+
+> Proveedor
+![Empathy Map Proveedor](./assets/2.3.4.EmpathyMapping/Empathy%20Map%20Proveedor.png)
 ---
 ### 2.3.5. As-is Scenario Mapping
 ---
