@@ -28,7 +28,7 @@ Los segmentos de mercado de nuestro proyecto son los propietarios de plantas dom
 
 Para el primer segmento, nos dirigimos a los entusiastas de la jardinería urbana, aficionados a la naturaleza que buscan mejorar el cuidado de sus plantas de manera más eficiente y personalizada. Estos usuarios pueden incluir tanto a personas con experiencia en jardinería como a principiantes que desean incorporar plantas en su entorno pero necesitan orientación y ayuda para mantenerlas saludables.
 
-Para el segundo segmento, nos dirigimos a empresas y tiendas especializadas en jardinería, viveros, productores de materiales para macetas y suministros de jardinería, así como a fabricantes de productos relacionados con el cuidado de plantas. Estos proveedores desean ofrecer soluciones innovadoras y productos de alta calidad que satisfagan las necesidades de sus clientes y se destaquen en el mercado.
+Para el segundo segmento, nos dirigimos a empresas y tiendas especializadas en jardinería, productores de materiales para macetas y sensores. Estos proveedores desean ofrecer soluciones innovadoras y productos de alta calidad que satisfagan las necesidades de sus clientes y se destaquen en el mercado.
 
 Al dirigirnos a estos dos segmentos de mercado, buscamos crear una plataforma integral que conecte a los cuidadores de plantas con los proveedores de materiales, facilitando la adquisición de productos, el intercambio de conocimientos y la creación de una comunidad en torno al cuidado de plantas domésticas.
 
@@ -48,11 +48,11 @@ La demanda de soluciones inteligentes para el cuidado de plantas está en aument
 ---
 #### 1.2.2.1. Lean UX Problem Statements
 
-En la actualidad, los propietarios de plantas domésticas enfrentan desafíos significativos en el mantenimiento adecuado de sus plantas debido a la falta de tiempo, conocimientos especializados y recursos adecuados. Aunque existen diversas herramientas y productos en el mercado para ayudar en el cuidado de las plantas, muchos de ellos carecen de la personalización y la capacidad de adaptarse a las necesidades específicas de cada planta y de cada cuidador.
+En la actualidad, los propietarios de plantas domésticas enfrentan desafíos significativos en el mantenimiento adecuado de sus plantas debido a la falta de tiempo, conocimientos especializados y recursos adecuados. Aunque existen diversas herramientas y productos en el mercado para ayudar en el cuidado de las plantas, muchos de ellos carecen de la personalización y la capacidad de adaptarse a las necesidades específicas de cada planta y de cada cuidador. Además, para llevar a cabo nuestro proyecto de proporcionar soluciones personalizadas para el cuidado de plantas, también necesitamos contar con proveedores confiables de sensores avanzados. A medida que el interés crece, estos productores se enfrentan a la necesidad de ofrecer soluciones más personalizadas y adaptadas a las necesidades de sus clientes. Sin embargo, la falta de herramientas y recursos adecuados para comprender y responder a estas demandas puede obstaculizar su capacidad para satisfacer las necesidades del mercado de manera eficiente y efectiva.
 
-Hemos detectado una creciente preocupación entre los propietarios de plantas domésticas debido a la dificultad para mantener sus plantas saludables y prósperas en entornos urbanos, donde las condiciones ambientales pueden ser desafiantes y los horarios de vida agitados dificultan el seguimiento y cuidado adecuado de las plantas.
+Hemos detectado una creciente preocupación entre los propietarios de plantas domésticas debido a la dificultad para mantener sus plantas saludables y prósperas en entornos urbanos, donde las condiciones ambientales pueden ser desafiantes y los horarios de vida agitados dificultan el seguimiento y cuidado adecuado de las plantas. También, detectamos que los proveedores enfrentan desafíos para adaptarse a la demanda de sus productos que ellos ofrecen.
 
-¿Cómo podemos proporcionar a los cuidadores de plantas domésticas herramientas y recursos personalizados que les permitan mantener sus plantas saludables y florecientes, incluso en entornos urbanos y con horarios ocupados?
+¿Cómo podemos proporcionar a los cuidadores de plantas domésticas y a nuestros proveedores que les permitan mantener sus plantas saludables y florecientes, así como adaptarse eficazmente a la demanda de sus productos, incluso en entornos urbanos y con horarios ocupados?
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -78,11 +78,9 @@ Hemos detectado una creciente preocupación entre los propietarios de plantas do
 
 **Features:**
 
-* Nuestra aplicación proporcionará a los usuarios acceso a una amplia gama de recursos, como guías de cuidado de plantas, consejos prácticos y recomendaciones de productos, todo en un formato fácil de usar y accesible desde cualquier dispositivo.
-
 * Permitir a los usuarios monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura, la humedad del suelo y los niveles de potasio. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
 
-* Los usuarios podrán crear perfiles personalizados para cada una de sus plantas, donde podrán registrar información relevante como el tipo de planta, las condiciones ambientales ideales y el historial de cuidado.
+* Los usuarios podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir información relevante como el tipo de planta, las condiciones ambientales ideales y el historial de cuidado.
 
 * Integrar un sistema  que notifique a los usuarios sobre condiciones climáticas adversas que puedan afectar a sus plantas, como heladas, olas de calor o fuertes lluvias. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
 
