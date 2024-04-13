@@ -60,6 +60,8 @@
 |TS035 |<p>Add Order </p><p>Through </p><p>RESTful API </p>|<p>As a developer </p><p> </p><p>I want to add an order via a RESTful </p><p>API<br><br>So that suppliers can keep track of the products they sell to us.</p>|<p>--- Scenario: </p><p>Successfully add an order via API </p><p>**Given** the API endpoint for adding an order<br>**When** a POST request is sent with valid order data<br>**Then** the response status code should be 201<br>**And** the response body should contain the details of the added order.</p><p></p><p></p><p>--- Scenario: Fail to add an order via API due to missing required data **Given** the API endpoint for adding an order **When** a POST request is sent with incomplete order data </p><p>**Then** the response status code should be 400<br>**And** the response body should contain an error message indicating the missing required data.</p>| EP007 |
 ---
 ## 3.3. Impact Mapping
+>Impact Mapping
+![Impact-Map](./assets/3.3.Impact-Mapping/Impact-Map-Miro.png)
 ---
 ## 3.4. Product Backlog
 ---
