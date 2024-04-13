@@ -3,9 +3,12 @@
 ## 4.1. Strategic-Level Domain-Driven Design
 ---
 ### 4.1.1. EventStorming
----
+EventStoring es una técnica de modelado colaborativa e iterativa para simular un área problemática grande y compleja, lo que permite ahondar en la mayor cantidad de detalles y problemas posibles.
 #### 4.1.1.1 Candidate Context Discovery
----
+---  
+**Step 1: Unstructured Exploration**  
+Como primer paso del EventStoring comenzamos con una sesión de lluvia de ideas sobre los eventos del dominio relacionados con el negocio estudiado. Es importante formar los acontecimientos del dominio en tiempo pasado los cuales describen lo sucedido.
+
 #### 4.1.1.2 Domain Message Flows Modeling
 ---
 #### 4.1.1.3 Bounded Context Canvases
