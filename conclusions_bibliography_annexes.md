@@ -31,5 +31,28 @@ Estas prácticas ayudarán a asegurar que estás desarrollando un producto que r
 
 ---
 **Anexos**
-- as
-- sad
+
+---
+![c4model](./assets/anexos/c4model.png)
+
+<p><em>Anexo C4 Model</em></p>
+
+---
+![iot](./assets/anexos/iot.jpg)
+
+<p><em>Anexo IoT</em></p>
+
+---
+![leanux](./assets/anexos/leanux.png)
+
+<p><em>Anexo Lean UX</em></p>
+
+---
+![needfinding](./assets/anexos/needfinding.jpg)
+
+<p><em>Anexo NeedFinding</em></p>
+
+---
+![userstories](./assets/anexos//userstories.jpg)
+
+<p><em>Anexo User Stories</em></p>
