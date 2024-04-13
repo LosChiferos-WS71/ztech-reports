@@ -24,21 +24,53 @@
 ---
 ## 4.2. Tactical-Level Domain-Driven Design
 ---
-### 4.2.X. Bounded Context: <Bounded Context Name>
+### 4.2.4. Bounded Context: Claim
+El Bounded Context de "Claim" aborda la gestión de reclamos relacionados con las macetas. Aquí, los propietarios pueden reportar y resolver incidentes con sus macetas, desde generar un reclamo por daños hasta la resolución del mismo, que puede resultar en el reemplazo de la maceta o en un rechazo del reclamo.
+
 ---
-#### 4.2.X.1. Domain Layer
+#### 4.2.4.1. Domain Layer
+**Entidades**: `Reclamo`, `Maceta`, `ResoluciónReclamo`.
+
+**Objetos de Valor**: `DetalleReclamo`, `EstadoReclamo`.
+
+**Agregados**: `ProcesoReclamo` que incluye `Reclamo`, `Maceta`, y `ResoluciónReclamo`.
+
+**Repositorios**: `RepositorioReclamos`, `RepositorioMacetas` para la gestión de reclamos y datos de macetas.
+
+**Servicios de Dominio**: `ServicioReclamos` encargado de la lógica de negocio relacionada con la creación y resolución de reclamos.
+
 ---
-#### 4.2.X.2. Interface Layer
+#### 4.2.4.2. Interface Layer
+**API Endpoints**: Rutas como POST `/claims` para la creación de reclamos, GET `/claims/{id}` para obtener el estado de un reclamo.
+
+**DTOs**: `ReclamoDTO`, `ResoluciónReclamoDTO` para la transferencia de datos de reclamos.
+
+**Controladores**: `ControladorReclamos` para procesar las solicitudes relacionadas con los reclamos.
+
 ---
-#### 4.2.X.3. Application Layer
+#### 4.2.4.3. Application Layer
+**Servicios de Aplicación**: `ServicioAplicaciónReclamos` que administra las operaciones de reclamos.
+
+**Comandos/Consultas**: `CrearReclamoCommand`, `ConsultarEstadoReclamoQuery`.
+
+**Manejadores de Comandos**: `CrearReclamoHandler`, `ConsultarEstadoReclamoHandler`.
+
 ---
-#### 4.2.X.4. Infrastructure Layer
+#### 4.2.4.4. Infrastructure Layer
+**Implementación de Repositorios**: Como `SQLReclamoRepository` para la comunicación con la base de datos.
+
+**Servicios Externos**: Integraciones con servicios de logística para seguimiento de envíos y sistemas de gestión de atención al cliente.
+
+**Factories**: Para la creación de `Reclamo` y otras entidades del dominio.
+
+**ORM / Acceso a la Base de Datos**: Herramientas como Entity Framework para el mapeo objeto-relacional.
+
 ---
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 ---
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ---
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 ---
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+##### 4.2.4.6.2. Bounded Context Database Design Diagram
 ---
