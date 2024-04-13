@@ -23,6 +23,8 @@
 
 ---
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+![Container Level Diagram](/assets/4.1.3.3ContainerLevelDiagram/+ZTech_Container_Diagram.png)
+
 ---
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 ---
