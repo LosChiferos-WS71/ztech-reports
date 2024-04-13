@@ -66,9 +66,76 @@ Como último paso buscamos agregados que sea relacionen y sean relevantes entre 
 ![](./assets/4.1.1.1%20Candidate%20Context%20Discovery/Step%2010-Bounded%20Contexts.png)
 
 #### 4.1.1.2 Domain Message Flows Modeling
+Un Domain Message Flow Diagram es una visualización simple que muestra el flujo de mensajes (commands, events, queries) entre actors, bounded contexts y systems para un escenario.
+
 ---
+**Scenario: Register and Set Up Pots Correctly**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Register%20and%20Set%20Up%20Pots%20Correctly.png)
+
+---
+**Scenario: Generate a Claim for a Defective Flowerpot**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Generate%20a%20Claim%20for%20a%20Defective%20Flowerpot.png)
+
+---
+**Scenario: Subscription not Renewed**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Subscription%20not%20Renewed.png)
+
+---
+**Scenario: Scenario: Account creation and verification**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Account%20creation%20and%20verification.png)
+
+---
+**Scenario: Sort Order Stock for Inventory**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Sort%20Order%20Stock%20for%20Inventory.png)
+
+---
+**Scenario: Process Order Replenishment**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Process%20Order%20Replenishment.png)
+
+---
+**Scenario: Start Sensors to Collect Data**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling//Scenario%20Start%20Sensors%20to%20Collect%20Data.png)
+
+---
+**Scenario: Calculate and Send Metrics**
+
+![](./assets/4.1.1.2%20Domain%20Message%20Flows%20Modeling/Scenario%20Calculate%20and%20Send%20Metrics.png)
+
 #### 4.1.1.3 Bounded Context Canvases
+Bounded Context Canvas es una herramienta colaborativa para diseñar y documentar un único proyecto de contexto limitado. Un contexto restringido es un subsistema en una arquitectura de software que está asociado con una parte de su dominio. Canvas lo guía a través de un proceso de diseño contextual limitado, pidiéndole que revise y tome decisiones sobre los elementos clave del diseño, desde la denominación hasta las responsabilidades, las interfaces públicas y las dependencias.
+
 ---
+**Account Context**
+
+![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/Account%20Context.png)
+
+---
+**Flowerpot Context**
+
+![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/Flowerpot%20Context.png)
+
+---
+**Inventory Context**
+
+![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/Inventory%20Context.png)
+
+---
+**Claim Context**
+
+![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/Claim%20Context.png)
+
+---
+**IoT Solution Context**
+
+![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/IoT%20Solution%20Context.png)
+
 ### 4.1.2. Context Mapping
 ---
 ### 4.1.3. Software Architecture
