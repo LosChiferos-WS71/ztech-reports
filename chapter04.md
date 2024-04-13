@@ -72,6 +72,12 @@ El Bounded Context de "IoT Solution" se centra en la solución integral de Inter
 #### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+![Bounded Context Class Design Diagram](/assets/class5.png)
+
 ---
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram
+
+![Bounded Context Database Design Diagram](/assets/database5.png)
+
 ---
