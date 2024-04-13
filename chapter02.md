@@ -14,7 +14,7 @@
 
 >Edith Carrasco Vallejos
 
-![Entrevista-Proveedor](assets/2.2.2.Registro-Entrevista-Ivan/Entrevista-PropietaroPlanta.JPG)
+![Entrevista-Proveedor](./assets/2.2.2.Registro-Entrevista-Edith/Entrevista-Provedor.PNG)
 
 Resumen: La entrevistada se llama Edith Carrasco Vallejos, tiene 44 años, reside en La Perla y es casada. se describe como una persona extrovertida, responsable, puntual, trabajadora en equipo y organizada. Usa tecnologías como computadora y laptop. Su navegador favorito es Google Chrome y usa apps como YouTube, Instagram y Whatsapp. Ella dirige una empresa que comercializa sensores para el control de la humedad. Menciona que realiza estudios de mercado constantemente para conocer las necesidades de los clientes y ajustarse al nicho de mercado. Uno de los mayores desafíos que enfrenta la empresa es la falta de comprensión de algunos clientes y está interesada en integrar sus productos en un producto relacionado con el cuidado de las plantas. Le gustaría conocer más sobre los usuarios de su aplicación, como sus necesidades específicas. Señala que la publicidad a través de una plataforma digital puede ayudar a captar una mayor cantidad de clientes. Valora el funcionamiento de los productos, la facilidad de uso y la conectividad a través de dispositivos electrónicos.
 
