@@ -137,16 +137,25 @@ Bounded Context Canvas es una herramienta colaborativa para diseñar y documenta
 ![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/IoT%20Solution%20Context.png)
 
 ### 4.1.2. Context Mapping
+![Context Mapping](/assets/4.1.2ContextMapping/Context_Map.png)
 ---
 ### 4.1.3. Software Architecture
 ---
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+![System Landscape Diagram](/assets/4.1.3.1SystemLandscapeDiagram/+ZTech_System_Landscape_Diagram.png)
+
 ---
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+![Context Level Diagram](/assets/4.1.3.2ContextLevelDiagram/+ZTech_Context_Diagram.png)
+
 ---
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+![Container Level Diagram](/assets/4.1.3.3ContainerLevelDiagram/+ZTech_Container_Diagram.png)
+
 ---
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+![Deployment Diagram](/assets/4.1.3.4DeploymentDiagram/+ZTech_Deployment_Diagram.png)
+
 ---
 ## 4.2. Tactical-Level Domain-Driven Design
 ---
