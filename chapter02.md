@@ -111,6 +111,16 @@ Resumen: En la entrevista con Iván Ramírez, un estudiante universitario de 21 
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
 
+>Carlos Alejandro De La Cruz Villarreal
+
+![Entrevista-PlantOwner-Carlos](/assets/2.2.2.%20Registro%20de%20entrevistas/Entrevista-PlantOwner-Carlos.png)
+
+Resumen: En esta oportunidad el entrevistado fue Carlos Alejandro De La Cruz Villarreal, tiene 21 años, vive en los olivos y actualmente se encuentra trabajando como jardinero. Además, nos comenta que cuida diariamente sus plantas domesticas y que el principal desafío que enfrenta al cuidad sus plantas son las plagas que puedan aparecer es por eso que aplica insecticidas para controlar las plagas, y también utiliza recursos como el agua y herramientas como pala de jardinería. Asimismo, nos dice que le gustaría recibir consejos sobre cómo controlar efectivamente las plagas sin necesidad de usar insecticida y también cada cuanto tiempo regar a las plantas. Además, nos comenta que le gustaría recibir información sobre el tipo de planta y en que parte está ubicada. Asimismo, nos dice que si le gustaría recibir notificaciones importantes sobre el cuidado de plantas como el riego y la alimentación. También, nos comenta que una aplicación de cuidado de plantas si puede mejorar su experiencia como cuidador de plantas y las funciones que le gustaría ver en la aplicación puede ser el tipo de riego, cada cuanto tiempo se debe de regar o el tipo de tierra. Finalmente, nos comenta que recibir recomendaciones personalizadas basadas en preferencias y condiciones de cultivo ya que tendrán un cuidado mas personalizado.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/ERfTJ9r9L6FCpbDh8KtM1hABFZmx0i0Teoyj9jMJo8_fhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CCm6WG
+
+Timing: 12:04 - 19:40
+
 
 - Supplier
   
@@ -121,6 +131,16 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022
 Resumen: La entrevistada se llama Edith Carrasco Vallejos, tiene 44 años, reside en La Perla y es casada. se describe como una persona extrovertida, responsable, puntual, trabajadora en equipo y organizada. Usa tecnologías como computadora y laptop. Su navegador favorito es Google Chrome y usa apps como YouTube, Instagram y Whatsapp. Ella dirige una empresa que comercializa sensores para el control de la humedad. Menciona que realiza estudios de mercado constantemente para conocer las necesidades de los clientes y ajustarse al nicho de mercado. Uno de los mayores desafíos que enfrenta la empresa es la falta de comprensión de algunos clientes y está interesada en integrar sus productos en un producto relacionado con el cuidado de las plantas. Le gustaría conocer más sobre los usuarios de su aplicación, como sus necesidades específicas. Señala que la publicidad a través de una plataforma digital puede ayudar a captar una mayor cantidad de clientes. Valora el funcionamiento de los productos, la facilidad de uso y la conectividad a través de dispositivos electrónicos.
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
+
+>Enzo Villanueva Pastrana
+
+![Entrevista-Supplier-Enzo](/assets/2.2.2.%20Registro%20de%20entrevistas/Entrevista-Supplier-Enzo.png)
+
+Resumen: En esta oportunidad el entrevistado fue Enzo Villanueva Pastrana, tiene 28 años, vive en comas y actualmente se encuentra trabajando como comunicador y también como proveedor de sensores. Además, nos comenta que los principales productos que ofrece son diversos sensores como humedad, luz y temperatura. Asimismo, nos dice que las estrategias que usa para satisfacer las necesidades de sus clientes son mediante los casos de estudios resolviendo problemáticas y los desafíos que enfrenta principalmente su empresa es la comercialización de sus productos. También, nos dice que las características importantes de sus clientes son personas que cuidan y velan por el medio ambiente y además nos dice que los avances tecnológicos como los sensores tienen un gran impacto ya que miden diversos factores. Asimismo, nos dice que si estaría interesado en integrar sus productos con el cuidado de plantas mediante un buen desarrollo. Además, nos comenta que si le gustaría recibir información sobre usuario que usen la aplicación como saber la opinión de los clientes sobre diversas tecnologías emergentes que surgen. Asimismo, nos dice que una plataforma digital si podría ayudar a su empresa diversificando el producto para que tenga un mayor alcance para todas las personas. También, nos dice que la experiencia del cliente es importante ya que ayuda a nutrir nuestro producto y así poder mejorarlo. Finalmente, nos comenta que una plataforma digital si ayudaría a su empresa a promover sus productos entre los propietarios de macetas para tener un mayor alcance y llegar a más personas.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/ESbkewdcQfZEtwUaou6G4SwBV9oo5A5s4G5K-C8VZ_--qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nqGxNa
+
+Timing: 00:00 - 10:40
 
 ---
 ### 2.2.3. Análisis de entrevistas
