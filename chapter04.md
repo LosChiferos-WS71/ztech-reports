@@ -15,6 +15,8 @@
 ### 4.1.3. Software Architecture
 ---
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+![System Landscape Diagram](/assets/4.1.3.1SystemLandscapeDiagram/+ZTech_System_Landscape_Diagram.png)
+
 ---
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 ---
