@@ -11,6 +11,7 @@
 #### 4.1.1.3 Bounded Context Canvases
 ---
 ### 4.1.2. Context Mapping
+![Context Mapping](/assets/4.1.2ContextMapping/Context_Map.png)
 ---
 ### 4.1.3. Software Architecture
 ---
