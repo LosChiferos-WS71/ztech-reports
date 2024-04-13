@@ -1,7 +1,14 @@
 # Capítulo III: Requirements Specification
 ---
 ## 3.1. To-Be Scenario Mapping
----
+> Cliente
+
+![ToBeCliente](./assets/3.1.%20To-Be%20Scenario%20Mapping/3.1.%20To-Be%20Scenario%20Mapping%20-%20Cliente.png)
+
+> Proveedor
+
+![ToBeProveedor](./assets/3.1.%20To-Be%20Scenario%20Mapping/3.1.%20To-Be%20Scenario%20Mapping%20-%20Proveedor.png)
+
 ## 3.2. User Stories
 ---
 ## 3.3. Impact Mapping
