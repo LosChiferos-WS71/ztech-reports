@@ -67,6 +67,9 @@ El Bounded Context de "Claim" aborda la gestión de reclamos relacionados con la
 
 ---
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+![C4 component diagram](assets/componentClaim.png)
+
 ---
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ---
