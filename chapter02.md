@@ -91,6 +91,8 @@ B) Proovedores
     10. ¿Cómo cree que una plataforma digital podría ayudar a promover sus productos o servicios entre los propietarios de macetas y otros clientes potenciales?
 
 ### 2.2.2. Registro de entrevistas
+- Plant Owner
+
 >Rafael Agustin Pacheco Lavado
 
 ![Entrevista-PlantOwner-Agustin](/assets/2.2.2RegistrodeEntrevistas/Entrevista-PlantOwner-Agustin.png)
@@ -100,6 +102,25 @@ Resumen: El entrevistado, Rafael Agustín Pacheco Lavado, de 21 años de edad y 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
 
 Timing: 05:58 - 11:59
+
+>Ivan Ramirez Chero
+
+![Entrevista-PropietarioDePlantas](./assets/2.2.2.Registro-Entrevista-Ivan/Entrevista-PropietaroPlanta.JPG)
+
+Resumen: En la entrevista con Iván Ramírez, un estudiante universitario de 21 años, se recopilaron datos sobre sus hábitos y preferencias en el cuidado de plantas. Iván utiliza más la computadora que el celular y prefiere el navegador Vivaldi. Aunque intenta cuidar sus plantas a diario, a veces se le olvida hacerlo. Los mayores desafíos que enfrenta incluyen el miedo a excederse en el riego o descuidar sus plantas. Iván estaría interesado en una aplicación que clasifique sus plantas por tipo y proporcione información sobre el cuidado adecuado, como riego, cambio de tierra y exposición al sol. Considera importante recibir notificaciones sobre eventos importantes relacionados con el cuidado de sus plantas, ya que le ayudaría a mantener sus plantas saludables y a reducir el estrés de perder alguna. Iván está entusiasmado con la idea de recibir recomendaciones basadas en sus preferencias y condiciones de cultivo.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
+
+
+- Supplier
+  
+>Edith Carrasco Vallejos
+
+![Entrevista-Proveedor](./assets/2.2.2.Registro-Entrevista-Edith/Entrevista-Provedor.PNG)
+
+Resumen: La entrevistada se llama Edith Carrasco Vallejos, tiene 44 años, reside en La Perla y es casada. se describe como una persona extrovertida, responsable, puntual, trabajadora en equipo y organizada. Usa tecnologías como computadora y laptop. Su navegador favorito es Google Chrome y usa apps como YouTube, Instagram y Whatsapp. Ella dirige una empresa que comercializa sensores para el control de la humedad. Menciona que realiza estudios de mercado constantemente para conocer las necesidades de los clientes y ajustarse al nicho de mercado. Uno de los mayores desafíos que enfrenta la empresa es la falta de comprensión de algunos clientes y está interesada en integrar sus productos en un producto relacionado con el cuidado de las plantas. Le gustaría conocer más sobre los usuarios de su aplicación, como sus necesidades específicas. Señala que la publicidad a través de una plataforma digital puede ayudar a captar una mayor cantidad de clientes. Valora el funcionamiento de los productos, la facilidad de uso y la conectividad a través de dispositivos electrónicos.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
 
 ---
 ### 2.2.3. Análisis de entrevistas
