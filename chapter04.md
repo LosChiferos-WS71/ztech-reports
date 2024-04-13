@@ -19,6 +19,8 @@
 
 ---
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+![Context Level Diagram](/assets/4.1.3.2ContextLevelDiagram/+ZTech_Context_Diagram.png)
+
 ---
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 ---
