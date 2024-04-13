@@ -91,6 +91,16 @@ B) Proovedores
     10. ¿Cómo cree que una plataforma digital podría ayudar a promover sus productos o servicios entre los propietarios de macetas y otros clientes potenciales?
 
 ### 2.2.2. Registro de entrevistas
+>Rafael Agustin Pacheco Lavado
+
+![Entrevista-PlantOwner-Agustin](/assets/2.2.2RegistrodeEntrevistas/Entrevista-PlantOwner-Agustin.png)
+
+Resumen: El entrevistado, Rafael Agustín Pacheco Lavado, de 21 años de edad y residente del distrito de Los Olivos, se encuentra inmerso en sus estudios de arquitectura. Como aficionado a la jardinería, ha encontrado afinidad con el proyecto presentado. Sin embargo, enfrenta desafíos para mantener sus plantas en óptimas condiciones debido a las demandas de su agenda estudiantil. Reconoce la importancia y la solidez de las funcionalidades ofrecidas por la aplicación propuesta. Expresa interés en que la aplicación le brinde recordatorios para las tareas cruciales relacionadas con el cuidado de sus plantas. Además, valora la idea de recibir recomendaciones personalizadas, dada la diversidad de especies que cultiva, cada una con sus propias necesidades específicas de crecimiento.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
+
+Timing: 05:58 - 11:59
+
 ---
 ### 2.2.3. Análisis de entrevistas
 ---
