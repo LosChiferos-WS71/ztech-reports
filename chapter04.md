@@ -69,6 +69,9 @@ La gestión de inventario es crucial en la operación de empresas que requieren 
 
 ---
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![C4 component diagram](assets/componentInventory.png)
+
 ---
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ---
