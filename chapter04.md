@@ -27,6 +27,8 @@
 
 ---
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+![Deployment Diagram](/assets/4.1.3.4DeploymentDiagram/+ZTech_Deployment_Diagram.png)
+
 ---
 ## 4.2. Tactical-Level Domain-Driven Design
 ---
