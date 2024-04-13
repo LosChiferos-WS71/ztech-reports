@@ -72,6 +72,9 @@
 
 ---
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![C4 Component Diagram](/assets/componentAccount.png)
+
 --- 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ---
