@@ -69,6 +69,7 @@
 **Fábricas:** Para la creación de objetos de dominio complejos.
 
 **Clientes API:** Para interactuar con otros bounded contexts o servicios externos.
+
 ---
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 ---
