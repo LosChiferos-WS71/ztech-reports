@@ -143,7 +143,9 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022
 Timing: 00:00 - 10:40
 
 >Piero Stefano Márquez
+
 ![Entrevista-Proveedor](./assets/2.2.2.Registro-Entrevista-Pedro/Entrevista-Proveedor.png)
+
 Resumen: El entrevistado se llama Piero Stefano Márquez, tiene 23, reside en San Miguel y es soltero. Posee una empresa de manufacturas, usa tecnologías como Trello para la organización. Es empático y un líder, y se describe como una persona activa. Su navegador favorito es Opera y usa apps como YouTube, Spotify y Facebook. Los principales productos que ofrece su empresa son diversos sensores como de temperatura, humedad o luz. Para satisface a sus clientes se enfoca en la innovación continua de sus productos y brindar un soporte excelente. Cree que sus clientes valoran la precisión de los datos de sus sensores y su facilidad de uso. También cree que sus productos tendrían un gran impacto en la jardinería por los datos en tiempo real que ofrecen. Le gustaría obtener información sobre las necesidades y exigencias de los usuarios con respecto a sus sensores. Considera que la satisfacción del cliente y la facilidad de uso de sus productos son aspectos fundamentales en su empresa.
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/Ea54svGJ7tdNolxQcqYYD_wBDG1K09XChoan6CBkSplICg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PPdGyL
