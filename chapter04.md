@@ -68,6 +68,9 @@ El Bounded Context de "IoT Solution" se centra en la solución integral de Inter
 
 ---
 #### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+![ZTech IoT Component Diagram](/assets/4.2.5.5ZTech%20IoT%20Component%20Diagram/ZTech%20IoT%20Component%20Diagram.png)
+
 ---
 #### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams
 ---
