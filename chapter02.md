@@ -11,6 +11,12 @@
 ### 2.2.1. Diseño de entrevistas
 ---
 ### 2.2.2. Registro de entrevistas
+>Piero Stefano Márquez
+![Entrevista-Proveedor](./assets/2.2.2.Registro-Entrevista-Pedro/Entrevista-Proveedor.png)
+Resumen: El entrevistado se llama Piero Stefano Márquez, tiene 23, reside en San Miguel y es soltero. Posee una empresa de manufacturas, usa tecnologías como Trello para la organización. Es empático y un líder, y se describe como una persona activa. Su navegador favorito es Opera y usa apps como YouTube, Spotify y Facebook. Los principales productos que ofrece su empresa son diversos sensores como de temperatura, humedad o luz. Para satisface a sus clientes se enfoca en la innovación continua de sus productos y brindar un soporte excelente. Cree que sus clientes valoran la precisión de los datos de sus sensores y su facilidad de uso. También cree que sus productos tendrían un gran impacto en la jardinería por los datos en tiempo real que ofrecen. Le gustaría obtener información sobre las necesidades y exigencias de los usuarios con respecto a sus sensores. Considera que la satisfacción del cliente y la facilidad de uso de sus productos son aspectos fundamentales en su empresa.
+
+Link de la entrevista:
+https://drive.google.com/file/d/14BadOpemWA4zMt7AnEL4eW4eM6E5hy4h/view?usp=sharing
 ---
 ### 2.2.3. Análisis de entrevistas
 ---
