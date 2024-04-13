@@ -140,3 +140,8 @@ Algunos de los beneficios que podrán obtener nuestros usuarios incluiran:
 <img src="./assets/1.2.2.4 Lean UX Canvas.jpg" width="1000"/>|
 
 ## 1.3. Segmentos objetivo
+
+| Segmento                               	| Edad       	| Sexo  	| Ubicación  	| Poder Adquisitivo 	| Nivel Socioeconómico 	| Hábito de Consumo                                                                                                                  	|
+|----------------------------------------	|------------	|-------	|------------	|-------------------	|----------------------	|------------------------------------------------------------------------------------------------------------------------------------	|
+| Propietarios de plantas                  	| 20-45 años 	| Ambos 	| Lima, Perú 	| Medio a Alto      	| Medio a Alto         	| Interesados en jardinería, dispuestos a invertir en cuidado de plantas y accesorios.                                               	|
+| Proveedores                            	| 25-60 años 	| Ambos 	| Lima, Perú 	| Medio a Alto      	| Medio a Alto         	| Ofrecen productos para el producto como macetas y sensores.     
