@@ -75,6 +75,11 @@ En el contexto de Flowerpot, los dueños de las macetas pueden gestionar sus ped
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+![Bounded Context Class Design Diagram](assets/class3.png)
+
 ---
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+![Bounded Context Database Design Diagram](assets/database3.png)
+
 ---
