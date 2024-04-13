@@ -5,6 +5,8 @@
 ## 3.2. User Stories
 ---
 ## 3.3. Impact Mapping
+>Impact Mapping
+![Impact-Map](./assets/3.3.Impact-Mapping/Impact-Map-Miro.png)
 ---
 ## 3.4. Product Backlog
 ---
