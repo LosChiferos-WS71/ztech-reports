@@ -58,47 +58,49 @@ Sabremos que tenemos éxito cuando veamos una mejora significativa en la capacid
 
 **User Outcome:**
 
-Algunos de los beneficios que podrán obtener nuestros usuarios incluiran:
+* Mejora en las habilidades de cuidado de plantas de los usuarios
 
-* Mayor facilidad para encontrar información específica sobre el cuidado de sus plantas, lo que les permitirá mantenerlas saludables y florecientes.
+* Recibir consejos utiles para el cuidado de su planta
 
-* La capacidad de recibir notificaciones y recordatorios personalizados para el riego, alimentación y otros cuidados necesarios para cada planta, lo que mejorará la eficiencia en el cuidado de las plantas.
+* Una mayor confianza en sus habilidades como propietarios de plantas.
 
-* Una mayor confianza en sus habilidades como cuidadores de plantas, al contar con orientación y asesoramiento específico para cada tipo de planta que posean.
+* Mayor visibilidad y alcance de su marca de los proovedores
 
-* Los propietarios de plantas podrán notar una mejora en la salud y el aspecto general de sus plantas, lo que aumentará su satisfacción y disfrute en su afición por la jardinería.
+* Aumento en las ventas de productos de los proovedores
 
 **Business Outcome:**
 
-* Nuestros servicios ayudarán a que los proveedores puedan llegar a un público más amplio, lo que aumentará sus ventas y la visibilidad de sus productos.
+* Aumento en la vida útil de las plantas de los propietarios de plantas.
 
-* Permitiremos a los propietarios de plantas acceder a una variedad de productos y recursos relacionados con el cuidado de plantas, lo que impulsará las ventas de nuestros socios proveedores y mejorará la experiencia general de los usuarios.
+* Mejora de la rentabilidad para los proveedores.
 
 * Buscamos ser la principal plataforma que permita a los propietarios de plantas obtener información relacionados con el cuidado de sus plantas, lo que nos posicionará como líderes en el mercado de la jardinería doméstica.
 
+
 **Features:**
 
-* Permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura, la humedad del suelo y los niveles de potasio. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
+* Permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura y la humedad del suelo. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
 
-* Los propietarios de plantas podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir información relevante como el tipo de planta, las condiciones ambientales ideales y el historial de cuidado.
+* Los propietarios de plantas podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir recomendaciones especificas.
 
 * Integrar un sistema  que notifique a los propietarios de plantas sobre condiciones climáticas adversas que puedan afectar a sus plantas, como heladas, olas de calor o fuertes lluvias. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
 
 * Incorporar una función de diagnóstico que permita a los propietarios de plantas identificar y tratar enfermedades y plagas comunes que afectan a sus plantas. Esto podría incluir una base de datos de síntomas, imágenes de referencia y soluciones recomendadas.
 
-* Proporcionar recomendaciones personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
+* Proporcionar informacion personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-* Creemos que al permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales, podrán identificar cambios o problemas de forma rápida, mejorando la salud y el crecimiento de las plantas. Sabremos que hemos tenido éxito si observamos un aumento del 10% en la longevidad promedio de las plantas registradas en 6 meses.
+* Creemos que lograremos un aumento en la vida útil de las plantas si los propietarios de plantas logran mejores habilidades para el cuidado de las plantas con la función de monitoreo en tiempo real de las condiciones ambientales de las plantas.
 
-* Creemos que al permitir la creación de perfiles personalizados para cada planta, los propietarios podrán recibir información relevante y adaptada a sus necesidades, mejorando su cuidado y crecimiento. Sabremos que es cierto si observamos un aumento del 30% en la interacción con la función de creación de perfiles en 1 mes.
+* Creemos que lograremos una mejora en las habilidades de cuidado de las plantas si los propietarios de plantas obtienen consejos útiles sobre el cuidado de las plantas con perfiles personalizados para cada característica de la planta.
 
-* Creemos que integrar un sistema de notificaciones sobre condiciones climáticas adversas permitirá a los usuarios tomar medidas preventivas, reduciendo el daño a sus plantas. Sabremos que hemos tenido éxito si observamos una disminución del 25% en las plantas afectadas por el clima en 1 año.
+* Creemos que lograremos una mayor confianza en las capacidades de los propietarios de plantas si los propietarios de plantas obtienen notificaciones oportunas sobre condiciones climáticas adversas con la función de notificaciones sobre condiciones climáticas adversas.
 
-* Creemos que incorporar una función de diagnóstico para identificar y tratar enfermedades y plagas comunes mejorará la salud y longevidad de las plantas. Sabremos que hemos tenido éxito si observamos una disminución del 30% en las plantas afectadas por enfermedades no tratadas en 6 meses.
+* Creemos que lograremos una mayor rentabilidad para los proveedores de jardinería si los propietarios de plantas logran la identificación y el tratamiento de enfermedades y plagas comunes con la función de diagnóstico de enfermedades y plagas.
 
-* Creemos que al proporcionar recomendaciones personalizadas de plantas, aumentará la diversidad y la salud de las plantas cultivadas por los usuarios. Sabremos que hemos tenido éxito si observamos un aumento del 20% en la variedad de plantas en 1 año.
+* Creemos que lograremos una mayor visibilidad de marca y alcance para los proveedores de jardinería si los propietarios de plantas obtienen información personalizada sobre las plantas basada en las preferencias del usuario y las condiciones de crecimiento con la función de información personalizada sobre las plantas.
 
 #### 1.2.2.4. Lean UX Canvas
 
