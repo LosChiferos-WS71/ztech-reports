@@ -43,6 +43,30 @@ En esta sección, se establecen los segmentos que se están considerando para ca
 | Limpieza del polvo     | Media /<br>Media               | Media /<br> Media            |
 | Control de plagas      | Media /<br>Alta                | Media /<br> Alta             |
 
+#### Tareas con Mayor Frecuencia e Importancia:
+- Propietario de Plantas:
+  - Buscar una buena maceta: Aunque la frecuencia es baja, la importancia es alta porque seleccionar la maceta adecuada es crucial para el crecimiento saludable de la planta.
+  - Regar la planta: Alta frecuencia y alta importancia, ya que el riego es una tarea fundamental y regular para mantener la salud de la planta.
+  - Controlar la humedad de la tierra: Tarea de alta frecuencia e importancia, especialmente para asegurar un entorno óptimo de crecimiento.
+  - Verificar que tenga luz solar: Alta frecuencia y alta importancia, ya que la luz solar es esencial para la fotosíntesis y el crecimiento de la planta.
+  - Medir la temperatura: Alta frecuencia e importancia para monitorear las condiciones ambientales que afectan la planta.
+
+- Proveedor:
+  - Buscar una buena maceta: Alta frecuencia e importancia, ya que la selección de macetas de calidad es esencial para ofrecer productos de alto valor.
+  - Indagar sobre plantas y su cuidado: Media frecuencia pero alta importancia, ya que comprender las necesidades de las plantas es fundamental para ofrecer productos y servicios adecuados.
+  - Regar la planta: Tarea común con alta frecuencia e importancia, ya que implica proporcionar soluciones efectivas para el cuidado de las plantas.
+  - Controlar la humedad de la tierra: Similar al propietario de plantas, alta frecuencia e importancia para garantizar productos de calidad.
+  - Verificar que tenga luz solar: Tarea clave con alta frecuencia e importancia, similar al propietario de plantas.
+  - Medir la temperatura: Importante para garantizar la calidad de los productos y servicios ofrecidos.
+
+#### Principales Diferencias:
+- El propietario de plantas realiza tareas relacionadas directamente con el cuidado y mantenimiento de las plantas en su hogar, como regar, controlar la humedad y la luz solar.
+- El proveedor se centra en actividades más relacionadas con la producción y suministro de productos relacionados con el cuidado de plantas, como seleccionar macetas de calidad y comprender las necesidades de las plantas.
+
+Coincidencias entre los User Personas:
+- Ambos segmentos comparten tareas relacionadas con el cuidado básico de las plantas, como el riego, control de la humedad, luz solar y temperatura.
+- La importancia de comprender las necesidades específicas de las plantas y ofrecer soluciones adecuadas es fundamental tanto para el propietario de plantas como para el proveedor
+
 ---
 ### 2.3.3. User Journey Mapping
 Resumimos el viaje del cliente desde el descubrimiento de la maceta inteligente hasta su uso continuo y soporte. Se enfoca en la experiencia desde el registro en la app, la compra y configuración de la maceta, hasta la satisfacción o frustración con el soporte.
