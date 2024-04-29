@@ -86,7 +86,7 @@ Resumimos el viaje del proveedor desde el registro en la plataforma hasta la ges
 ---
 ### 2.3.5. As-is Scenario Mapping
 > Propietario de Plantas
-![as-is-cliente](./assets/2.3.5.AsIsScenarioMapping/As-Is%20Scenario%20Mapping%20Cliente.png)
+![as-is-cliente](./assets/2.3.5.AsIsScenarioMapping/as-is-map-propietario.JPG)
 - Áreas Positivas:
   - Interés y emoción por probar nuevas tecnologías.
   - Satisfacción por la compra y mejoras visibles en el cuidado de las plantas.
@@ -98,7 +98,7 @@ Resumimos el viaje del proveedor desde el registro en la plataforma hasta la ges
   - Necesidad de aprender más sobre la configuración avanzada de sensores.
 
 > Proveedor
-![as-is-proveedor](./assets/2.3.5.AsIsScenarioMapping/As-Is%20Scenario%20Mapping%20Proveedor.png)
+![as-is-proveedor](./assets/2.3.5.AsIsScenarioMapping/as-is-map-proveedor.JPG)
 - Áreas Positivas:
   - Interés en colaborar y mejorar la eficiencia en la gestión de pedidos.
   - Expectativas de respuestas efectivas en el soporte.
