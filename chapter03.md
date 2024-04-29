@@ -6,7 +6,7 @@
 ---
 ## 3.3. Impact Mapping
 >Impact Mapping
-![Impact-Map](./assets/3.3.Impact-Mapping/Impact-Map-Miro.png)
+![Impact-Map](./assets/3.3.Impact-Mapping/impact-mapping.JPG)
 ---
 ## 3.4. Product Backlog
 ---
