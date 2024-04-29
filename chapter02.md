@@ -29,8 +29,20 @@ Los clientes buscan soluciones confiables, integrables y adaptables a sus necesi
 ---
 ### 2.3.2. User Task Matrix
 En esta sección, se establecen los segmentos que se están considerando para cada user persona: el cliente (usuario final) y el proveedor de sensores. La User Task Matrix proporcionará una visión detallada de las tareas específicas que cada segmento debe realizar en relación con nuestra plataforma de macetas inteligentes y sensores, ayudando así a identificar las responsabilidades y flujos de trabajo clave para cada grupo de usuarios.
-> User Task Matrix
-![User Task Matrix](./assets/2.3.2.UserTaskMatrix/TaskMatrix.png)
+
+
+|   Tarea                | Propietario de Plantas         | Proveedor                    |
+|------------------------|--------------------------------|------------------------------|
+|              | **Frecuencia**/<br>**Importancia** | **Frecuencia**/<br>**Importancia** |
+| Buscar una buena maceta| Baja /<br>Alta                 | Alta /<br> Alta              |
+| Indagar sobre plantas y su cuidado | Media/<br>Alta     | Media /<br> Alta             |
+| Regar la planta        | Alta /<br>Alta                 | Alta /<br> Alta              |
+| Controlar la humedad de la tierra | Alta /<br>Alt       | Alta /<br> Alta              |
+| Verificar que tenga luz solar | Alta/<br>Alta           | Alta /<br> Alta              |
+| Medir la temperatura   | Alta /<br>Alta                 | Alta /<br> Alta              |
+| Limpieza del polvo     | Media /<br>Media               | Media /<br> Media            |
+| Control de plagas      | Media /<br>Alta                | Media /<br> Alta             |
+
 ---
 ### 2.3.3. User Journey Mapping
 Resumimos el viaje del cliente desde el descubrimiento de la maceta inteligente hasta su uso continuo y soporte. Se enfoca en la experiencia desde el registro en la app, la compra y configuración de la maceta, hasta la satisfacción o frustración con el soporte.
