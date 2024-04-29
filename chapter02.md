@@ -63,7 +63,7 @@ En esta sección, se establecen los segmentos que se están considerando para ca
 - El propietario de plantas realiza tareas relacionadas directamente con el cuidado y mantenimiento de las plantas en su hogar, como regar, controlar la humedad y la luz solar.
 - El proveedor se centra en actividades más relacionadas con la producción y suministro de productos relacionados con el cuidado de plantas, como seleccionar macetas de calidad y comprender las necesidades de las plantas.
 
-Coincidencias entre los User Personas:
+#### Coincidencias entre los User Personas:
 - Ambos segmentos comparten tareas relacionadas con el cuidado básico de las plantas, como el riego, control de la humedad, luz solar y temperatura.
 - La importancia de comprender las necesidades específicas de las plantas y ofrecer soluciones adecuadas es fundamental tanto para el propietario de plantas como para el proveedor
 
