@@ -22,10 +22,10 @@ Nuestro proyecto se basa en entender las necesidades tanto de los clientes como 
 Los clientes buscan soluciones confiables, integrables y adaptables a sus necesidades, mientras que los proveedores valoran la colaboración, la escalabilidad y la diferenciación competitiva. Esta comprensión nos impulsa a crear artefactos que no solo satisfagan al cliente final, sino que también generen oportunidades para nuestros proveedores y promuevan la innovación en nuestro sector.
 
 > Propietario de Plantas
-![User Persona Cliente](./assets/2.3.1.UserPersona/User-Persona-Cliente.png)
+![User Persona Cliente](./assets/2.3.1.UserPersona/user-persona-propietario.png)
 
 > Proveedor
-![User Persona Proveedor](./assets/2.3.1.UserPersona/User-Persona-Proveedor.png)
+![User Persona Proveedor](./assets/2.3.1.UserPersona/user-persona-proveedor.png)
 ---
 ### 2.3.2. User Task Matrix
 En esta sección, se establecen los segmentos que se están considerando para cada user persona: el cliente (usuario final) y el proveedor de sensores. La User Task Matrix proporcionará una visión detallada de las tareas específicas que cada segmento debe realizar en relación con nuestra plataforma de macetas inteligentes y sensores, ayudando así a identificar las responsabilidades y flujos de trabajo clave para cada grupo de usuarios.
