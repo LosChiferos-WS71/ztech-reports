@@ -49,9 +49,13 @@ La demanda de soluciones inteligentes para el cuidado de plantas está en aument
 #### 1.2.2.1. Lean UX Problem Statements
 
 El estado actual del cuidado de plantas domésticas se ha centrado principalmente en herramientas y productos genéricos que no abordan las necesidades específicas de cada planta ni de cada cuidador. Además, los proveedores enfrentan desafíos para adaptarse a la demanda del mercado y ofrecer soluciones más personalizadas y adaptadas a las necesidades de los propietarios de plantas.
+
 Lo que los productos y servicios existentes no logran abordar es la falta de personalización y adaptabilidad a las necesidades individuales de las plantas y sus cuidadores, así como la integración de soluciones avanzadas que faciliten un cuidado más eficiente y efectivo.
+
 Nuestro producto abordará esta brecha mediante el desarrollo de una plataforma integral que combine tecnología avanzada, información personalizada y recursos especializados para el cuidado de plantas domésticas. Esta plataforma servirá tanto a propietarios de plantas como a proveedores de materiales y suministros para el cuidado de plantas.
+
 Nuestro enfoque inicial será el segmento de propietarios de plantas domésticas en entornos urbanos que buscan soluciones prácticas y personalizadas para mantener sus plantas saludables y prósperas, a pesar de sus horarios ocupados y las limitaciones de espacio. Al mismo tiempo, nos dirigiremos a proveedores de materiales y suministros para el cuidado de plantas que desean ofrecer soluciones innovadoras y productos de alta calidad que satisfagan las necesidades del mercado.
+
 Sabremos que tenemos éxito cuando veamos una mejora significativa en la capacidad de los propietarios de plantas para mantener sus plantas saludables y florecientes, así como una mayor satisfacción y confianza en sus habilidades como cuidadores de plantas, al mismo tiempo que los proveedores de materiales y suministros puedan adaptarse eficazmente a la demanda del mercado y ofrecer soluciones más personalizadas y adaptadas a las necesidades de los clientes.
 
 #### 1.2.2.2. Lean UX Assumptions
