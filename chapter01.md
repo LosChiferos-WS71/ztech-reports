@@ -48,7 +48,7 @@ La demanda de soluciones inteligentes para el cuidado de plantas está en aument
 ---
 #### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual del cuidado de plantas domésticas se ha centrado principalmente en herramientas y productos genéricos que no abordan las necesidades específicas de cada planta ni de cada cuidador. Además, los proveedores de materiales y suministros para el cuidado de plantas enfrentan desafíos para adaptarse a la demanda del mercado y ofrecer soluciones más personalizadas y adaptadas a las necesidades de los propietarios de plantas.
+El estado actual del cuidado de plantas domésticas se ha centrado principalmente en herramientas y productos genéricos que no abordan las necesidades específicas de cada planta ni de cada cuidador. Además, los proveedores enfrentan desafíos para adaptarse a la demanda del mercado y ofrecer soluciones más personalizadas y adaptadas a las necesidades de los propietarios de plantas.
 Lo que los productos y servicios existentes no logran abordar es la falta de personalización y adaptabilidad a las necesidades individuales de las plantas y sus cuidadores, así como la integración de soluciones avanzadas que faciliten un cuidado más eficiente y efectivo.
 Nuestro producto abordará esta brecha mediante el desarrollo de una plataforma integral que combine tecnología avanzada, información personalizada y recursos especializados para el cuidado de plantas domésticas. Esta plataforma servirá tanto a propietarios de plantas como a proveedores de materiales y suministros para el cuidado de plantas.
 Nuestro enfoque inicial será el segmento de propietarios de plantas domésticas en entornos urbanos que buscan soluciones prácticas y personalizadas para mantener sus plantas saludables y prósperas, a pesar de sus horarios ocupados y las limitaciones de espacio. Al mismo tiempo, nos dirigiremos a proveedores de materiales y suministros para el cuidado de plantas que desean ofrecer soluciones innovadoras y productos de alta calidad que satisfagan las necesidades del mercado.
@@ -58,7 +58,7 @@ Sabremos que tenemos éxito cuando veamos una mejora significativa en la capacid
 
 **User Outcome:**
 
-* Mejora en las habilidades de cuidado de plantas de los usuarios
+* Mejora en las habilidades de cuidado de plantas de los propietarios de plantas
 
 * Recibir consejos utiles para el cuidado de su planta
 
@@ -79,15 +79,15 @@ Sabremos que tenemos éxito cuando veamos una mejora significativa en la capacid
 
 **Features:**
 
-* Permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura y la humedad del suelo. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
+* Permitir a los propietarios de plantas monitorear en tiempo real las condiciones ambientales de sus plantas, incluyendo la luz ultravioleta, la temperatura y la humedad del suelo y estas tambien se les notifique. Esto proporcionaría una visión detallada del entorno de crecimiento de las plantas y ayudaría a identificar cualquier cambio o problema de forma rápida.
 
 * Los propietarios de plantas podrán crear perfiles personalizados para cada una de sus plantas, donde podrán recibir recomendaciones especificas.
 
-* Integrar un sistema  que notifique a los propietarios de plantas sobre condiciones climáticas adversas que puedan afectar a sus plantas, como heladas, olas de calor o fuertes lluvias. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
+* Integrar un sistema de recomendaciones para sus plantas que los propietarios de plantas hayan ingresado en el sistema. Esto permitiría a los usuarios tomar medidas preventivas para proteger sus plantas.
 
-* Incorporar una función de diagnóstico que permita a los propietarios de plantas identificar y tratar enfermedades y plagas comunes que afectan a sus plantas. Esto podría incluir una base de datos de síntomas, imágenes de referencia y soluciones recomendadas.
+* Incorporar una función de diagnóstico que permita a los propietarios de plantas identificar y tratar enfermedades y plagas comunes que afectan a sus plantas.
 
-* Proporcionar informacion personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
+* Proporcionar información personalizadas de plantas basadas en las preferencias y condiciones de cultivo del usuario. Esto podría incluir sugerencias de plantas adecuadas para interiores, exteriores, espacios soleados o sombreados, y niveles de experiencia del cuidador.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -96,7 +96,7 @@ Sabremos que tenemos éxito cuando veamos una mejora significativa en la capacid
 
 * Creemos que lograremos una mejora en las habilidades de cuidado de las plantas si los propietarios de plantas obtienen consejos útiles sobre el cuidado de las plantas con perfiles personalizados para cada característica de la planta.
 
-* Creemos que lograremos una mayor confianza en las capacidades de los propietarios de plantas si los propietarios de plantas obtienen notificaciones oportunas sobre condiciones climáticas adversas con la función de notificaciones sobre condiciones climáticas adversas.
+* Creemos que lograremos una mayor confianza en las capacidades de los propietarios de plantas si los propietarios de plantas obtienen notificaciones oportunas sobre condiciones climáticas adversas con un sistema de recomendaciones para sus plantas.
 
 * Creemos que lograremos una mayor rentabilidad para los proveedores de jardinería si los propietarios de plantas logran la identificación y el tratamiento de enfermedades y plagas comunes con la función de diagnóstico de enfermedades y plagas.
 
