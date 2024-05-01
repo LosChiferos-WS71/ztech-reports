@@ -159,7 +159,7 @@ Bounded Context Canvas es una herramienta colaborativa para diseñar y documenta
 ---
 ## 4.2. Tactical-Level Domain-Driven Design
 ---
-### 4.2.1. Bounded Context: Account 
+### 4.2.1. Bounded Context: Account
 ---
 #### 4.2.1.1. Domain Layer
 
