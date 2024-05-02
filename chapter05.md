@@ -106,7 +106,7 @@ Los sistemas de etiquetado se utilizan para comunicar información al usuario, e
 - Author: Equipo Ztech
 
 ---
-**SEO Tags y Meta Tags para la Aplicación ;óvil de Ztech**
+**SEO Tags y Meta Tags para la Aplicación Móvil de Ztech**
 - App Title: Ztech – Cuidado Inteligente de Plantas
 - App Keywords: maceta inteligente, monitor de plantas, cuidado planta app, jardinería digital, salud vegetal
 - App Subtitle: Tu Jardín Tecnológico en la Palma de tu Mano
