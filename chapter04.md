@@ -29,41 +29,41 @@ El Bounded Context de "Claim" aborda la gestión de reclamos relacionados con la
 
 ---
 #### 4.2.4.1. Domain Layer
-**Entidades**: `Reclamo`, `Maceta`, `ResoluciónReclamo`.
+**Entities**: `Claim`, `Pot`, `ClaimResolution`.
 
-**Objetos de Valor**: `DetalleReclamo`, `EstadoReclamo`.
+**Value Objects**: `ClaimDetail`, `ClaimStatus`.
 
-**Agregados**: `ProcesoReclamo` que incluye `Reclamo`, `Maceta`, y `ResoluciónReclamo`.
+**Aggregates**: `ClaimProcess` que incluye `Claim`, `Pot`, y `ClaimResolution`.
 
-**Repositorios**: `RepositorioReclamos`, `RepositorioMacetas` para la gestión de reclamos y datos de macetas.
+**Repositories**: `ClaimRepository`, `PotRepository` para la gestión de reclamos y datos de macetas.
 
-**Servicios de Dominio**: `ServicioReclamos` encargado de la lógica de negocio relacionada con la creación y resolución de reclamos.
+**Domain Services**: `ClaimService` encargado de la lógica de negocio relacionada con la creación y resolución de reclamos.
 
 ---
 #### 4.2.4.2. Interface Layer
 **API Endpoints**: Rutas como POST `/claims` para la creación de reclamos, GET `/claims/{id}` para obtener el estado de un reclamo.
 
-**DTOs**: `ReclamoDTO`, `ResoluciónReclamoDTO` para la transferencia de datos de reclamos.
+**DTOs**: `ClaimDTO`, `ClaimResolutionDTO` para la transferencia de datos de reclamos.
 
-**Controladores**: `ControladorReclamos` para procesar las solicitudes relacionadas con los reclamos.
+**Controllers**: `ClaimController` para procesar las solicitudes relacionadas con los reclamos.
 
 ---
 #### 4.2.4.3. Application Layer
-**Servicios de Aplicación**: `ServicioAplicaciónReclamos` que administra las operaciones de reclamos.
+**Application Services**: `ClaimApplicationService` que administra las operaciones de reclamos.
 
-**Comandos/Consultas**: `CrearReclamoCommand`, `ConsultarEstadoReclamoQuery`.
+**Commands/Queries**: `CreateClaimCommand`, `QueryClaimStatus`.
 
-**Manejadores de Comandos**: `CrearReclamoHandler`, `ConsultarEstadoReclamoHandler`.
+**Command Handlers**: `CreateClaimHandler`, `QueryClaimStatusHandler`.
 
 ---
 #### 4.2.4.4. Infrastructure Layer
-**Implementación de Repositorios**: Como `SQLReclamoRepository` para la comunicación con la base de datos.
+**Repository Implementation**: Como `SQLClaimRepository` para la comunicación con la base de datos.
 
-**Servicios Externos**: Integraciones con servicios de logística para seguimiento de envíos y sistemas de gestión de atención al cliente.
+**External Services**: Integraciones con servicios de logística para seguimiento de envíos y sistemas de gestión de atención al cliente.
 
-**Factories**: Para la creación de `Reclamo` y otras entidades del dominio.
+**Factories**: Para la creación de `Claim` y otras entidades del dominio.
 
-**ORM / Acceso a la Base de Datos**: Herramientas como Entity Framework para el mapeo objeto-relacional.
+**ORM / Database Access**: Herramientas como Entity Framework para el mapeo objeto-relacional.
 
 ---
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
