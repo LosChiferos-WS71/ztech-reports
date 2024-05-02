@@ -84,7 +84,7 @@
 ---
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Bounded Context Class Design Diagram](/assets/boudedclases1.png)
+![Bounded Context Class Design Diagram](/assets/class1.png)
 
 
 ---
