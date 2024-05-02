@@ -29,43 +29,43 @@ La gestión de inventario es crucial en la operación de empresas que requieren 
 ---
 #### 4.2.2.1. Domain Layer
 
-**Entidades**: `Pedido`, `ArtículoInventario`, `ActualizaciónInventario`, `HistorialPedido`.
+**Entities**: `Order`, `InventoryItem`, `InventoryUpdate`, `OrderHistory`.
 
-**Objetos de Valor**: `Cantidad`, `InformaciónProducto`, `EstadoPedido`.
+**Value Objects**: `Quantity`, `ProductInformation`, `OrderStatus`.
 
-**Agregados**: `Pedido` que incluye `ArtículoInventario` y `EstadoPedido`.
+**Aggregates**: `Order` que incluye `InventoryItem` y `OrderStatus`.
 
-**Repositorios**: `RepositorioPedido`, `RepositorioInventario` para acceso y manipulación de los datos.
+**Repositories**: `OrderRepository`, `InventoryRepository` para acceso y manipulación de los datos.
 
-**Servicios de Dominio**: `ServicioGestiónStock` para operaciones de actualización y mantenimiento del inventario.
+**Domain Services**: `StockManagementService` para operaciones de actualización y mantenimiento del inventario.
 
 ---
 #### 4.2.2.2. Interface Layer
 
-**API Endpoints**: Rutas como POST `/pedidos` para nuevos pedidos, GET `/inventario` para consulta de inventario.
+**API Endpoints**: Rutas como POST `/orders` para nuevos pedidos, GET `/inventory` para consulta de inventario.
 
-**DTOs**: `PedidoDTO`, `ArtículoInventarioDTO` para la estructura de datos intercambiados.
+**DTOs**: `OrderDTO`, `InventoryItemDTO` para la estructura de datos intercambiados.
 
-**Controladores**: `ControladorPedido`, `ControladorInventario` para manejar solicitudes API y delegar a la capa de aplicación.
+**Controllers**: `OrderController`, `InventoryController` para manejar solicitudes API y delegar a la capa de aplicación.
 
 ---
 #### 4.2.2.3. Application Layer
 
-**Servicios de Aplicación**: `ServicioAplicaciónPedido` que maneja la lógica de creación y procesamiento de pedidos.
+**Application Services**: `OrderApplicationService` que maneja la lógica de creación y procesamiento de pedidos.
 
-**Comandos/Consultas**: `CrearPedidoComando`, `ConsultarInventarioConsulta`.
+**Commands/Queries**: `CreateOrderCommand`, `QueryInventoryQuery`.
 
-**Manejadores de Comandos**: `CrearPedidoManejador`, `ActualizarInventarioManejador`.
+**Command Handlers**: `CreateOrderHandler`, `UpdateInventoryHandler`.
 
 ---
 #### 4.2.2.4. Infrastructure Layer
-**Implementación de Repositorios**: Como `RepositorioPedidoSQL` para interacciones con la base de datos.
+**Repository Implementation**: Como `OrderSQLRepository` para interacciones con la base de datos.
 
-**Servicios Externos**: Integración con sistemas de proveedores para pedidos y actualización de inventario.
+**External Services**: Integración con sistemas de proveedores para pedidos y actualización de inventario.
 
 **Factories**: Creación de instancias de agregados o entidades.
 
-**ORM / Acceso a la Base de Datos**: Herramientas para mapear objetos a registros de base de datos.
+**ORM / Database Access**: Herramientas para mapear objetos a registros de base de datos.
 
 ---
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
