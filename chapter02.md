@@ -25,7 +25,7 @@ Los clientes buscan soluciones confiables, integrables y adaptables a sus necesi
 ![User Persona Cliente](./assets/2.3.1.UserPersona/user-persona-propietario.png)
 
 > Proveedor
-![User Persona Proveedor](./assets/2.3.1.UserPersona/user-persona-proveedor.png)
+![User Persona Proveedor](./assets/2.3.1.UserPersona/User-Persona-Proveedor.png)
 ---
 ### 2.3.2. User Task Matrix
 En esta sección, se establecen los segmentos que se están considerando para cada user persona: el cliente (usuario final) y el proveedor de sensores. La User Task Matrix proporcionará una visión detallada de las tareas específicas que cada segmento debe realizar en relación con nuestra plataforma de macetas inteligentes y sensores, ayudando así a identificar las responsabilidades y flujos de trabajo clave para cada grupo de usuarios.
