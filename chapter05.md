@@ -60,6 +60,59 @@ Los sistemas de etiquetado se utilizan para comunicar información al usuario, e
 ---
 ### 5.2.3. SEO Tags and Meta Tags
 ---
+**SEO Tags y Meta Tags para la Landing Page de Ztech**
+- Title: Ztech – Cuida Tus Plantas con Tecnología Avanzada
+- Meta Description: Conoce Ztech, la innovadora maceta inteligente que te permite monitorear y optimizar el cuidado de tus plantas desde cualquier lugar. ¡Descarga nuestra app y transforma tu jardinería!
+- Meta Keywords: tecnología para plantas, cuidado inteligente de plantas, maceta inteligente, monitoreo de plantas, app jardinería
+- Author: Equipo Ztech
+
+---
+**SEO Tags y Meta Tags para la Aplicación Web de Ztech**
+
+**Página Principal**
+- Title: Ztech - La Inteligencia al Servicio de Tus Plantas
+- Meta Description: Experimenta el futuro del cuidado de plantas con Ztech. Nuestra tecnología avanzada en macetas inteligentes te permite monitorizar y gestionar el bienestar de tus plantas fácilmente.
+- Meta Keywords: maceta inteligente, cuidado de plantas, app de jardinería, tecnología para plantas, Ztech
+- Author: Equipo Ztech
+
+**Sección de Inicio de Sesión y Registro**
+- Title: Inicia Sesión o Regístrate - Ztech
+- Meta Description: Accede a tu cuenta de Ztech o crea una nueva para empezar a disfrutar de la mejor tecnología para el cuidado de tus plantas.
+- Meta Keywords: iniciar sesión en Ztech, registro Ztech, cuenta Ztech
+- Author: Equipo Ztech
+
+**Sección de Configuración de Maceta**
+- Title: Configura Tu Maceta Inteligente - Ztech
+- Meta Description: Personaliza los ajustes de tu maceta inteligente en Ztech para adaptarla perfectamente a las necesidades específicas de tus plantas.
+- Meta Keywords: configurar maceta inteligente, personalización de cuidado de plantas, Ztech configuración
+- Author: Equipo Ztech
+
+**Sección de Perfil de Usuario**
+- Title: Tu Perfil en Ztech - Gestiona Tu Cuenta
+- Meta Description: Gestiona tu perfil en Ztech y ajusta tus preferencias para obtener una experiencia personalizada en el cuidado de tus plantas.
+- Meta Keywords: perfil Ztech, configuración de cuenta Ztech, usuario de Ztech
+- Author: Equipo Ztech
+
+**Sección de Agregar Nuevas Plantas**
+- Title: Agrega Nuevas Plantas a Tu Jardín Ztech
+- Meta Description: Añade nuevas plantas a tu cuenta de Ztech y utiliza nuestra avanzada tecnología para asegurar su crecimiento y salud óptimos.
+- Meta Keywords: agregar plantas Ztech, nueva planta en maceta inteligente, Ztech jardinería
+- Author: Equipo Ztech
+
+**Sección de Consejos y Recomendaciones**
+- Title: Consejos para el Cuidado de Plantas - Ztech
+- Meta Description: Descubre consejos y recomendaciones personalizadas para el cuidado de tus plantas basados en datos reales de tus macetas inteligentes Ztech.
+- Meta Keywords: consejos plantas, cuidado plantas Ztech, recomendaciones jardinería
+- Author: Equipo Ztech
+
+---
+**SEO Tags y Meta Tags para la Aplicación ;óvil de Ztech**
+- App Title: Ztech – Cuidado Inteligente de Plantas
+- App Keywords: maceta inteligente, monitor de plantas, cuidado planta app, jardinería digital, salud vegetal
+- App Subtitle: Tu Jardín Tecnológico en la Palma de tu Mano
+- App Description: Ztech te transforma en un experto en plantas sin esfuerzo. Con nuestra aplicación, ajustar y monitorizar las necesidades específicas de cada planta es simple y eficaz. Equipada con sensores avanzados, nuestra maceta inteligente registra y ajusta condiciones como la humedad, temperatura y luz UV para promover la salud óptima de tus plantas. Desde configuraciones detalladas de macetas hasta consejos personalizados basados en datos reales, Ztech es la herramienta esencial para todo amante de las plantas. ¡Descubre cómo Ztech puede hacer que tu jardinería sea más inteligente y conectada! 
+
+---
 ### 5.2.4. Searching Systems
 ---
 Los sistemas para buscar información son muy importantes, para que el usuario pueda buscar y encontrar lo que necesita de manera eficiente y eficaz.
