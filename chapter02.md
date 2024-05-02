@@ -30,18 +30,78 @@ Los clientes buscan soluciones confiables, integrables y adaptables a sus necesi
 ### 2.3.2. User Task Matrix
 En esta sección, se establecen los segmentos que se están considerando para cada user persona: el cliente (usuario final) y el proveedor de sensores. La User Task Matrix proporcionará una visión detallada de las tareas específicas que cada segmento debe realizar en relación con nuestra plataforma de macetas inteligentes y sensores, ayudando así a identificar las responsabilidades y flujos de trabajo clave para cada grupo de usuarios.
 
-
-|   Tarea                | Propietario de Plantas         | Proveedor                    |
-|------------------------|--------------------------------|------------------------------|
-|              | **Frecuencia**/<br>**Importancia** | **Frecuencia**/<br>**Importancia** |
-| Buscar una buena maceta| Baja /<br>Alta                 | Alta /<br> Alta              |
-| Indagar sobre plantas y su cuidado | Media/<br>Alta     | Media /<br> Alta             |
-| Regar la planta        | Alta /<br>Alta                 | Alta /<br> Alta              |
-| Controlar la humedad de la tierra | Alta /<br>Alt       | Alta /<br> Alta              |
-| Verificar que tenga luz solar | Alta/<br>Alta           | Alta /<br> Alta              |
-| Medir la temperatura   | Alta /<br>Alta                 | Alta /<br> Alta              |
-| Limpieza del polvo     | Media /<br>Media               | Media /<br> Media            |
-| Control de plagas      | Media /<br>Alta                | Media /<br> Alta             |
+<table>
+	<tbody>
+		<tr>
+			<td>Task</td>
+			<td colspan="2">Plant Owner</td>
+			<td colspan="2">Supplier</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Frecuencia</td>
+			<td>Importancia</td>
+			<td>Frecuencia</td>
+			<td>Importancia</td>
+		</tr>
+		<tr>
+			<td>Buscar una buena maceta</td>
+			<td>Baja</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Indagar sobre plantas y su cuidado</td>
+			<td>Media</td>
+			<td>Alta</td>
+			<td>Media</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Regar la planta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Controlar la humedad de la tierra</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Verificar que tenga luz solar</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Medir la temperatura</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td>Limpieza del polvo</td>
+			<td>Media</td>
+			<td>Media</td>
+			<td>Media</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td>Control de plagas</td>
+			<td>Media</td>
+			<td>Alta</td>
+			<td>Media</td>
+			<td>Alta</td>
+		</tr>
+	</tbody>
+</table>
 
 #### Tareas con Mayor Frecuencia e Importancia:
 - Propietario de Plantas:
