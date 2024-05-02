@@ -42,13 +42,8 @@
 |Nature engagement (Compromiso con la naturaleza)|Interacción activa y consciente con entornos naturales y plantas.|
 |Space optimization (Optimización del espacio)|El uso eficiente de áreas limitadas para el cultivo de plantas.|
 |Gardening trend (Tendencia de jardinería)|La popularidad creciente y el interés en el cultivo de plantas y jardinería.|
-|Smart Pot (Maceta Inteligente)|Contenedor para plantas equipado con funciones automáticas para optimizar las condiciones ambientales necesarias para la salud y el crecimiento de las plantas.|
 |Plant Care Information (Información de Cuidado de Plantas)|Datos cruciales sobre factores ambientales como la luz, temperatura y humedad del suelo, esenciales para el mantenimiento óptimo de las plantas.|
-|Care Tips (Consejos de Cuidado)|Orientación personalizada sobre cómo cuidar las plantas, proporcionada para ayudar a los usuarios a mejorar la salud y el crecimiento de sus vegetales y flores.|
-|Condition Monitoring (Monitoreo de Condiciones)|Seguimiento continuo de las condiciones vitales de las plantas para mantener a los usuarios informados sobre el estado de salud de sus vegetales y flores.|
-|Health Status (Estado de Salud de la Planta)|Evaluación del bienestar actual de la planta, que informa a los usuarios sobre las necesidades específicas de cuidado de sus plantas.|
 |Growth Optimization (Optimización del Crecimiento)|Estrategias y prácticas recomendadas destinadas a mejorar el desarrollo y floración de las plantas, asegurando que crezcan de manera saludable y vigorosa.|
-|Environmental Adjustment (Ajuste Ambiental)|Modificaciones automáticas o recomendadas en el entorno de la planta, como la regulación de la humedad o la temperatura, para promover un ambiente de crecimiento ideal.|
 |Nutrient Management (Manejo de Nutrientes)|Supervisión y ajuste de los niveles de nutrientes como el potasio en el suelo, crucial para el mantenimiento y la fertilidad de las plantas.|
 |Watering Schedule (Programación de Riego)|Planificación automatizada o recomendada del riego para asegurar que las plantas reciban la cantidad adecuada de agua sin exceso ni déficit.|
 |Light Management (Gestión de la Luz)|Control de la exposición a la luz ultravioleta y otras formas de luz, ajustándola para satisfacer las necesidades específicas de diferentes tipos de plantas.|
