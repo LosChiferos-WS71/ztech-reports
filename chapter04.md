@@ -137,24 +137,24 @@ Bounded Context Canvas es una herramienta colaborativa para diseñar y documenta
 ![](./assets/4.1.1.3%20Bounded%20Context%20Canvases/IoT%20Solution%20Context.png)
 
 ### 4.1.2. Context Mapping
-![Context Mapping](/assets/4.1.2ContextMapping/Context_Map.png)
+![Context Mapping](./assets/4.1.2ContextMapping/Context_Map.png)
 ---
 ### 4.1.3. Software Architecture
 ---
 #### 4.1.3.1. Software Architecture System Landscape Diagram
-![System Landscape Diagram](/assets/4.1.3.1SystemLandscapeDiagram/+ZTech_System_Landscape_Diagram.png)
+![System Landscape Diagram](./assets/4.1.3.1SystemLandscapeDiagram/+ZTech_System_Landscape_Diagram.png)
 
 ---
 #### 4.1.3.2. Software Architecture Context Level Diagrams
-![Context Level Diagram](/assets/4.1.3.2ContextLevelDiagram/+ZTech_Context_Diagram.png)
+![Context Level Diagram](./assets/4.1.3.2ContextLevelDiagram/+ZTech_Context_Diagram.png)
 
 ---
 #### 4.1.3.3. Software Architecture Container Level Diagrams
-![Container Level Diagram](/assets/4.1.3.3ContainerLevelDiagram/+ZTech_Container_Diagram.png)
+![Container Level Diagram](./assets/4.1.3.3ContainerLevelDiagram/+ZTech_Container_Diagram.png)
 
 ---
 #### 4.1.3.4. Software Architecture Deployment Diagrams
-![Deployment Diagram](/assets/4.1.3.4DeploymentDiagram/+ZTech_Deployment_Diagram.png)
+![Deployment Diagram](./assets/4.1.3.4DeploymentDiagram/+ZTech_Deployment_Diagram.png)
 
 ---
 ## 4.2. Tactical-Level Domain-Driven Design
@@ -208,20 +208,20 @@ Bounded Context Canvas es una herramienta colaborativa para diseñar y documenta
 ---
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 Component Diagram](/assets/componentAccount.png)
+![C4 Component Diagram](./assets/componentAccount.png)
 
 --- 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Bounded Context Class Design Diagram](/assets/boudedclases1.png)
+![Bounded Context Class Design Diagram](./assets/boudedclases1.png)
 
 
 ---
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](/assets/Bounded1.png)
+![Bounded Context Database Design Diagram](./assets/Bounded1.png)
 
 ---
 
@@ -271,18 +271,18 @@ La gestión de inventario es crucial en la operación de empresas que requieren 
 ---
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 component diagram](assets/componentInventory.png)
+![C4 component diagram](./assets/componentInventory.png)
 
 ---
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
-![Bounded Context Database Design Diagram](assets/class2.png)
+![Bounded Context Database Design Diagram](./assets/class2.png)
 
 ---
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](assets/database2.png)
+![Bounded Context Database Design Diagram](./assets/database2.png)
 
 ---
 
@@ -334,18 +334,18 @@ En el contexto de Flowerpot, los dueños de las macetas pueden gestionar sus ped
 ---
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 component Flowerpot](assets/componentflowerpot.png)
+![C4 component Flowerpot](./assets/componentflowerpot.png)
 
 ---
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
-![Bounded Context Class Design Diagram](assets/class3.png)
+![Bounded Context Class Design Diagram](./assets/class3.png)
 
 ---
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](assets/database3.png)
+![Bounded Context Database Design Diagram](./assets/database3.png)
 
 ---
 
@@ -393,18 +393,18 @@ El Bounded Context de "Claim" aborda la gestión de reclamos relacionados con la
 ---
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 component diagram](assets/componentClaim.png)
+![C4 component diagram](./assets/componentClaim.png)
 
 ---
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Database Design Diagram](assets/class4.png)
+![Database Design Diagram](./assets/class4.png)
 
 ---
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
-![Database Design Diagram](assets/database4.png)
+![Database Design Diagram](./assets/database4.png)
 
 
 ---
@@ -453,18 +453,16 @@ El Bounded Context de "IoT Solution" se centra en la solución integral de Inter
 ---
 #### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ZTech IoT Component Diagram](/assets/4.2.5.5ZTech%20IoT%20Component%20Diagram/ZTech%20IoT%20Component%20Diagram.png)
+![ZTech IoT Component Diagram](./assets/4.2.5.5ZTech%20IoT%20Component%20Diagram/ZTech%20IoT%20Component%20Diagram.png)
 
 ---
 #### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Bounded Context Class Design Diagram](/assets/class5.png)
+![Bounded Context Class Design Diagram](./assets/class5.png)
 
 ---
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](/assets/database5.png)
-
----
+![Bounded Context Database Design Diagram](./assets/database5.png)

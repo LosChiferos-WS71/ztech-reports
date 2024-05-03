@@ -278,15 +278,15 @@ Basándonos en los resúmenes de las entrevistas, podemos observar que las carac
 
 - Características Objetivas:
   
-![Analisis Proveedor 1](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-1.JPG)
-![Analisis Proveedor 2](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-2.JPG)
-![Analisis Proveedor 3](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-3.JPG)
+![Analisis Proveedor 1](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-1.JPG)
+![Analisis Proveedor 2](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-2.JPG)
+![Analisis Proveedor 3](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-3.JPG)
 
 - Características Subjetivas:
   
-![Analisis Proveedor 4](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-4.JPG)
-![Analisis Proveedor 5](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-5.JPG)
-![Analisis Proveedor 6](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-6.JPG)
+![Analisis Proveedor 4](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-4.JPG)
+![Analisis Proveedor 5](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-5.JPG)
+![Analisis Proveedor 6](./assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-6.JPG)
 
 Basándonos en los resúmenes de las entrevistas, podemos observar que las características objetivas y subjetivas comunes entre los proveedores también son bastante consistentes. El porcentaje del 100% indica una necesidad generalizada en cada una de estas características entre los proveedores entrevistados. Esto proporciona una base sólida para la construcción de arquetipos de proveedores y el diseño de la colaboración con la aplicación de cuidado de plantas.
 
