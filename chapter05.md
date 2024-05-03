@@ -38,12 +38,18 @@
 
 - Aplicación móvil
 
+Para el prototipo de la aplicación móvil se utilizó la herramienta de diseño Figma, en la cual se crearon las pantallas de la aplicación móvil de Ztech. En el prototipo se pueden observar las pantallas de inicio de sesión, registro, menú principal, perfil de usuario, catálogo de macetas, catálogo de plantas y su interacción entre ellas.
+
 ![Image Description](assets/5.5.Prototype/Prototypemovil.jpg)
 
 Link de figma: https://www.figma.com/file/mVlIoKvGPrnFHP8f2xol0a/MockUp-de-Ztech---M%C3%B3vil?type=design&node-id=0%3A1&mode=design&t=ZECfMUYs6z0DPeDc-1 
 
 
+
+
 - Aplicación web
+
+Para el prototipo de la aplicación web se utilizó la herramienta de diseño Figma, en la cual se crearon las pantallas de la aplicación web de Ztech. En el prototipo se pueden observar las pantallas de inicio de sesión, registro, menú principal, perfil de usuario, catálogo de macetas, catálogo de plantas y su interacción entre ellas.
 
 ![Image Description](assets/5.5.Prototype/Prototypeweb1.jpg)
 ![Image Description](assets/5.5.Prototype/Prototypeweb2.jpg)
