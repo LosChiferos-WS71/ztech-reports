@@ -54,6 +54,14 @@ Link: https://www.figma.com/file/O0RYDBtcCQt4M7DPqZDYos/Landing-Page-UI-Desing?t
 
 Se presentará la vista preliminar del sitio web, se va a detallar el contenido por secciones, los colores, estilos e imágenes que son coherentes con el propósito y así facilitar al usuario una mejor experiencia con el sitio web y que pueda entender fácilmente el objetivo del sitio web.
 
+Elementos Clave
+
+Principios de diseño: Se aplicó los principios de diseño para crear una página atractiva, fácil de usar y efectiva. Estos principios incluyen jerarquía, equilibrio, contraste, repetición y ritmo.
+
+Elementos de diseño: Se utilizó diversos elementos de diseño para crear una página visualmente atractiva y atractiva. Estos elementos incluyen tipografía, colores, imágenes, iconos. 
+
+Diseño inclusivo: Se tuvo en cuenta los principios de diseño inclusivo para garantizar que la página sea accesible para todos los usuarios.
+
 <img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up1.png" width="700"/>
 
 <img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up2.png" width="700"/>
