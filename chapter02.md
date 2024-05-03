@@ -414,12 +414,10 @@ Resumimos el viaje del proveedor desde el registro en la plataforma hasta la ges
 ---
 ### 2.3.4. Empathy Mapping
 > Propietario de Plantas
-
-![Empathy Map Cliente](./assets/2.3.4.EmpathyMapping/Empathy%20Map%20Cliente.png)
+![Empathy Map Cliente](./assets/2.3.4.EmpathyMapping/Empathy_Map_Cliente.png)
 
 > Proveedor
-
-![Empathy Map Proveedor](./assets/2.3.4.EmpathyMapping/Empathy%20Map%20Proveedor.png)
+![Empathy Map Proveedor](./assets/2.3.4.EmpathyMapping/Empathy_Map_Proveedor.png)
 ---
 ### 2.3.5. As-is Scenario Mapping
 > Propietario de Plantas
