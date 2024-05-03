@@ -46,9 +46,13 @@ Link: https://www.figma.com/file/O0RYDBtcCQt4M7DPqZDYos/Landing-Page-UI-Desing?t
 
 ### 5.3.2. Landing Page Mock-up
 
+Se presentará la vista preliminar del sitio web, se va a detallar el contenido por secciones, los colores, estilos e imágenes que son coherentes con el propósito y así facilitar al usuario una mejor experiencia con el sitio web y que pueda entender fácilmente el objetivo del sitio web.
 
+<img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up1.png" width="700"/>
 
+<img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up2.png" width="700"/>
 
+Link Landing Page desplegada: https://ztech-landing-page.netlify.app 
 
 ## 5.4. Applications UX/UI Design
 ---
