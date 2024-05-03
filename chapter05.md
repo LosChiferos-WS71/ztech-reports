@@ -21,9 +21,35 @@
 ## 5.3. Landing Page UI Design
 ---
 ### 5.3.1. Landing Page Wireframe
----
+
+En esta Sección, se presentará el diseño del sitio web de nuestro desarrollo de software. Para brindar una mejor idea del contenido que se mostrará en la plataforma. El Landing Page es del tamaño adecuado para las pantallas de los ordenadores, así se mostrará la información centrada y será fácilmente visible para los usuarios. Asimismo, se evidencia una barra de navegación que facilitará la navegación del usuario, y así brindar la mejor experiencia.
+
+**Menú principal de la plataforma:** Opciones de navegación
+<img src="./assets/5.3.1 Landing Page Wireframe/Main menu.PNG" width="700"/>
+
+**About ZTech:** Es una sección del menú principal
+<img src="./assets/5.3.1 Landing Page Wireframe/About ZTech.PNG" width="700"/>
+
+**About Us:** Es una sección del menú principal
+<img src="./assets/5.3.1 Landing Page Wireframe/About Us.PNG" width="700"/>
+
+**Opinions:** Es una sección del menú principal
+<img src="./assets/5.3.1 Landing Page Wireframe/Opinions.PNG" width="700"/>
+
+**Contact:** Es una sección del menú principal
+<img src="./assets/5.3.1 Landing Page Wireframe/Contact.PNG" width="700"/>
+
+**Footer:**
+<img src="./assets/5.3.1 Landing Page Wireframe/Footer.PNG" width="700"/>
+
+Link: https://www.figma.com/file/O0RYDBtcCQt4M7DPqZDYos/Landing-Page-UI-Desing?type=design&node-id=0%3A1&mode=design&t=ksMW6WXQRPQVMmbK-1 
+
 ### 5.3.2. Landing Page Mock-up
----
+
+
+
+
+
 ## 5.4. Applications UX/UI Design
 ---
 ### 5.4.1. Applications Wireframes
