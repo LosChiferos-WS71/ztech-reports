@@ -202,7 +202,33 @@ Newlines between scenarios and separator comments: Cuando se tienen muchos escen
 
 
 ### 6.1.4. Software Deployment Configuration
----
+
+En esta sección, se detalla la configuración necesaria para llevar a cabo el despliegue satisfactorio de cada uno de los productos digitales en la solución, utilizando herramientas específicas para cada uno de ellos.
+
+**Despliegue de la Landing Page y la Aplicación Web**
+
+Para el despliegue de la Landing Page y la Aplicación Web, se utilizará la plataforma Netlify. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente de la Landing Page y la Aplicación Web se almacenará en un repositorio en la plataforma Github.
+- Creación del Sitio en Netlify: Se creará un nuevo sitio en Netlify vinculado al repositorio que contiene el código fuente de la Landing Page y la Aplicación Web.
+- Configuración de Build y Deploy: Netlify proporciona una integración continua (CI/CD) automatizada.
+- Configuración de Dominio Personalizado: Opcionalmente, se puede configurar un dominio personalizado para el sitio web desplegado en Netlify.
+
+
+**Despliegue del Web Service**
+
+Para el despliegue del Web Service, se utilizará la plataforma Railway. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente del Web Service se almacenará en un repositorio en la plataforma Github.
+- Creación del Proyecto en Railway: Se creará un nuevo proyecto en Railway vinculado al repositorio que contiene el código fuente del Web Service.
+- Configuración de Variables de Entorno: Railway permite configurar fácilmente variables de entorno para el proyecto. Se configurarán las variables de entorno necesarias, como credenciales de base de datos u otras configuraciones específicas del entorno.
+- Despliegue Automatizado: Una vez configurado el proyecto en Railway, se puede habilitar el despliegue automático para que el servicio se actualice automáticamente cada vez que se realicen cambios en el repositorio.
+- Monitoreo y Escalado: Railway proporciona herramientas para monitorear el rendimiento del servicio y escalarlo según sea necesario, asegurando un funcionamiento óptimo en todo momento.
+
+**Deployment Diagram de C4 Model**
+
+![](./assets/6.1.4.SoftwareDeploymentConfiguration/+ZTech%20Deployment%20Diagram.png)
+
 ## 6.2. Landing Page, Services & Applications Implementation
 ---
 ### 6.2.1. Sprint 1
