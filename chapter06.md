@@ -27,8 +27,8 @@
 | **Sprint n-1 Retrospective Summary** | El equipo usará Angula para el desarrollo de la Aplicación Web y BootSctrap para el desarrollo del Landing page |
 | **Sprint Goal & User Stories** |   |
 | Sprint n Goal  | Realizar el desarrollo del Landing Page y Aplicación Web |
-| Sprint n Velocity | 2 |
-| Sum of story Points | 4 |
+| Sprint n Velocity | 10 |
+| Sum of story Points | 8 |
 
 #### 6.2.1.2. Sprint Backlog 1
 <table>
@@ -140,17 +140,41 @@ So that I do not lose my data or my already made subscriptions.</td>
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | 31c2c0791d2a0cfc0ccbb0dfa62dcb7b5232460a  | add register styles | Agregar estilos de la vista registro | 03/05/2024         |
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
-Se realizó el landing page enfocado a nuestra propuesta como startup, evidenciando nuestro compromiso como equipo.
-Las tareas a realizar en cada sprint para la elaboración del landing page fueron:
-- Planteamiento y desarrollo sobre nuestros componentes de estrategia empresarial como lo que es la presentacion de las ofertas y ventajas del servicio de ZTech.
--  Ofrecemos una descripción general del servicio, luego detallamos las características específicas del producto, y finalmente presentamos testimonios y un formulario de contacto
-- Presentamos información en secciones bien definidas lo cual facilita la navegación del usuario por áreas de interés específicas.
 
+Para esta entrega no se ha presentado un backend funcional, se presento un fake API, por lo que los unit tests, integration tests y acceptance tests automaizados, para web services relacionados con los user stories no realizara en esta entrega.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
----
+>Se realizó el landing page enfocado a nuestra propuesta como startup, evidenciando nuestro compromiso como equipo. 
+Las tareas a realizar en cada sprint para la elaboración del landing page fueron:
+- Planteamiento y desarrollo sobre nuestros componentes de estrategia empresarial como lo que es la presentacion de las ofertas y ventajas del servicio de ZTech.
+-  Ofrecemos una descripción general del servicio, luego detallamos las características específicas del producto, y finalmente presentamos testimonios y un formulario de contacto.
+- Presentamos información en secciones bien definidas lo cual facilita la navegación del usuario por áreas de interés específicas.
+
+![](./assets/6.2.1.5.%20Execution%20Evidence%20for%20Sprint%20Review/LandingPage.png)
+
+>Asimismo, se realizo la aplicación web enfocado en el usuario final para ofrecerle un servicio eficaz y de calidad. 
+Las tareas a realizar en cada sprint para la elaboración de la aplicación web fueron:
+- La interfaz de "Add Flowerpot Maceta" en el cual el usuario podra ingresar el codigo de su maceta para asi registrarlo a su cuenta.
+
+![](./assets/6.2.1.5.%20Execution%20Evidence%20for%20Sprint%20Review/AgregarMaceta.png)
+
+- La interfaz de "Recover your password" en el cual el usuario podra recuperar su contraseña en caso se olvide.
+
+![](./assets/6.2.1.5.%20Execution%20Evidence%20for%20Sprint%20Review/RecuperarContraseña.png)
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
----
+El landing page y aplicación web de nuestro proyecto se realizó utilizando el sistema de versiones de git. El cuál se puede evidenciar el repositorio del proyecto respectivamente:
+https://github.com/LosChiferos-WS71/ztech-landing-page 
+https://github.com/LosChiferos-WS71/ztech-web-application
+
+- Por otro lado, utilizamos HTML, CSS, JavaScript y BootStrap para realizar la página de nuestro landing page.
+
+![](./assets/6.2.1.6.%20Services%20Documentation%20Evidence%20for%20Sprint%20Review/RepoLandingPage.png)
+
+- Asimismo, utilizamos Angular para realizar las páginas de nuestro aplicación web.
+
+![](./assets/6.2.1.6.%20Services%20Documentation%20Evidence%20for%20Sprint%20Review/RepoAplicacionWeb.png)
+
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 ---
 #### 6.2.1.8. Team Collaboration Insights during Sprint
