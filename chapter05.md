@@ -35,4 +35,20 @@
 ### 5.4.4. Applications User Flow Diagrams
 ---
 ## 5.5. Applications Prototyping
+
+- Aplicación móvil
+
+![Image Description](assets/5.5.Prototype/Prototypemovil.jpg)
+
+Link de figma: https://www.figma.com/file/mVlIoKvGPrnFHP8f2xol0a/MockUp-de-Ztech---M%C3%B3vil?type=design&node-id=0%3A1&mode=design&t=ZECfMUYs6z0DPeDc-1 
+
+
+- Aplicación web
+
+![Image Description](assets/5.5.Prototype/Prototypeweb1.jpg)
+![Image Description](assets/5.5.Prototype/Prototypeweb2.jpg)
+
+Link de figma: https://www.figma.com/file/8fgTUDRQcKFQrW21PA2Qio/MockUp-de-Ztech---WEB?type=design&node-id=0%3A1&mode=design&t=Nk2tykEKQHvMk96W-1
+
+
 ---
