@@ -197,7 +197,7 @@ B) Proovedores
 
 > Rafael Agustin Pacheco Lavado
 
-![Entrevista-PlantOwner-Agustin](/assets/2.2.2RegistrodeEntrevistas/Entrevista-PlantOwner-Agustin.png)
+![Entrevista-PlantOwner-Agustin](./assets/2.2.2RegistrodeEntrevistas/Entrevista-PlantOwner-Agustin.png)
 
 Resumen: El entrevistado, Rafael Agustín Pacheco Lavado, de 21 años de edad y residente del distrito de Los Olivos, se encuentra inmerso en sus estudios de arquitectura. Como aficionado a la jardinería, ha encontrado afinidad con el proyecto presentado. Sin embargo, enfrenta desafíos para mantener sus plantas en óptimas condiciones debido a las demandas de su agenda estudiantil. Reconoce la importancia y la solidez de las funcionalidades ofrecidas por la aplicación propuesta. Expresa interés en que la aplicación le brinde recordatorios para las tareas cruciales relacionadas con el cuidado de sus plantas. Además, valora la idea de recibir recomendaciones personalizadas, dada la diversidad de especies que cultiva, cada una con sus propias necesidades específicas de crecimiento.
 
