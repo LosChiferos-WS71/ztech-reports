@@ -27,6 +27,12 @@
 ![Analisis Cliente 5](./assets/2.2.3.Analisis-Entrevistas-Cliente/analisis-cliente-5.JPG)
 ![Analisis Cliente 6](./assets/2.2.3.Analisis-Entrevistas-Cliente/analisis-cliente-6.JPG)
 
+- Tecnologia:
+
+![Analisis Cliente 7](assets/2.2.3.Analisis-Entrevistas-Cliente/analisis-cliente-7.jpg)
+![Analisis Cliente 8](assets/2.2.3.Analisis-Entrevistas-Cliente/analisis-cliente-8.jpg)
+![Analisis Cliente 9](assets/2.2.3.Analisis-Entrevistas-Cliente/analisis-cliente-9.jpg)
+
 Basándonos en los resúmenes de las entrevistas, podemos observar que las características objetivas y subjetivas comunes entre los clientes son bastante consistentes. El porcentaje del 100% indica una necesidad generalizada en cada una de estas características entre los clientes entrevistados. Esto proporciona una base sólida para la construcción de arquetipos de clientes y el diseño de la aplicación de cuidado de plantas.
 
 #### Segmento de Proveedores:
@@ -42,6 +48,13 @@ Basándonos en los resúmenes de las entrevistas, podemos observar que las carac
 ![Analisis Proveedor 4](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-4.JPG)
 ![Analisis Proveedor 5](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-5.JPG)
 ![Analisis Proveedor 6](/assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proveedor-6.JPG)
+
+Tecnología:
+
+![Analisis Proveedor 7](assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proovedor-7.jpg)
+![Analisis Proveedor 8](assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proovedor-8.jpg)
+![Analisis Proveedor 9](assets/2.2.3.Analisis-Entrevistas-Proveedor/analisis-proovedor-9.jpg)
+
 
 Basándonos en los resúmenes de las entrevistas, podemos observar que las características objetivas y subjetivas comunes entre los proveedores también son bastante consistentes. El porcentaje del 100% indica una necesidad generalizada en cada una de estas características entre los proveedores entrevistados. Esto proporciona una base sólida para la construcción de arquetipos de proveedores y el diseño de la colaboración con la aplicación de cuidado de plantas.
 
