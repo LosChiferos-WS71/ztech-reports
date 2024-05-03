@@ -20,43 +20,93 @@ Los sistemas de etiquetado se utilizan para comunicar información al usuario, e
 
 >El aplicativo contiene encabezados en una letra más grande para recordar al usuario en que función se encuentra, además de explicar detalladamente los pasos a seguir para seguir navegando por el sistema. Utilizamos terminologías simples para que cualquier persona pueda entender y usar el aplicativo de forma sencilla.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20Login.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20LoginWeb.png)
+
 ---
 >Estado de la Planta, para mostrar la salud y condición actual de la planta basada en los datos recopilados.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20EstadoDePlanta.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20EstadoDePlantaWeb.png)
+
 ---
 >Consejos de Cuidado, sugerencias personalizadas basadas en el análisis de los datos recogidos.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20ConsejosDeCuidado.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20ConsejosDeCuidadoWeb.png)
+
 ---
 >Alertas, notificaciones importantes sobre necesidades urgentes o problemas detectados con la planta.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20Alertas.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AlertasWeb.png)
+
 ---
 >Vista General de Plantas, "Tus plantas" y "Más plantas" para resaltar la sección de inicio donde los usuarios pueden ver todas las plantas que tienen agregadas. 
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20VistaGeneralDePlantas.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20VistaGeneralDePlantasWeb.png)
+
 ---
 >Agregar Planta, "Agrégame a una maceta" como botón para el proceso de añadir nuevas plantas a la aplicación, haciendo el proceso intuitivo.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AgregarPlanta.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AgregarPlantaWeb.png)
+
 ---
 >Detalles de la Planta, "Descripción" y "Recomendaciones" como secciones claves en la vista detallada de cada planta, ofreciendo información específica y consejos de cuidado.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20DetallesDeLaPlanta.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AgregarPlantaWeb.png)
+
 ---
 >Perfil de Usuario, "Perfil" con sub-etiquetas como "Nombre y apellido", "Correo electrónico", "Dirección", "Fecha de Nacimiento", "Sexo", "Teléfono", "Contraseña" y "Editar perfil", proporcionando un área clara para la gestión de la cuenta del usuario.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20PerfilDeUsuario.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20PerfilDeUsuarioWeb.png)
+
 ---
 >Agregar Maceta, utilizado para iniciar el proceso de agregar una nueva maceta inteligente al sistema del usuario.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AgregarMaceta.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20AgregarMacetaWeb.png)
+
 ---
 >Configurar Maceta, para acceder a la configuración específica de una maceta, ajustando parámetros como la imagen y nombre de la planta o maceta.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20ConfigurarMaceta.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.2.%20Labeling%20Systems/5.2.2.%20ConfigurarMacetaWeb.png)
+
 ---
 ### 5.2.3. SEO Tags and Meta Tags
 ---
@@ -119,19 +169,38 @@ Los sistemas para buscar información son muy importantes, para que el usuario p
 
 >Para configurar una maceta, se tiene una barra de búsqueda ubicada en la parte superior, el cual también tiene indicaciones de lo que puedes buscar, en este caso se buscara las plantas para poder insertarlo dentro de una maceta.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/ConfigurarMaceta1.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/ConfigurarMaceta1Web.png)
 
 >Luego que el usuario busque su planta mediante la barra de búsqueda, le aparecerá otro apartado de configuración de maceta, donde podrá cargar una imagen e ingresar un nombre para la maceta o planta.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/ConfigurarMaceta2.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/ConfigurarMaceta2Web.png)
+
 ---
 >Asimismo, en otro apartado de “Tus Plantas” el usuario tendrá una barra de búsqueda ubicada en la parte inferior, el cual también tiene indicaciones de lo que puedes buscar, en este caso se buscara las plantas que el usuario desea agregar a su colección de plantas.
 
+Aplicación Móviñ
 ![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/AgregarPlanta1.png)
+
+Aplicación Móvil
+![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/AgregarPlanta1Web.png)
 
 >Luego que el usuario busque más plantas mediante la barra de búsqueda, le aparecerá otro apartado más amplio donde podrá buscar y visualizar más plantas para que seleccione y agregue a su colección la planta que más le gusta.
 
+Aplicación Móvil
 ![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/AgregarPlanta2.png)
+
+Aplicación Web
+![](./assets/5.2.%20Information%20Architecture/5.2.4.%20Searching%20Systems/AgregarPlanta2Web.png)
+
+---
 ### 5.2.5. Navigation Systems
 ---
 En los sistemas de navegación, están los botones, interfaces que se utilizan para ir de un apartado de la aplicación a otro apartado, como los botones en la parte superior de la plataforma web y landing page para ir de una función a otra. Además, del sistema de navegación de la aplicación móvil que se ubica en la parte inferior.
@@ -149,6 +218,14 @@ La barra de navegación se ubica en la parte superior en el cual el visitante pu
 La barra de navegación se ubica en la parte inferior en el cual el usuario puede dar click para visualize la funcionalidad de los siguientes botones: "Macetas"  aca redirige al usuario a otro apartado donde visualizara sus macetas que tiene registradas o tambien podra registrar nuevas macetas, "Añadir" aca redirige al usuario a otro apartado donde podra configurar su maceta registrada, "Plantas" aca redirige al usuario a otro apartado donde podra visualizar sus plantas o tambien podra agregar mas plantas a su colección y "Perfil" daca redirige al usuario a otro apartado donde podra visualizar sus datos personales registrados o tambien podra editarlos en caso lo desee.
 
 ![](./assets/5.2.%20Information%20Architecture/5.2.5.%20Navigation%20Systems/AplicacionMovil.png)
+
+---
+
+>Aplicación Web:
+La barra de navegación se ubica en la parte superior en el cual el usuario puede dar click para visualize la funcionalidad de los siguientes botones: "Macetas"  aca redirige al usuario a otro apartado donde visualizara sus macetas que tiene registradas o tambien podra registrar nuevas macetas, "Añadir" aca redirige al usuario a otro apartado donde podra configurar su maceta registrada, "Plantas" aca redirige al usuario a otro apartado donde podra visualizar sus plantas o tambien podra agregar mas plantas a su colección y "Perfil" daca redirige al usuario a otro apartado donde podra visualizar sus datos personales registrados o tambien podra editarlos en caso lo desee.
+
+![](./assets/5.2.%20Information%20Architecture/5.2.5.%20Navigation%20Systems/AplicacionWeb.png)
+
 ---
 ## 5.3. Landing Page UI Design
 ---
