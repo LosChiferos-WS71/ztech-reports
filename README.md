@@ -24,6 +24,22 @@
 | **v1.3** | 13-04-2024 | Los Chiferos | Para esta versión, hemos desarrollado la arquitectura de software utilizando diagramas de contexto y contenedores. Además, hemos llevado a cabo una exhaustiva verificación de errores y hemos actualizado puntos previamente identificados. |
 ---
 # Project Report Collaboration Insights
+
+**Project Report**
+
+![](./assets/ProjectReportCollaborationInsights/project_report_github.png)
+
+Link: https://github.com/LosChiferos-WS71/ztech-reports
+
+TB1: El equipo ha abordado con éxito los puntos requeridos para la entrega solicitada. Durante el proceso de adaptación al entorno documental, nos enfrentamos a algunos desafíos al estructurar y convertir el archivo. Sin embargo, a pesar de estos contratiempos, nos complace informar que logramos alcanzar los objetivos establecidos.
+
+TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destreza en la elaboración del informe mediante el uso de Markdown, capitalizando la versatilidad de esta interfaz para integrar código HTML. Nos complace informar que hemos cumplido de manera integral con los puntos requeridos en el entregable. Además, es importante destacar que se ha registrado un progreso sustancial tanto en la optimización de la página de inicio como en el desarrollo de la aplicación web.
+
+> Analíticos para el TP
+
+![](./assets/ProjectReportCollaborationInsights/analiticos_tp_pt1.png)
+![](./assets/ProjectReportCollaborationInsights/analiticos_tp_pt2.png)
+
 ---
 # Contenido
 - [Capítulo I: Introducción](/chapter01.md#capítulo-i-introducción)
