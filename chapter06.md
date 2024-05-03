@@ -44,12 +44,12 @@ Conectar la cuenta de GitHub.
 Seleccionamos el repositorio que contiene nuestra landing page y aplicación web.
 Hacer clic en "Deploy site".
 
-<img src="./assets/6.2.1.7 Software Deployment Evidence for Sprint Review/NewSite.jpg" width="700"/>|
+<img src="./assets/6.2.1.7 Software Deployment Evidence for Sprint Review/NewSite.jpg" width="700"/>
 
 3. Configurar el sitio web:
 Netlify te asignará una URL temporal a nuestro sitio web.
 
-<img src="./assets/6.2.1.7 Software Deployment Evidence for Sprint Review/Config.jpg" width="700"/>|
+<img src="./assets/6.2.1.7 Software Deployment Evidence for Sprint Review/Config.jpg" width="700"/>
 
 4. Desplegar el sitio web:
 Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
@@ -57,4 +57,31 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 ![Deploy](<assets/6.2.1.7 Software Deployment Evidence for Sprint Review/Deploy.jpg>)
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
----
+
+**Landing Page**
+
+Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/LandingPageBranches.PNG" width="700"/>
+
+Commits hechos
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/LandingPageCommits.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/LandingPageCollaboration.PNG" width="700"/>
+
+**Web App**
+
+Hemos desarrollado la implementacion de la Web App en ramas de la siguiente manera
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/WebAppBranches.PNG" width="700"/>
+
+Commits hechos
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/WebappCommits.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/WebAppCollaboration.PNG" width="700"/>
