@@ -461,7 +461,51 @@ Collaboration
 
 #### 6.2.2.1. Sprint Planning 2
 
----
+| Sprint#        | Sprint 2                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 22/05/2024                    |
+| Time           | 10:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Marzzio Chicana |
+| Attendees (to planning meeting) | Sebastian Ramirez / Aldo Pastrana / Pedro Perez / Josue Carrasco / Marzzio Chicana |
+| **Sprint 2-1 Review Summary** | En el sprint anterior logramos desplegar la aplicación web estando a un 40% avanzada, al igual que nuestra Landing page. Para esa entrega usamos una Fake API porque no teníamos aún el Backend hecho. |
+| **Sprint 2-1 Retrospective Summary** |Nosotros como equipo opinamos que para esta entrega controlamos mejor los tiempos y mejoramos la organización aún más, hicimos nuestros commits correspondientes según lo que el líder del equipo planeaba. Aún nos queda por mejorar el tiempo de entrega. |
+| **Sprint Goal & User Stories** |   |
+| Sprint 2 Goal  | Terminar el desarrollo de la Aplicación Web, Web Services y App Mobile. |
+| Sprint 2 Velocity | 10 |
+| Sum of story Points | 8 |
+
+| Sprint#        | Sprint 2                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 30/05/2024                    |
+| Time           | 10:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Marzzio Chicana |
+| Attendees (to planning meeting) | Sebastian Ramirez / Aldo Pastrana / Pedro Perez / Josue Carrasco / Marzzio Chicana |
+| **Sprint 2-1 Review Summary** | En el sprint anterior no logramos hacer el backend entonces nuestro líder de grupo asumió ser líder del Backend y el se encargo de repartir los features para lograr con la meta. |
+| **Sprint 2-1 Retrospective Summary** | Nosotros como equipo opinamos que para esta entrega mejoraremos los features a entregar y serán más para poder alcanzar con la meta establecida. |
+| **Sprint Goal & User Stories** |   |
+| Sprint 2 Goal  | Realizar el desarrollo del Web Services. |
+| Sprint 2 Velocity | 10 |
+| Sum of story Points | 8 |
+
+| Sprint#        | Sprint 2                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 03/06/2024                    |
+| Time           | 09:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Aldo Pastrana |
+| Attendees (to planning meeting) | Sebastian Ramirez / Aldo Pastrana / Pedro Perez / Josue Carrasco / Marzzio Chicana |
+| **Sprint 2-1 Review Summary** | En el sprint anterior no se hizo el backend entonces Aldo asumió ser líder del App Mobile y junto con el líder del grupo se encargó de repartir los features para lograr con la meta. |
+| **Sprint 2-1 Retrospective Summary** | Nosotros como equipo opinamos que para esta entrega mejoraremos los features a entregar y serán más para poder alcanzar con la meta establecida. |
+| **Sprint Goal & User Stories** |   |
+| Sprint 2 Goal  | Realizar el desarrollo del App Mobile. |
+| Sprint 2 Velocity | 10 |
+| Sum of story Points | 8 |
+
 
 #### 6.2.2.2. Sprint Backlog 2
 
