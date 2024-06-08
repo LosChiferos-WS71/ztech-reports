@@ -76,7 +76,39 @@ Al articular estas cualidades a través de nuestro lenguaje visual y verbal, ref
 
 ---
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
----
+
+**Estándares visuales**
+
+Paleta de colores: La paleta de colores define los colores que se utilizarán en todas las interfaces. 
+* Verde oscuro (#276749).
+* Gris metálico (#565656).
+* Blanco (#FFFFFF).
+
+Tipografía: La tipografía define las fuentes que se utilizarán en todas las interfaces. Las fuentes deben ser legibles y fáciles de usar en diferentes tamaños de pantalla. 
+* Encabezados: Montserrat, Semi-Bold (600).
+* Texto corporal: Open Sans, Regular (400) y Light (300).
+
+Imágenes: Las imágenes deben ser de alta calidad y relevantes para el contenido de la interfaz. Se deben utilizar imágenes con licencia o imágenes propias.
+
+**Espaciado**
+
+Composiciones limpias, organizadas y fáciles de navegar.
+Guías de espaciado:
+
+Margen y relleno: 15px mínimo alrededor de elementos de contenido.
+Separación entre elementos:
+10px entre elementos relacionados.
+20px para separar secciones o elementos distintos.
+Recursos adicionales:
+
+**Estándares de interacción**
+
+Diseño receptivo: Las interfaces deben ser receptivas y adaptarse a diferentes tamaños de pantalla, desde ordenadores de escritorio hasta dispositivos móviles.
+
+Interacciones táctiles: Las interfaces deben diseñarse para ser utilizadas con los dedos. Los botones y otros elementos interactivos deben ser lo suficientemente grandes y fáciles de pulsar.
+
+Accesibilidad: Las interfaces deben ser accesibles para usuarios con diferentes discapacidades. Se deben utilizar técnicas como el alto contraste y el texto alternativo para garantizar que todas las interfaces sean accesibles.
+
 ## 5.2. Information Architecture
 ---
 ### 5.2.1. Organization Systems
