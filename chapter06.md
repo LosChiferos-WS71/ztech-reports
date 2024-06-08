@@ -465,7 +465,146 @@ Collaboration
 
 #### 6.2.2.2. Sprint Backlog 2
 
----
+<table>
+    <tr>
+        <th colspan="1">Sprint #</th>
+        <th colspan="5">Sprint 2</th>
+    </tr>
+    <tr>
+     <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In-Process / To-Review Done)</td>
+    </tr>
+    <tr>
+        <td>US007</td>
+        <td>Set up the flowerpot</td>
+        <td>TK02</td>
+        <td>Set up the flowerpot</td>
+        <td>As a Plant Owner
+I want to be able to configure the pot with my plant details in the web application
+So that my plant has good care</td>
+        <td>3</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US011</td>
+        <td>Receive notifications</td>
+        <td>TK02</td>
+        <td>Receive notifications</td>
+        <td>As a Plant Owner
+I want to receive notifications related to the status of my plant in the mobile app
+So that I know about the situation of my plant.</td>
+        <td>2</td>
+        <td>Marzzio Chicana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US012</td>
+        <td>Recover password</td>
+        <td>TK02</td>
+        <td>Recover password</td>
+        <td>As a Plant Owner
+I want to be able to recover my password if it is lost in the web application
+So that I do not lose my data or my already made subscriptions.</td>
+        <td>2</td>
+        <td>Josue Carrasco</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US013</td>
+        <td>Recover password</td>
+        <td>TK02</td>
+        <td>Recover password</td>
+        <td>As a Plant Owner
+I want to be able to recover my password in case of loss in the mobile app
+So that I do not lose my data or my already made subscriptions.</td>
+        <td>1</td>
+        <td>Sebastian Ramirez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS022</td>
+        <td>Add Plant Owner through RESTful API</td>
+        <td>TK02</td>
+        <td>Add Plant Owner through RESTful API</td>
+        <td>As a Developer
+I want to add a Plant Owner through API
+So that it can be available to build features for my applications</td>
+        <td>3</td>
+        <td>Pedro Perez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS023</td>
+        <td>Delete Plant Owner through RESTful API</td>
+        <td>TK02</td>
+        <td>Delete Plant Owner through RESTful API</td>
+        <td>As a Developer
+I want to delete a Plant Owner through API
+So that I can keep my applications database updated</td>
+        <td>3</td>
+        <td>Sebastian Ramirez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS024</td>
+        <td>Add Plant through RESTful API</td>
+        <td>TK02</td>
+        <td>Add Plant through RESTful API</td>
+        <td>As a Developer
+I want to add a Plant through API
+So that users can create their own inventory of plants</td>
+        <td>3</td>
+        <td>Pedro Perez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS025</td>
+        <td>Get a list of Plants from RESTful API</td>
+        <td>TK02</td>
+        <td>Get a list of Plants from RESTful API</td>
+        <td>As a Developer
+I want to retrieve a list of plants through API
+So that I can display available plant options to users</td>
+        <td>3</td>
+        <td>Josue Carrasco</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS033</td>
+        <td>Modify Flowerpot via RESTful API</td>
+        <td>TK02</td>
+        <td>Modify Flowerpot via RESTful API</td>
+        <td>As a developer
+I want to allow users to update the details of a flowerpot via API
+So that they can keep their flowerpot information up-to-date.</td>
+        <td>3</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS034</td>
+        <td>Delete Flowerpot via RESTful API</td>
+        <td>TK02</td>
+        <td>Delete Flowerpot via RESTful API</td>
+        <td>As a developer
+I want to provide an endpoint for deleting a flowerpot via API
+So that users can remove unwanted flowerpots from their accounts programmatically.</td>
+        <td>3</td>
+        <td>Marzzio Chicana</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
