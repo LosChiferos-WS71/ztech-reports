@@ -924,7 +924,90 @@ En esta entrevista, Jesus Sanchez Serna, tiene 23 años. Jesús destaca que la p
 
 ### 6.3.3. Evaluaciones según heurísticas
 
----
+### UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Soluciones IoT  
+**SECCIÓN:** WS71  
+**PROFESORES:** Todos  
+**AUDITOR:** Los Chiferos  
+**CLIENTE(S):** Los Chiferos  
+
+**SITE o APP A EVALUAR:**  
+Ztech
+
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Iniciar Sesión
+2. Registrarse
+3. Recuperar Contraseña
+4. Detalle de Planta
+5. Estadística de la Planta
+6. Agregar Maceta
+7. Ver Perfil
+8. Ver Notificaciones
+9. Cerrar Sesión
+
+### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente reléase. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### Evaluación de Problemas
+
+| #  | Problema                                                                                 | Escala de Severidad | Heurística/Principio Violada(o)                   |
+|----|------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------|
+| 1  | Tiempos de respuestas largos por el alojamiento del servidor.                             | 3                   | Usability: Eficiencia y Control del Usuario       |
+| 2  | La sección de notificaciones no permite borrar los mensajes de las notificaciones que salen. | 2                   | Usability: Flexibilidad y Eficiencia de Uso       |
+| 3  | En la sección de Configure Flowerpot hay una mala distribución de espacios.               | 2                   | Usability: Diseño Estético y Minimalista          |
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+#### PROBLEMA #1: Tiempos de respuestas largos por el alojamiento del servidor
+- **Severidad:** 3
+- **Heurística/Principio Violado(o):** Usabilidad - Eficiencia y Control del Usuario
+
+**Problema:**
+Los tiempos de respuesta al interactuar con la aplicación son demasiado largos debido al alojamiento del servidor. Esto provoca una experiencia frustrante para el usuario, ya que las acciones tardan demasiado en completarse, lo que puede llevar a una percepción negativa sobre la aplicación.
+
+<img src="./assets/6.3.3. Evaluaciones según heurísticas\Problema 1.PNG" width="700"/>
+
+**Recomendación:**
+Optimizar el alojamiento del servidor para reducir los tiempos de respuesta y mejorar la experiencia del usuario.
+
+#### PROBLEMA #2: La sección de notificaciones no permite borrar los mensajes de las notificaciones que salen
+- **Severidad:** 2
+- **Heurística/Principio Violado(o):** Usabilidad - Flexibilidad y Eficiencia de Uso
+
+**Problema:**
+Los usuarios no pueden eliminar los mensajes de las notificaciones que aparecen, lo que puede llevar a una acumulación de mensajes no deseados y dificultar la gestión de las notificaciones.
+
+<img src="./assets/6.3.3. Evaluaciones según heurísticas/Problema 2.PNG" width="700"/>
+
+**Recomendación:**
+Agregar la funcionalidad para que los usuarios puedan eliminar o gestionar las notificaciones de manera efectiva.
+
+#### PROBLEMA #3: En la sección de Configure Flowerpot hay una mala distribución de espacios
+- **Severidad:** 2
+- **Heurística/Principio Violado(o):** Usabilidad - Diseño Estético y Minimalista
+
+**Problema:**
+La distribución de espacios en la sección de Configure Flowerpot no es adecuada, lo que puede hacer que la interfaz se vea desordenada y dificultar la comprensión de la información.
+
+<img src="./assets/6.3.3. Evaluaciones según heurísticas/Problema 3.jpg" width="700"/>
+
+**Recomendación:**
+Revisar y ajustar la distribución de espacios para mejorar la organización y la estética de la interfaz.
+
 
 ## 6.4. Video About-the-Product
 
