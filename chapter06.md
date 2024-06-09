@@ -1011,4 +1011,6 @@ Revisar y ajustar la distribución de espacios para mejorar la organización y l
 
 ## 6.4. Video About-the-Product
 
----
+<img src="./assets/6.4VideoAboutTheProduct/ScreenAboutTheProduct.png" width="700"/>
+
+Link: https://www.youtube.com/watch?v=5BpOWgw0KjA
