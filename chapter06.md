@@ -740,7 +740,75 @@ Collaboration
 
 ### 6.3.1. Diseño de Entrevistas
 
----
+En esta sección, se establecen los elementos a incluir en las sesiones de validación para cada segmento objetivo. Se validarán la Landing Page, la App Web y la App Mobile. Además, se especifican los user flows de las aplicaciones que formarán parte del proceso de validación.
+
+#### Elementos a Incluir en la Sesión de Validación:
+
+##### Para el Landing Page:
+1. **Presentación del Landing Page:**
+   - ¿Cómo describirías la forma en que se presenta la información en la página de inicio?
+
+2. **Navegación y Usabilidad:**
+   - ¿Encuentras que la navegación del sitio es intuitiva y fácil de entender?
+
+3. **Valor Propuesto:**
+   - ¿Entiendes claramente cuál es el valor del servicio ofrecido al ver la página de inicio?
+
+4. **Captación de Datos:**
+   - ¿Consideras que la página captura de manera efectiva la información necesaria de los usuarios?
+
+##### Para las Aplicaciones (Web y Móvil):
+5. **User Flows:**
+   - Se muestra el User Flow a validar.
+
+6. **Funcionalidades Clave:**
+   - ¿Esta funcionalidad de la aplicación es comprensible y fácil de usar para ti?
+
+7. **Interacción y Diseño:**
+   - ¿Encuentras que el diseño y la forma en que interactúas con la aplicación son intuitivos?
+
+8. **Feedback del Usuario:**
+   - ¿Cuál es tu feedback en cuanto a esta funcionalidad?
+
+#### User Flows de las Aplicaciones:
+
+##### App Web:
+1. **Iniciar Sesión:**
+   - Usuario introduce credenciales.
+   - Usuario inicia sesión correctamente.
+
+2. **Registrarse:**
+   - Usuario completa el formulario de registro.
+   - Usuario recibe confirmación de registro.
+   - Usuario es redirigido correctamente tras el registro.
+
+3. **Recuperar Contraseña:**
+   - Usuario solicita recuperar contraseña.
+   - Usuario completa el proceso de recuperación.
+
+4. **Detalle de Planta:**
+   - Usuario busca y selecciona una planta.
+   - Usuario ve detalles de la planta seleccionada.
+
+5. **Estadística de la Planta:**
+   - Usuario accede a las estadísticas de una planta.
+   - Usuario interpreta la información presentada.
+
+6. **Agregar Maceta:**
+   - Usuario añade una nueva maceta.
+   - Usuario completa el proceso de añadir una maceta correctamente.
+
+7. **Ver Perfil:**
+   - Usuario accede a su perfil.
+   - Usuario edita información en su perfil si es necesario.
+
+8. **Ver Notificaciones:**
+   - Usuario revisa las notificaciones recibidas.
+   - Usuario entiende el propósito y contenido de las notificaciones.
+
+9. **Cerrar Sesión:**
+   - Usuario cierra sesión correctamente.
+   - Confirmación de cierre de sesión.
 
 ### 6.3.2. Registro de Entrevistas
 
