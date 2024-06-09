@@ -658,7 +658,11 @@ Hemos colocado los commits más importantes hechos en nuestros repositorios.
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
----
+Usamos la herramienta Swagger para documentar, visualizar y consumir nuestros servicios.
+
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidence1.JPG" width="700"/>
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidence2.JPG" width="700"/>
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidenceSchemas.JPG" width="700"/>
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
 
