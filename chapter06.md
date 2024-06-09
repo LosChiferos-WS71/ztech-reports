@@ -693,7 +693,99 @@ https://github.com/LosChiferos-WS71/ztech-mobile-application
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
----
+> Mobile Application
+
+En este Sprint, se ha completado el despliegue de la aplicación móvil. Esto ha implicado la creación de cuentas, la configuración de recursos en proveedores de nube y la configuración de proyectos de desarrollo para la integración.
+
+Hemos seguido los mismos pasos para el despliegue.
+
+1. Para el despliegue del Application Mobile primero se loguea dentro de Firebase y se crea un nuevo proyecto.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue1.jpg" width="700"/>
+
+
+2. Se coloca el nombre del proyecto.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue2.jpg" width="700"/>
+
+3. Se desactiva del Google analytics.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue3.jpg" width="700"/>
+
+4. Una vez realizado todos los pasos anteriores se ingresa al dashboard de nuestro proyecto.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue4.jpg" width="700"/>
+
+5. Se da click en el botón de flutter para agregar nuestro proyecto.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue5.jpg" width="700"/>
+
+6. Seguimos todos los pasos relacionados a la instalación de Firebase CLI y accedemos a nuestra cuenta.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue6.jpg" width="700"/>
+
+7. Se realiza la instalación atravez del comando de CLI (Requiere node18).
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue7.jpg" width="700"/>
+
+8. Continuando se realiza el login mediante el comando y para asegurarse se coloca el segundo comando.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue8.jpg" width="700"/>
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue9.jpg" width="700"/>
+
+9. En el segundo paso se ejecuta el primer comando en cualquier directorio para instalar el CLI de FlutterFire.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue10.jpg" width="700"/>
+
+10. Luego esto en nuestro directorio de nuestra aplicación.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue11.jpg" width="700"/>
+
+11. Cuando se creen los archivos necesarios y realicemos el tercer paso estará listo nuestra aplicación correctamente asociada a nuestro proyecto en firebase.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue12.jpg" width="700"/>
+
+12. Luego nos dirigimos a App distribution dentro de los productos de Ejecución.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue13.jpg" width="700"/>
+
+13. Insertamos nuestro apk generado mediante el comando flutter build apk.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue14.jpg" width="700"/>
+
+14. Agregamos verificadores para que puedan testear nuestra aplicación debido a que ellos le llegarán un correo con la invitación a nuestra app para realizar la descarga y probarlo.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue15.jpg" width="700"/>
+
+> Web Service Application
+
+Adicionalmente, en esta entrega hemos realizado el despliegue de nuestro servicio backend, el cual fue implementado en Railway. A continuación, detallamos los pasos seguidos:
+
+1. Primero nos logueamos o creamos una cuenta en Railway.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend1.png" width="700"/>
+
+2. Luego creamos un nuevo proyecto en nuestro dashboard
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend2.png" width="700"/>
+
+3. Seleccionamos el tipo de proyecto que queremos crear. En primer lugar se debe crear la base de datos.
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend3.png" width="700"/>
+
+4. Luego creamos el contenedor del repositorio en railway
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend4.png" width="700"/>
+
+5. Esperamos a que cargue el proceso de deploy
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend5.png" width="700"/>
+
+6. Por ultimo, tendriamos nuestro backend desplegado listo para usar
+
+<img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend6.png" width="700"/>
+
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
