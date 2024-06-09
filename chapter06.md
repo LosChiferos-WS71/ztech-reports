@@ -749,6 +749,8 @@ Hemos seguido los mismos pasos para el despliegue.
 
 <img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegue15.jpg" width="700"/>
 
+Deploy Link: https://appdistribution.firebase.dev/i/8298a65df289a4ca 
+
 > Web Service Application
 
 Adicionalmente, en esta entrega hemos realizado el despliegue de nuestro servicio backend, el cual fue implementado en Railway. A continuación, detallamos los pasos seguidos:
