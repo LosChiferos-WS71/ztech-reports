@@ -578,6 +578,7 @@ Adicionalmente, en esta entrega hemos realizado el despliegue de nuestro servici
 
 <img src="./assets/6.2.2.7. Software Deployment Evidence for Sprint Review/CapturaDespliegueBackend6.png" width="700"/>
 
+
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
 ---
