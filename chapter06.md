@@ -678,6 +678,10 @@ https://github.com/LosChiferos-WS71/ztech-mobile-application
 
 <img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureMobileGithub.JPG" width="700"/>
 
+- Por ultimo, utilizamos Wokwi para hacer el desarrollo de nuestro embedded application.
+
+<img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureEmbeddedGithub.png" width="700"/>
+
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
 > Mobile Application
