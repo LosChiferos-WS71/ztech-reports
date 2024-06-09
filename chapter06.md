@@ -481,7 +481,17 @@ Collaboration
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
----
+El web service y el aplicativo móvil de nuestro proyecto se relizaron utilizando el sistema de versiones de git. El cuál se puede evidenciar el repositorio del proyecto respectivamente:
+https://github.com/LosChiferos-WS71/ztech-web-service
+https://github.com/LosChiferos-WS71/ztech-mobile-application
+
+- Por otro lado, utilizamos Java junto a Spring Boot para realizar nuestro web service.
+
+<img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureWebServiceGithub.JPG" width="700"/>
+
+- Asimismo, utilizamos Dart para realizar las vistas de nuestro aplicacativo móvil.
+
+<img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureMobileGithub.JPG" width="700"/>
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
