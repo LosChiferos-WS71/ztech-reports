@@ -666,7 +666,16 @@ Usamos la herramienta Swagger para documentar, visualizar y consumir nuestros se
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
 
----
+>Se realizó el backend y el aplicativo móvil enfocado a nuestra propuesta como startup, evidenciando nuestro compromiso como equipo. 
+Las tareas a realizar en este sprint para la elaboración de ambos fueron:
+- Desarrollo del software de ZTech con el enfoque DDD.
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureBackend.JPG" width="700"/>
+
+-  Presentamos una aplicación móvil que intuitiva y fácil de usar para el usuario.
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile1.JPG" width="200"/>
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile2.JPG" width="200"/>
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile3.JPG" width="200"/>
+
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
