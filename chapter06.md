@@ -454,7 +454,6 @@ Collaboration
 
 <img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/WebAppCollaboration.PNG" width="700"/>
 
-
 ### 6.2.2. Sprint 2
 
 ---
@@ -697,7 +696,43 @@ https://github.com/LosChiferos-WS71/ztech-mobile-application
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
----
+**App Web**
+
+Hemos desarrollado la implementacion de la App Web en ramas de la siguiente manera
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/appWebBranches.PNG" width="700"/>
+
+Commits hechos
+Estos son algunos de los commits hechos en el repositorio.
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits2.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits3.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCollaboration.PNG" width="700"/>
+
+**App Mobile**
+
+Hemos desarrollado la implementacion de la App Mobile en ramas de la siguiente manera
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileBranches.PNG" width="700"/>
+
+Commits hechos
+Estos son algunos de los commits hechos en el repositorio.
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits2.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits3.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCollaboration.PNG" width="700"/>
 
 ## 6.3. Validation Interviews
 
