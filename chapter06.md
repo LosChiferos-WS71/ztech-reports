@@ -508,18 +508,6 @@ So that I know about the situation of my plant.</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td>US012</td>
-        <td>Recover password</td>
-        <td>TK02</td>
-        <td>Recover password</td>
-        <td>As a Plant Owner
-I want to be able to recover my password if it is lost in the web application
-So that I do not lose my data or my already made subscriptions.</td>
-        <td>2</td>
-        <td>Josue Carrasco</td>
-        <td>Done</td>
-    </tr>
-    <tr>
         <td>US013</td>
         <td>Recover password</td>
         <td>TK02</td>
