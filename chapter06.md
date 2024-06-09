@@ -464,23 +464,231 @@ Collaboration
 
 #### 6.2.2.2. Sprint Backlog 2
 
----
+<table>
+    <tr>
+        <th colspan="1">Sprint #</th>
+        <th colspan="5">Sprint 2</th>
+    </tr>
+    <tr>
+     <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In-Process / To-Review Done)</td>
+    </tr>
+    <tr>
+        <td>US007</td>
+        <td>Set up the flowerpot</td>
+        <td>TK02</td>
+        <td>Set up the flowerpot</td>
+        <td>As a Plant Owner
+I want to be able to configure the pot with my plant details in the web application
+So that my plant has good care</td>
+        <td>3</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US011</td>
+        <td>Receive notifications</td>
+        <td>TK02</td>
+        <td>Receive notifications</td>
+        <td>As a Plant Owner
+I want to receive notifications related to the status of my plant in the mobile app
+So that I know about the situation of my plant.</td>
+        <td>2</td>
+        <td>Marzzio Chicana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US012</td>
+        <td>Recover password</td>
+        <td>TK02</td>
+        <td>Recover password</td>
+        <td>As a Plant Owner
+I want to be able to recover my password if it is lost in the web application
+So that I do not lose my data or my already made subscriptions.</td>
+        <td>2</td>
+        <td>Josue Carrasco</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US013</td>
+        <td>Recover password</td>
+        <td>TK02</td>
+        <td>Recover password</td>
+        <td>As a Plant Owner
+I want to be able to recover my password in case of loss in the mobile app
+So that I do not lose my data or my already made subscriptions.</td>
+        <td>1</td>
+        <td>Sebastian Ramirez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS022</td>
+        <td>Add Plant Owner through RESTful API</td>
+        <td>TK02</td>
+        <td>Add Plant Owner through RESTful API</td>
+        <td>As a Developer
+I want to add a Plant Owner through API
+So that it can be available to build features for my applications</td>
+        <td>3</td>
+        <td>Pedro Perez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS023</td>
+        <td>Delete Plant Owner through RESTful API</td>
+        <td>TK02</td>
+        <td>Delete Plant Owner through RESTful API</td>
+        <td>As a Developer
+I want to delete a Plant Owner through API
+So that I can keep my applications database updated</td>
+        <td>3</td>
+        <td>Sebastian Ramirez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS024</td>
+        <td>Add Plant through RESTful API</td>
+        <td>TK02</td>
+        <td>Add Plant through RESTful API</td>
+        <td>As a Developer
+I want to add a Plant through API
+So that users can create their own inventory of plants</td>
+        <td>3</td>
+        <td>Pedro Perez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS025</td>
+        <td>Get a list of Plants from RESTful API</td>
+        <td>TK02</td>
+        <td>Get a list of Plants from RESTful API</td>
+        <td>As a Developer
+I want to retrieve a list of plants through API
+So that I can display available plant options to users</td>
+        <td>3</td>
+        <td>Josue Carrasco</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS033</td>
+        <td>Modify Flowerpot via RESTful API</td>
+        <td>TK02</td>
+        <td>Modify Flowerpot via RESTful API</td>
+        <td>As a developer
+I want to allow users to update the details of a flowerpot via API
+So that they can keep their flowerpot information up-to-date.</td>
+        <td>3</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS034</td>
+        <td>Delete Flowerpot via RESTful API</td>
+        <td>TK02</td>
+        <td>Delete Flowerpot via RESTful API</td>
+        <td>As a developer
+I want to provide an endpoint for deleting a flowerpot via API
+So that users can remove unwanted flowerpots from their accounts programmatically.</td>
+        <td>3</td>
+        <td>Marzzio Chicana</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
----
+Hemos colocado los commits más importantes hechos en nuestros repositorios.
+
+**Web App**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|----------------------|---------------------|
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/configure-pot | 236f6c5bcf8b4b91ea35ffe16734fdf9ba1a23c3 | feat: add card-flowerpot | Agregar cards flowerpot | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/configure-pot | f02ba75e0ca9b0da92d62407570962c66ada2b74 | feat: add loaded-plant component | Agregar componente de loaded-plan | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/notification-history | 901b9e08f7c892bd9e4cb43619b46fc5b30d0d38 | Add Notifications Components | Agregar componente de notificaciones | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/notification-history | 3f92bf36f0a3aa3e8c3c795c7b83d284e5f2fdec | feat: update notification card | Mejorar las cards de notificación | 28/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/plant-section | 81a9a8a0958c76c0bb9b00750df4bfd72ff397a5 | feat(add): Create component card-plant and search-plant | Agregar componententes de cards-plant y search-plant | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/plant-section | 9e7d22e54abe86727527d9c6ca11ad0353380071 | feat(add): Add custom search-container | Agregar search-container | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/plant-section | adf0746e5e7321a0f4f2d278e4c8589e3b54f3d6 | feat(add): Update and add code for plant-detail | Actualizar plant-detail | 26/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/plant-section | 103995046c7145d4c6cb3773e7f8cb403ad37136 | feat(update): Update view and create another component | Actualizar vistas | 28/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/view-current-metrics | 444fa14a90e189fab6f297eebb2a6e6c05fb679c | feat (add): Add PlantRecommendationsComponent | Agregar PlantRecomendation Componente | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/view-current-metrics | 3514f0ed60f74215c2b6a14e501567e995927da6 | Feat (add): Add PlantStatusComponent | Agregar PlantStatus Componente | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/view-current-metrics | 565d7adbcefe839aeee4914f1a72d628e060304d | Feat (add): Add PlantConditionDashboard | Agregar el componente de PlantCondition Componente | 25/04/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/view-current-metrics | da054af38370225d157df70c46240ea57baa9c2b | Feat (add): Add FlowerpotDetailComponent | Agregar el componente de FlowerpotDetail | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/view-current-metrics | 2c4cca22578bfdfae1f70e2acb69e64c6ad7b0d8 | Feat (add): Add FlowerpotMetricsComponent | Agregar el componente de FlowerpotMetric | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/add-pot | 9f67e95994ba9ff0d54e64ddf408487e4c3b6bdf | add add-pot | Agregar add pot | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/add-pot | 5b5feba52934c866bf35cc251e5c51f19601db45 | add add-pot-input component | Agregar el componente de Add-pot-input | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/user-login | 958d31788ba427ce3c1cab82b8d3361ae51b595b | add login-form | Agregar un formulario del login | 24/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/password-reset | 25cdcf36c9bf948789f2d1531fce73f1aa454ea0 | add recover-password-form | Agregar formulario de recuperar contraseña | 25/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | feat/password-reset | 148f28e0419e1e0414bc0abc0c2a7e65ebf12c29 | add recover-password-confirmation | Agregar confirmación de recuperar contraseña | 27/05/2024 |
+| [ztech-web-application](https://github.com/LosChiferos-WS71/ztech-web-application) | develop | 3eae8c204ced437c67cd4bfa658a405686400e0c | add welcome-user | Agregar pantalla de bienvenida | 30/05/2024 |
+
+**Mobile App**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|----------------------|---------------------|
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/add-pot | c53b15a0bc55450591c92a26b73cc10212172a89 | add add pot screen | Agregar la vista de añadir maceta | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/add-pot | 157bb907dc759912dcf28ebd13ed9fda80bf64e5 | update add pot screen | Actualizar vista de añadir maceta | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/add-pot | fc84fd818b1bded192d49d78f5dca9ac5220177a | add splash add pot screen and automatic navigation between code fields while typing | Añadir pantallas de carga y automatizar el texto del código | 08/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/notification-history | c53b15a0bc55450591c92a26b73cc10212172a89 | add notification screen | Agregar la vista de notificaciones | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/password-reset | d1c3dd2f44ff2691fd1b34b291b86b6f78f8d191 | add recover password screen | Agregar la vista de recuperar contraseña | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/password-reset | 67707cb5d42cfe1e80c408b6bf5551a71cec0ee0 | add email sent screen | Agregar la vista de correo enviado | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/edit-profile | f2b6b5c35d2d0d8f50ead1473a928cdb456f2ab3 | Add Profile Screen | Agregar vista del perfil | 06/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/edit-profile | 9eb8bbf886de3b695e67917e82e118b66ab0415a | Add Edit Profile Screen | Editar el perfil | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/view-current-metrics | 80637df342c6fa32456398ca3f4651f1de154bdc | Add Flowerpot Detail Screen | Agregar vista de detalle de la maceta | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/view-current-metrics | 3eacfe940fbbcc11ad6d3f6a25b939d038743917 | Add Flowerpot Metrics Screen | Agregar la vista de las métricas de la planta | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/list-pots | acb06b95934fe70ab86714584ebb8a686f5a2903 | feat(add): Add widget of presentation User | Agregar la presentación del usuario | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/list-pots | 248e87216a4783af9208329b8664779c34ce2e39 | feat(add): add widget card_plant | Agregar la carta de plantas | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | feat/list-pots | 24dd2a93357d6733a210ceae16a50a1f7ea467fd | feat(add): add button of list_pots | Añadir el botón de la lista de macetas | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | view-current-metrics | 6e0ae97e384f645c02994bb0b1933c69828e2b4f | feat(add): add view of plants | Añadir la vista de plantas | 07/06/2024 |
+| [ztech-mobile-application](https://github.com/LosChiferos-WS71/ztech-mobile-application) | view-current-metrics | d46e0596f0d1ac459a55ac89cfd60f5a811257a3 | feat(add): Add more plants in view plant | Agregar más plantas en la vista de plants | 07/06/2024 |
+
+
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
----
+Usamos la herramienta Swagger para documentar, visualizar y consumir nuestros servicios.
+
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidence1.JPG" width="700"/>
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidence2.JPG" width="700"/>
+<img src="./assets/6.2.2.4. Testing Suite Evidence for Sprint Review/TestingSuiteEvidenceSchemas.JPG" width="700"/>
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
 
----
+>Se realizó el backend y el aplicativo móvil enfocado a nuestra propuesta como startup, evidenciando nuestro compromiso como equipo. 
+Las tareas a realizar en este sprint para la elaboración de ambos fueron:
+- Desarrollo del software de ZTech con el enfoque DDD.
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureBackend.JPG" width="700"/>
+
+-  Presentamos una aplicación móvil que intuitiva y fácil de usar para el usuario.
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile1.JPG" width="200"/>
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile2.JPG" width="200"/>
+<img src="./assets/6.2.2.5. Execution Evidence for Sprint Review/CaptureMobile3.JPG" width="200"/>
+
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
----
+El web service y el aplicativo móvil de nuestro proyecto se relizaron utilizando el sistema de versiones de git. El cuál se puede evidenciar el repositorio del proyecto respectivamente:
+https://github.com/LosChiferos-WS71/ztech-web-service
+https://github.com/LosChiferos-WS71/ztech-mobile-application
+
+- Por otro lado, utilizamos Java junto a Spring Boot para realizar nuestro web service.
+
+<img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureWebServiceGithub.JPG" width="700"/>
+
+- Asimismo, utilizamos Dart para realizar las vistas de nuestro aplicacativo móvil.
+
+<img src="./assets/6.2.2.6. Services Documentation Evidence for Sprint Review/CaptureMobileGithub.JPG" width="700"/>
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 

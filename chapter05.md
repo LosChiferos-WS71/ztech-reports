@@ -76,7 +76,39 @@ Al articular estas cualidades a través de nuestro lenguaje visual y verbal, ref
 
 ---
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
----
+
+**Estándares visuales**
+
+Paleta de colores: La paleta de colores define los colores que se utilizarán en todas las interfaces. 
+* Verde oscuro (#276749).
+* Gris metálico (#565656).
+* Blanco (#FFFFFF).
+
+Tipografía: La tipografía define las fuentes que se utilizarán en todas las interfaces. Las fuentes deben ser legibles y fáciles de usar en diferentes tamaños de pantalla. 
+* Encabezados: Montserrat, Semi-Bold (600).
+* Texto corporal: Open Sans, Regular (400) y Light (300).
+
+Imágenes: Las imágenes deben ser de alta calidad y relevantes para el contenido de la interfaz. Se deben utilizar imágenes con licencia o imágenes propias.
+
+**Espaciado**
+
+Composiciones limpias, organizadas y fáciles de navegar.
+Guías de espaciado:
+
+Margen y relleno: 15px mínimo alrededor de elementos de contenido.
+Separación entre elementos:
+10px entre elementos relacionados.
+20px para separar secciones o elementos distintos.
+Recursos adicionales:
+
+**Estándares de interacción**
+
+Diseño receptivo: Las interfaces deben ser receptivas y adaptarse a diferentes tamaños de pantalla, desde ordenadores de escritorio hasta dispositivos móviles.
+
+Interacciones táctiles: Las interfaces deben diseñarse para ser utilizadas con los dedos. Los botones y otros elementos interactivos deben ser lo suficientemente grandes y fáciles de pulsar.
+
+Accesibilidad: Las interfaces deben ser accesibles para usuarios con diferentes discapacidades. Se deben utilizar técnicas como el alto contraste y el texto alternativo para garantizar que todas las interfaces sean accesibles.
+
 ## 5.2. Information Architecture
 ---
 ### 5.2.1. Organization Systems
@@ -362,6 +394,14 @@ Link: https://www.figma.com/file/O0RYDBtcCQt4M7DPqZDYos/Landing-Page-UI-Desing?t
 
 Se presentará la vista preliminar del sitio web, se va a detallar el contenido por secciones, los colores, estilos e imágenes que son coherentes con el propósito y así facilitar al usuario una mejor experiencia con el sitio web y que pueda entender fácilmente el objetivo del sitio web.
 
+Elementos Clave
+
+Principios de diseño: Se aplicó los principios de diseño para crear una página atractiva, fácil de usar y efectiva. Estos principios incluyen jerarquía, equilibrio, contraste, repetición y ritmo.
+
+Elementos de diseño: Se utilizó diversos elementos de diseño para crear una página visualmente atractiva y atractiva. Estos elementos incluyen tipografía, colores, imágenes, iconos. 
+
+Diseño inclusivo: Se tuvo en cuenta los principios de diseño inclusivo para garantizar que la página sea accesible para todos los usuarios.
+
 <img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up1.png" width="700"/>
 
 <img src="./assets/5.3.2 Lanfing Page Mock Up/Mock-up2.png" width="700"/>
@@ -500,17 +540,23 @@ Link de figma: https://www.figma.com/file/8fgTUDRQcKFQrW21PA2Qio/MockUp-de-Ztech
 
 - Aplicación móvil
 
-![Image Description](./assets/5.5.Prototype/Prototypemovil.jpg)
+Para el prototipo de la aplicación móvil se utilizó la herramienta de diseño Figma, en la cual se crearon las pantallas de la aplicación móvil de Ztech. En el prototipo se pueden observar las pantallas de inicio de sesión, registro, menú principal, perfil de usuario, catálogo de macetas, catálogo de plantas y su interacción entre ellas.
+
+![Image Description](assets/5.5.Prototype/Prototypemovil.jpg)
 
 Link de figma: https://www.figma.com/file/mVlIoKvGPrnFHP8f2xol0a/MockUp-de-Ztech---M%C3%B3vil?type=design&node-id=0%3A1&mode=design&t=ZECfMUYs6z0DPeDc-1 
 
 
 - Aplicación web
 
-![Image Description](./assets/5.5.Prototype/Prototypeweb1.jpg)
-![Image Description](./assets/5.5.Prototype/Prototypeweb2.jpg)
+Para el prototipo de la aplicación web se utilizó la herramienta de diseño Figma, en la cual se crearon las pantallas de la aplicación web de Ztech. En el prototipo se pueden observar las pantallas de inicio de sesión, registro, menú principal, perfil de usuario, catálogo de macetas, catálogo de plantas y su interacción entre ellas.
+
+![Image Description](assets/5.5.Prototype/Prototypeweb1.jpg)
+![Image Description](assets/5.5.Prototype/Prototypeweb2.jpg)
 
 Link de figma: https://www.figma.com/file/8fgTUDRQcKFQrW21PA2Qio/MockUp-de-Ztech---WEB?type=design&node-id=0%3A1&mode=design&t=Nk2tykEKQHvMk96W-1
 
+
+- Link del video de la explicación del Prototyping: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c031_upc_edu_pe/ESNUzIaUPORAoq5zlwTu3eQBWTXDTSIJPkwiJZ6u5XrD3g?e=11Dvau 
 
 ---
