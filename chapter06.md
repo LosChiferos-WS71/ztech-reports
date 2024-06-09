@@ -454,7 +454,6 @@ Collaboration
 
 <img src="./assets/6.2.1.8 Team Collaboration Insights during Sprint/WebAppCollaboration.PNG" width="700"/>
 
-
 ### 6.2.2. Sprint 2
 
 ---
@@ -506,18 +505,6 @@ I want to receive notifications related to the status of my plant in the mobile 
 So that I know about the situation of my plant.</td>
         <td>2</td>
         <td>Marzzio Chicana</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US012</td>
-        <td>Recover password</td>
-        <td>TK02</td>
-        <td>Recover password</td>
-        <td>As a Plant Owner
-I want to be able to recover my password if it is lost in the web application
-So that I do not lose my data or my already made subscriptions.</td>
-        <td>2</td>
-        <td>Josue Carrasco</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -789,7 +776,43 @@ Adicionalmente, en esta entrega hemos realizado el despliegue de nuestro servici
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
----
+**App Web**
+
+Hemos desarrollado la implementacion de la App Web en ramas de la siguiente manera
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/appWebBranches.PNG" width="700"/>
+
+Commits hechos
+Estos son algunos de los commits hechos en el repositorio.
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits2.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCommits3.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppWebCollaboration.PNG" width="700"/>
+
+**App Mobile**
+
+Hemos desarrollado la implementacion de la App Mobile en ramas de la siguiente manera
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileBranches.PNG" width="700"/>
+
+Commits hechos
+Estos son algunos de los commits hechos en el repositorio.
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits2.PNG" width="700"/>
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits3.PNG" width="700"/>
+
+Collaboration
+
+<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCollaboration.PNG" width="700"/>
 
 ## 6.3. Validation Interviews
 
@@ -797,11 +820,103 @@ Adicionalmente, en esta entrega hemos realizado el despliegue de nuestro servici
 
 ### 6.3.1. Diseño de Entrevistas
 
----
+En esta sección, se establecen los elementos a incluir en las sesiones de validación para cada segmento objetivo. Se validarán la Landing Page, la App Web y la App Mobile. Además, se especifican los user flows de las aplicaciones que formarán parte del proceso de validación.
+
+#### Elementos a Incluir en la Sesión de Validación:
+
+##### Para el Landing Page:
+1. **Presentación del Landing Page:**
+   - ¿Cómo describirías la forma en que se presenta la información en la página de inicio?
+
+2. **Navegación y Usabilidad:**
+   - ¿Encuentras que la navegación del sitio es intuitiva y fácil de entender?
+
+3. **Valor Propuesto:**
+   - ¿Entiendes claramente cuál es el valor del servicio ofrecido al ver la página de inicio?
+
+4. **Captación de Datos:**
+   - ¿Consideras que la página captura de manera efectiva la información necesaria de los usuarios?
+
+##### Para las Aplicaciones (Web y Móvil):
+5. **User Flows:**
+   - Se muestra el User Flow a validar.
+
+6. **Funcionalidades Clave:**
+   - ¿Esta funcionalidad de la aplicación es comprensible y fácil de usar para ti?
+
+7. **Interacción y Diseño:**
+   - ¿Encuentras que el diseño y la forma en que interactúas con la aplicación son intuitivos?
+
+8. **Feedback del Usuario:**
+   - ¿Cuál es tu feedback en cuanto a esta funcionalidad?
+
+#### User Flows de las Aplicaciones:
+
+##### App Web:
+1. **Iniciar Sesión:**
+   - Usuario introduce credenciales.
+   - Usuario inicia sesión correctamente.
+
+2. **Registrarse:**
+   - Usuario completa el formulario de registro.
+   - Usuario recibe confirmación de registro.
+   - Usuario es redirigido correctamente tras el registro.
+
+3. **Recuperar Contraseña:**
+   - Usuario solicita recuperar contraseña.
+   - Usuario completa el proceso de recuperación.
+
+4. **Detalle de Planta:**
+   - Usuario busca y selecciona una planta.
+   - Usuario ve detalles de la planta seleccionada.
+
+5. **Estadística de la Planta:**
+   - Usuario accede a las estadísticas de una planta.
+   - Usuario interpreta la información presentada.
+
+6. **Agregar Maceta:**
+   - Usuario añade una nueva maceta.
+   - Usuario completa el proceso de añadir una maceta correctamente.
+
+7. **Ver Perfil:**
+   - Usuario accede a su perfil.
+   - Usuario edita información en su perfil si es necesario.
+
+8. **Ver Notificaciones:**
+   - Usuario revisa las notificaciones recibidas.
+   - Usuario entiende el propósito y contenido de las notificaciones.
+
+9. **Cerrar Sesión:**
+   - Usuario cierra sesión correctamente.
+   - Confirmación de cierre de sesión.
 
 ### 6.3.2. Registro de Entrevistas
 
----
+**Propietarios de plantas:**
+
+Entrevista 1:
+
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validación Carlos.PNG" width="700"/>
+
+https://youtu.be/0QQEgyh_968
+
+En esta detallada entrevista, tenemos el placer de conversar con nuestro Plant Owner, Carlos Alejandro De La Cruz Villarreal, quien, a sus 21 años, expresa su entusiasmo y admiración por nuestra plataforma web. Carlos Alejandro destaca la innovación y relevancia de la plataforma, especialmente para aquellos apasionados por la jardinería. Enfatiza cómo la plataforma no solo captura el interés de los entusiastas, sino que también proporciona herramientas esenciales para el cuidado óptimo de las plantas. Según nos relata, el registro de cada planta mediante un código único es de gran importancia, ya que permite almacenar métricas específicas y enviar notificaciones personalizadas sobre el cuidado necesario para cada especie. Estas funcionalidades, señala, son cruciales para mantener la salud y el bienestar de las plantas, asegurando así una experiencia enriquecedora y efectiva para los usuarios de la plataforma.
+
+Entrevista 2:
+
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validacion Wilver.PNG" width="700"/>
+
+https://youtu.be/qnIZH7Y_YNk
+
+En esta entrevista, tenemos el placer de conversar con nuestro Plant Owner, Wilver Arana Ramos, quien, a la joven edad de 23 años, ofrece una perspectiva valiosa sobre nuestra plataforma web. Wilver destaca que la plataforma está excelentemente formulada y equipada con todas las funciones necesarias que uno esperaría. Además, expresa su satisfacción con la aplicación web, señalando que está muy bien diseñada, permitiendo a los usuarios ver en detalle cada aspecto de las plantas que gestionan. Wilver también hace hincapié en la eficacia de las características de seguridad de la plataforma, incluyendo un sistema robusto de logeo, registro y recuperación de contraseña, lo cual considera esencial para la protección de la información del usuario. Estos elementos, según él, no solo mejoran la experiencia del usuario, sino que también fortalecen la confianza en nuestra plataforma, haciendo que sea una herramienta indispensable para los entusiastas de la jardinería.
+
+Entrevista 3:
+
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validación Jesus.PNG" width="700"/>
+
+https://www.youtube.com/watch?v=ryeC3Tmb6Ms
+
+En esta entrevista, Jesus Sanchez Serna, tiene 23 años. Jesús destaca que la plataforma está excelentemente formulada y equipada con todas las funciones necesarias que uno esperaría. Además, expresa su satisfacción con la landing page, señalando que está muy bien diseñada, permitiendo a los usuarios ver en detalle de lo que trata Ztech. Jesús también hace hincapié en la eficacia de las características de seguridad de la plataforma web, incluyendo un sistema robusto de logeo, registro y recuperación de contraseña, lo cual considera esencial para la protección de la información del usuario. Estos elementos, según él, mejoran la experiencia del usuario y fortalecen la confianza en nuestra plataforma, haciendo que sea una herramienta indispensable para los entusiastas de la jardinería.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
