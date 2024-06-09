@@ -501,6 +501,26 @@ Collaboration
 
 ### 6.3.2. Registro de Entrevistas
 
+**Propietarios de plantas:**
+
+Entrevista 1:
+
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validación Carlos.PNG" width="700"/>
+
+https://youtu.be/0QQEgyh_968
+
+En esta detallada entrevista, tenemos el placer de conversar con nuestro Plant Owner, Carlos Alejandro De La Cruz Villarreal, quien, a sus 21 años, expresa su entusiasmo y admiración por nuestra plataforma web. Carlos Alejandro destaca la innovación y relevancia de la plataforma, especialmente para aquellos apasionados por la jardinería. Enfatiza cómo la plataforma no solo captura el interés de los entusiastas, sino que también proporciona herramientas esenciales para el cuidado óptimo de las plantas. Según nos relata, el registro de cada planta mediante un código único es de gran importancia, ya que permite almacenar métricas específicas y enviar notificaciones personalizadas sobre el cuidado necesario para cada especie. Estas funcionalidades, señala, son cruciales para mantener la salud y el bienestar de las plantas, asegurando así una experiencia enriquecedora y efectiva para los usuarios de la plataforma.
+
+Entrevista 2:
+
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validacion Wilver.PNG" width="700"/>
+
+https://youtu.be/qnIZH7Y_YNk
+
+En esta entrevista, tenemos el placer de conversar con nuestro Plant Owner, Wilver Arana Ramos, quien, a la joven edad de 23 años, ofrece una perspectiva valiosa sobre nuestra plataforma web. Wilver destaca que la plataforma está excelentemente formulada y equipada con todas las funciones necesarias que uno esperaría. Además, expresa su satisfacción con la aplicación web, señalando que está muy bien diseñada, permitiendo a los usuarios ver en detalle cada aspecto de las plantas que gestionan. Wilver también hace hincapié en la eficacia de las características de seguridad de la plataforma, incluyendo un sistema robusto de logeo, registro y recuperación de contraseña, lo cual considera esencial para la protección de la información del usuario. Estos elementos, según él, no solo mejoran la experiencia del usuario, sino que también fortalecen la confianza en nuestra plataforma, haciendo que sea una herramienta indispensable para los entusiastas de la jardinería.
+
+Entrevista 3:
+
 <img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validación Jesus.PNG" width="700"/>
 
 https://www.youtube.com/watch?v=ryeC3Tmb6Ms
