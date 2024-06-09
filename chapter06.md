@@ -501,7 +501,11 @@ Collaboration
 
 ### 6.3.2. Registro de Entrevistas
 
----
+<img src="./assets/6.3.2. Registro de Entrevistas\Entrevista de validación Jesus.PNG" width="700"/>
+
+https://www.youtube.com/watch?v=ryeC3Tmb6Ms
+
+En esta entrevista, Jesus Sanchez Serna, tiene 23 años. Jesús destaca que la plataforma está excelentemente formulada y equipada con todas las funciones necesarias que uno esperaría. Además, expresa su satisfacción con la landing page, señalando que está muy bien diseñada, permitiendo a los usuarios ver en detalle de lo que trata Ztech. Jesús también hace hincapié en la eficacia de las características de seguridad de la plataforma web, incluyendo un sistema robusto de logeo, registro y recuperación de contraseña, lo cual considera esencial para la protección de la información del usuario. Estos elementos, según él, mejoran la experiencia del usuario y fortalecen la confianza en nuestra plataforma, haciendo que sea una herramienta indispensable para los entusiastas de la jardinería.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
