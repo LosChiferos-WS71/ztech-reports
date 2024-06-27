@@ -219,13 +219,13 @@ Bounded Context Canvas es una herramienta colaborativa para diseñar y documenta
 ---
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Bounded Context Class Design Diagram](/assets/class1.png)
+![Bounded Context Class Design Diagram](./assets/class1.png)
 
 
 ---
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](/assets/Profile_Bounded_Context_Database.png)
+![Bounded Context Database Design Diagram](./assets/Profile_Bounded_Context_Database.png)
 
 ---
 
