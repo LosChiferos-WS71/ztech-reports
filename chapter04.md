@@ -90,7 +90,7 @@
 ---
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](/assets/Bounded1.png)
+![Bounded Context Database Design Diagram](/assets/Profile_Bounded_Context_Database.png)
 
 ---
 
