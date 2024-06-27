@@ -816,10 +816,6 @@ Estos son algunos de los commits hechos en el repositorio.
 
 <img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCommits3.PNG" width="700"/>
 
-Collaboration
-
-<img src="./assets/6.2.2.8 Team Collaboration Insights during Sprint/AppMobileCollaboration.PNG" width="700"/>
-
 ---
 
 ### 6.2.3. Sprint 3
