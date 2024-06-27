@@ -460,7 +460,20 @@ Collaboration
 
 #### 6.2.2.1. Sprint Planning 2
 
----
+| Sprint#        | Sprint 1                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 02/04/2024                    |
+| Time           | 11:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Aldo Pastrana |
+| Attendees (to planning meeting) | Sebastian Ramirez / Aldo Pastrana / Pedro Perez / Josue Carrasco / Marzzio Chicana |
+| **Sprint n-1 Review Summary** | Este es el primer sprint, no hay reviews anteriores. |
+| **Sprint n-1 Retrospective Summary** | El equipo usará Angula para el desarrollo de la Aplicación Web y BootSctrap para el desarrollo del Landing page |
+| **Sprint Goal & User Stories** |   |
+| Sprint n Goal  | Realizar el desarrollo del Landing Page y Aplicación Web |
+| Sprint n Velocity | 10 |
+| Sum of story Points | 8 |
 
 #### 6.2.2.2. Sprint Backlog 2
 
@@ -824,11 +837,103 @@ Estos son algunos de los commits hechos en el repositorio.
 
 #### 6.2.3.1. Sprint Planning 3
 
----
+| Sprint#        | Sprint 3                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 20/06/2024                    |
+| Time           | 11:00 am                      |
+| Location       | Google Meet                   |
+| Prepared By    | Marzzio Pastrana              |
+| Attendees (to planning meeting) | Sebastian Ramirez, Aldo Pastrana, Pedro Perez, Josue Carrasco, Marzzio Chicana |
+| **Sprint 3-2 Review Summary** | Durante este sprint, el equipo logró completar la integración inicial del backend con la aplicación móvil, destacándose la implementación fluida de los servicios RESTful y la configuración inicial de la autenticación. |
+| **Sprint 3-2 Retrospective Summary** | Se exploraron nuevas prácticas de integración continua para optimizar el flujo de trabajo. Además, se acordó implementar reuniones diarias breves para mejorar la comunicación y la transparencia del equipo. |
+| **Sprint Goal & User Stories** |   |
+| Sprint 3 Goal  | Realizar la integración inicial del backend con la aplicación móvil. |
+| Sprint 3 Velocity | 10 |
+| Sum of Story Points | 21 |
 
 #### 6.2.3.2. Sprint Backlog 3
 
----
+<table>
+    <tr>
+        <th colspan="1">Sprint #</th>
+        <th colspan="5">Sprint 3</th>
+    </tr>
+    <tr>
+        <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In-Process / To-Review / Done)</td>
+    </tr>
+    <tr>
+        <td>US006</td>
+        <td>Add new flowerpot in the mobile app</td>
+        <td>TK03</td>
+        <td>Integrar Endpoint API para Añadir Maceta en la Aplicación Móvil</td>
+        <td>Integrar el endpoint API para permitir a los usuarios añadir una nueva maceta desde la aplicación móvil.</td>
+        <td>3</td>
+        <td>Marzzio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US008</td>
+        <td>Set up the flowerpot in the mobile app</td>
+        <td>TK03</td>
+        <td>Integrar Endpoint API para Configurar Maceta en la Aplicación Móvil</td>
+        <td>Permitir a los usuarios configurar las macetas con detalles específicos de sus plantas desde la aplicación móvil.</td>
+        <td>3</td>
+        <td>Aldo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US010</td>
+        <td>Generate report in the mobile app</td>
+        <td>TK03</td>
+        <td>Integrar Endpoint API para Generar Informes en la Aplicación Móvil</td>
+        <td>Permitir a los usuarios ver informes sobre humedad, temperatura y luz solar de sus plantas desde la aplicación móvil.</td>
+        <td>5</td>
+        <td>Sebastian</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS032</td>
+        <td>Add Flowerpot via RESTful API</td>
+        <td>TK03</td>
+        <td>Integrar Endpoint API para Añadir Maceta vía RESTful API</td>
+        <td>Proveer un endpoint API para permitir a los usuarios añadir nuevas macetas programáticamente.</td>
+        <td>2</td>
+        <td>Pedro</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US013</td>
+        <td>Recover password in the mobile app</td>
+        <td>TK03</td>
+        <td>Integrar Endpoint API para Recuperar Contraseña en la Aplicación Móvil</td>
+        <td>Permitir a los usuarios recuperar sus contraseñas desde la aplicación móvil utilizando el endpoint de recuperación de contraseña del backend.</td>
+        <td>2</td>
+        <td>Josue</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS022</td>
+        <td>Add Plant Owner through RESTful API</td>
+        <td>TK03</td>
+        <td>Implementar Seguridad con Tokens en la API para Añadir Propietario de Planta</td>
+        <td>Asegurar que el endpoint de la API para añadir un propietario de planta esté protegido mediante autenticación y autorización con tokens de seguridad.</td>
+        <td>2</td>
+        <td>Marzzio</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
@@ -836,7 +941,7 @@ Estos son algunos de los commits hechos en el repositorio.
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
----
+En este ultimo sprint no se han aplicado tests.
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
 
@@ -848,7 +953,7 @@ Estos son algunos de los commits hechos en el repositorio.
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
----
+En este Sprint no se ha desplegado ninguna aplicacion.
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
