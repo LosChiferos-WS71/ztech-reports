@@ -857,7 +857,7 @@ Estos son algunos de los commits hechos en el repositorio.
 <table>
     <tr>
         <th colspan="1">Sprint #</th>
-        <th colspan="5">Sprint 3</th>
+        <th colspan="7">Sprint 3</th>
     </tr>
     <tr>
         <th colspan="2">User Story</th>
@@ -874,33 +874,123 @@ Estos son algunos de los commits hechos en el repositorio.
         <td>Status (To-do / In-Process / To-Review / Done)</td>
     </tr>
     <tr>
-        <td>US006</td>
-        <td>Add new flowerpot in the mobile app</td>
+        <td>US009</td>
+        <td>Generate report</td>
         <td>TK03</td>
-        <td>Integrar Endpoint API para Añadir Maceta en la Aplicación Móvil</td>
-        <td>Integrar el endpoint API para permitir a los usuarios añadir una nueva maceta desde la aplicación móvil.</td>
-        <td>3</td>
+        <td>Implementar Generación de Reportes en la Aplicación Web</td>
+        <td>Desarrollar la funcionalidad para generar reportes de humedad, temperatura y luz solar para las plantas en la aplicación web.</td>
+        <td>5</td>
         <td>Marzzio</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td>US008</td>
-        <td>Set up the flowerpot in the mobile app</td>
+        <td>US014</td>
+        <td>File claims</td>
         <td>TK03</td>
-        <td>Integrar Endpoint API para Configurar Maceta en la Aplicación Móvil</td>
-        <td>Permitir a los usuarios configurar las macetas con detalles específicos de sus plantas desde la aplicación móvil.</td>
+        <td>Crear Sistema de Reclamos en la Aplicación Web</td>
+        <td>Implementar un módulo para que los usuarios puedan presentar reclamos a través de la aplicación web.</td>
+        <td>2</td>
+        <td>Aldo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US015</td>
+        <td>File claims</td>
+        <td>TK03</td>
+        <td>Desarrollar Función de Reclamos en la Aplicación Móvil</td>
+        <td>Integrar un sistema de presentación de reclamos en la aplicación móvil para los usuarios.</td>
+        <td>2</td>
+        <td>Sebas</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US016</td>
+        <td>Check stock</td>
+        <td>TK03</td>
+        <td>Implementar Consulta de Acciones en la Aplicación Web</td>
+        <td>Crear una función en la aplicación web que permita a los proveedores consultar las acciones de la empresa.</td>
+        <td>2</td>
+        <td>Pedro</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US017</td>
+        <td>Check stock</td>
+        <td>TK03</td>
+        <td>Añadir Verificación de Acciones en la Aplicación Móvil</td>
+        <td>Desarrollar una característica en la aplicación móvil para que los proveedores puedan verificar las acciones de la empresa.</td>
+        <td>2</td>
+        <td>Josue</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US020</td>
+        <td>Consult user complaints</td>
+        <td>TK03</td>
+        <td>Implementar Consulta de Reclamos de Usuarios en la Web</td>
+        <td>Crear una sección en la aplicación web donde los proveedores puedan ver y analizar los reclamos de los usuarios.</td>
+        <td>2</td>
+        <td>Pedro</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS026</td>
+        <td>Get Humidity Sensor Data from RESTful API</td>
+        <td>TK03</td>
+        <td>Implementar Endpoint para Datos de Humedad</td>
+        <td>Desarrollar un endpoint en la API RESTful para obtener datos del sensor de humedad.</td>
         <td>3</td>
         <td>Aldo</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td>US010</td>
-        <td>Generate report in the mobile app</td>
+        <td>TS027</td>
+        <td>Get Temperature Sensor Data from RESTful API</td>
         <td>TK03</td>
-        <td>Integrar Endpoint API para Generar Informes en la Aplicación Móvil</td>
-        <td>Permitir a los usuarios ver informes sobre humedad, temperatura y luz solar de sus plantas desde la aplicación móvil.</td>
-        <td>5</td>
-        <td>Sebastian</td>
+        <td>Crear Endpoint para Datos de Temperatura</td>
+        <td>Implementar un endpoint en la API RESTful para recuperar datos del sensor de temperatura.</td>
+        <td>3</td>
+        <td>Sebas</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS028</td>
+        <td>Get Sunlight Sensor Data from RESTful API</td>
+        <td>TK03</td>
+        <td>Desarrollar Endpoint para Datos de Luz Solar</td>
+        <td>Crear un endpoint en la API RESTful para obtener datos del sensor de luz solar.</td>
+        <td>3</td>
+        <td>Marzzio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS029</td>
+        <td>Add Supply through RESTful API</td>
+        <td>TK03</td>
+        <td>Implementar Endpoint para Añadir Suministros</td>
+        <td>Desarrollar un endpoint en la API RESTful para agregar nuevos suministros al inventario.</td>
+        <td>2</td>
+        <td>Marzzio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS030</td>
+        <td>Update stock of Supply through RESTful API</td>
+        <td>TK03</td>
+        <td>Crear Endpoint para Actualizar Inventario</td>
+        <td>Implementar un endpoint en la API RESTful para actualizar el stock de suministros.</td>
+        <td>2</td>
+        <td>Pedro</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TS031</td>
+        <td>Add Order Through RESTful API</td>
+        <td>TK03</td>
+        <td>Desarrollar Endpoint para Crear Pedidos</td>
+        <td>Implementar un endpoint en la API RESTful para añadir nuevos pedidos al sistema.</td>
+        <td>2</td>
+        <td>Sebas</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -910,32 +1000,43 @@ Estos son algunos de los commits hechos en el repositorio.
         <td>Integrar Endpoint API para Añadir Maceta vía RESTful API</td>
         <td>Proveer un endpoint API para permitir a los usuarios añadir nuevas macetas programáticamente.</td>
         <td>2</td>
-        <td>Pedro</td>
+        <td>Aldo</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td>US013</td>
-        <td>Recover password in the mobile app</td>
+        <td>TS035</td>
+        <td>Add Ownership via RESTful API</td>
         <td>TK03</td>
-        <td>Integrar Endpoint API para Recuperar Contraseña en la Aplicación Móvil</td>
-        <td>Permitir a los usuarios recuperar sus contraseñas desde la aplicación móvil utilizando el endpoint de recuperación de contraseña del backend.</td>
-        <td>2</td>
-        <td>Josue</td>
+        <td>Desarrollar Endpoint para Crear Registros de Propiedad</td>
+        <td>Implementar un endpoint en la API RESTful para establecer relaciones de propiedad entre usuarios y macetas.</td>
+        <td>3</td>
+        <td>Marzzio</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td>TS022</td>
-        <td>Add Plant Owner through RESTful API</td>
+        <td>TS036</td>
+        <td>Delete Ownership Record via RESTful API</td>
         <td>TK03</td>
-        <td>Implementar Seguridad con Tokens en la API para Añadir Propietario de Planta</td>
-        <td>Asegurar que el endpoint de la API para añadir un propietario de planta esté protegido mediante autenticación y autorización con tokens de seguridad.</td>
-        <td>2</td>
+        <td>Crear Endpoint para Eliminar Registros de Propiedad</td>
+        <td>Desarrollar un endpoint en la API RESTful que permita eliminar relaciones de propiedad entre usuarios y macetas.</td>
+        <td>3</td>
         <td>Marzzio</td>
         <td>Done</td>
     </tr>
 </table>
 
 #### 6.2.3.3. Development Evidence for Sprint Review
+
+Para este entregable se finalizó el desarrollo del Edge Server así como su comunicación con Wokwi:
+
+
+<img src="./assets/6.2.3 Evidence for sprint/EdgeServer1.png" width="1000"/>
+
+Finalización del wokwi:
+
+<img src="./assets/6.2.3 Evidence for sprint/Wokwi.png" width="1000"/>
+
+
 
 ---
 
@@ -945,15 +1046,37 @@ En este ultimo sprint no se han aplicado tests.
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
 
+Comunicación del Edge Server con Wokwi:
+
+<img src="./assets/6.2.3 Evidence for sprint/EdgeServer3.png" width="1000"/>
+
+Wokwi con el Edge Server:
+
+<img src="./assets/6.2.3 Evidence for sprint/Wokwi.png" width="1000"/>
+
+
 ---
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el sprint 3 se ha realizado la documentación del servicio de EdgeService de la siguiente manera:
+
+<img src="./assets/6.2.3 Evidence for sprint/EdgeServer4.png" width="1000"/>
+
+Y nuestra base de datos cuando exporta los valores del iot cada 5 minutos:
+
+<img src="./assets/6.2.3 Evidence for sprint/DataWokwi.png" width="1000"/>
+
 
 ---
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
-En este Sprint no se ha desplegado ninguna aplicacion.
+Para nuestra comunicación del Edge Server con Wokwi se ha realizado la siguiente configuración dentro del código en spring boot:
+
+<img src="./assets/6.2.3 Evidence for sprint/EdgeServer2.png" width="1000"/>
+
+El cual crea un túnel para que se comunique con nuestro web service y este pueda recibir los datos del iot.
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
