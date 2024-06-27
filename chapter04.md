@@ -412,8 +412,8 @@ El Bounded Context de "Claim" aborda la gestión de reclamos relacionados con la
 
 
 ---
-### 4.2.5. Bounded Context: IOT Solution
-El Bounded Context de "IoT Solution" se centra en la solución integral de Internet de las Cosas (IoT) para la gestión de datos de macetas inteligentes. Cubre la recolección de datos ambientales, su procesamiento y la transmisión de métricas, lo que permite a los propietarios de plantas monitorizar y ajustar las condiciones de sus macetas para un óptimo crecimiento de las plantas.
+### 4.2.5. Bounded Context: Loan
+El Bounded Context de "Loan" se centra para la gestión de datos de macetas inteligentes asociadas al usuario. Lo que permite a los propietarios de plantas monitorizar y ajustar las condiciones de sus macetas para un óptimo crecimiento de las plantas.
 
 ---
 #### 4.2.5.1. Domain Layer
@@ -472,4 +472,6 @@ El Bounded Context de "IoT Solution" se centra en la solución integral de Inter
 ---
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](./assets/database5.png)
+![Bounded Context Database Design Diagram](./assets/Loan_Bounded_Context_Database.png)
+
+---
