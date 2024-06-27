@@ -26,6 +26,7 @@
 | **v2.2** | 03-05-2024 | Los Chiferos | Para esta versión, hemos desarrollado la Landing Page y una versión inicial de nuestra Aplicación Web junto a un fake api usando json-server. También, realizamos el primer sprint junto al despliegue de la Landing Page y la Aplicación Web. |
 | **v3.1** | 31-05-2024 | Los Chiferos | Para esta versión, nos centramos en desarrollar la aplicacion web de nuestro proyecto, realizamos varios features. Cada integrante participo en el desarrollo de la aplicacion. |
 | **v3.2** | 07-06-2024 | Los Chiferos | Para esta versión, el equipo se enfoco en hacer el desarrollo del web service, mobile application y embedded application. No se logro terminar al 100% las aplicacion, pero tenemos un gran avance de cada una. |
+| **v4.1** | 27-06-2024 | Los Chiferos | Para esta versión, el equipo se enfoco en culminar la integración del web application con el web service, el edge application con el embebed application y el mobile application con el web service. No se logro terminar al 100% las integraciones, pero tenemos un gran avance de cada una. |
 ---
 # Project Report Collaboration Insights
 ---
