@@ -72,17 +72,17 @@ En el contexto de Flowerpot, los dueños de las macetas pueden gestionar sus ped
 ---
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 component Flowerpot](assets/componentflowerpot.png)
+![C4 component Flowerpot](./assets/componentflowerpot.png)
 
 ---
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
-![Bounded Context Class Design Diagram](assets/class3.png)
+![Bounded Context Class Design Diagram](./assets/class3.png)
 
 ---
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](assets/database3.png)
+![Bounded Context Database Design Diagram](./assets/Pot_Bounded_Context_Database.png)
 
 ---
