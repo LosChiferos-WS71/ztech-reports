@@ -286,7 +286,7 @@ La gestión de inventario es crucial en la operación de empresas que requieren 
 ---
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](./assets/database2.png)
+![Bounded Context Database Design Diagram](./assets/Inventory_Bounded_Context_Database.png)
 
 ---
 
