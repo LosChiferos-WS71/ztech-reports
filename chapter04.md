@@ -77,20 +77,20 @@
 ---
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-![C4 Component Diagram](/assets/componentAccount.png)
+![C4 Component Diagram](./assets/componentAccount.png)
 
 --- 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ---
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Bounded Context Class Design Diagram](/assets/class1.png)
+![Bounded Context Class Design Diagram](./assets/class1.png)
 
 
 ---
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](/assets/Profile_Bounded_Context_Database.png)
+![Bounded Context Database Design Diagram](./assets/Profile_Bounded_Context_Database.png)
 
 ---
 
