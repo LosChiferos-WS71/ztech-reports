@@ -349,7 +349,7 @@ En el contexto de Flowerpot, los dueños de las macetas pueden gestionar sus ped
 ---
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Bounded Context Database Design Diagram](./assets/database3.png)
+![Bounded Context Database Design Diagram](./assets/Pot_Bounded_Context_Database.png)
 
 ---
 
