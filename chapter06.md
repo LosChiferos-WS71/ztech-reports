@@ -848,7 +848,7 @@ Estos son algunos de los commits hechos en el repositorio.
 | **Sprint 3-2 Review Summary** | Durante este sprint, el equipo logró completar la integración inicial del backend con la aplicación móvil, destacándose la implementación fluida de los servicios RESTful y la configuración inicial de la autenticación. |
 | **Sprint 3-2 Retrospective Summary** | Se exploraron nuevas prácticas de integración continua para optimizar el flujo de trabajo. Además, se acordó implementar reuniones diarias breves para mejorar la comunicación y la transparencia del equipo. |
 | **Sprint Goal & User Stories** |   |
-| Sprint 3 Goal  | Realizar la integración inicial del backend con la aplicación móvil. |
+| Sprint 3 Goal  | Terminar de realizar el Edge Server y unirla con el embedded application Realizar la integración inicial del backend con la aplicación móvil |
 | Sprint 3 Velocity | 10 |
 | Sum of Story Points | 21 |
 
@@ -1028,17 +1028,27 @@ Estos son algunos de los commits hechos en el repositorio.
 #### 6.2.3.3. Development Evidence for Sprint Review
 
 Para este entregable se finalizó el desarrollo del Edge Server así como su comunicación con Wokwi:
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|----------------------|---------------------|
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | 6ee1f98a0f8651df927a744a79fd95b50cc44cc1 | feat: add createFlowerpotLink method | add createFlowerpotLink method | 20/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | d2d89e4d5a636c5a2b8b71469c05547141d270d9 | feat: commit before Jackson dependency | commit before Jackson dependency | 22/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | 49ab5c2bbd56fb8824f70f828506c39b643ba65d | feat: add connection with ztech cloud server | add connection with ztech cloud server | 23/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | 57446fbdd61735547deb8759fda578b91a1d57ae | feat: update temperature list size | update temperature list size | 26/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | add37bf1ad2b385d4c7db1dab143e50a74abf04a | feat(add): add cors config | add cors config | 26/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | 9e7d22e54abe86727527d9c6ca11ad0353380071 | feat(add): add createHumiditySensor and createSunlightSensor method | add createHumiditySensor and createSunlightSensor method | 26/06/2024 |
+| [ztech-edge-server](https://github.com/LosChiferos-WS71/ztech-edge-server) | main | 9b14906f64f829884e04cdf033b863a4bcecdb0b | feat(add): add swagger documentation | add swagger documentation | 27/05/2024 |
+
+En este repositorio se realizo el embedded aplication en Wokwi usando POO.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|----------------------|---------------------|
+| [ztech-embedded-application](https://github.com/LosChiferos-WS71/ztech-embedded-application) | develop | 61f9dc5b141e4192a3adf161641a4b1753b9bd0b | feat: add custom temperature sensor | add custom temperature sensor | 27/06/2024 |
+| [ztech-embedded-application](https://github.com/LosChiferos-WS71/ztech-embedded-application) | feat/flowerpot | f76c8033fff5d2ac50659211308a1876bd365af4 | feat: add flowerpot class | add flowerpot class | 27/06/2024 |
+| [ztech-embedded-application](https://github.com/LosChiferos-WS71/ztech-embedded-application) | feat/humidity-sensor | 3c6528f03cfd7ce87bdf43e2b53b32299b33c934 | feat: Add HumiditySensor.h and HumiditySensor.cpp | Add HumiditySensor.h and HumiditySensor.cpp | 27/06/2024 |
+| [ztech-embedded-application](https://github.com/LosChiferos-WS71/ztech-embedded-application) | feat/humidity-sensor | e88f10c3ccc163ee2eae079bbfafd660bae9395f | feat(add): Add Humidity sensor | Add Humidity sensor | 27/06/2024 |
+| [ztech-embedded-application](https://github.com/LosChiferos-WS71/ztech-embedded-application) | feat/humidity-sensor | 8174db899704c82d49bed1f3b05b0464fa6046b1 | feat(add): Merge branch 'feat/humidity-sensor' of https://github.com/LosChiferos-WS71/ztech-embedded-application into feat/humidity-sensor | Merge branch 'feat/humidity-sensor' of https://github.com/LosChiferos-WS71/ztech-embedded-application into feat/humidity-sensor | 27/06/2024 |
 
 
-<img src="./assets/6.2.3 Evidence for sprint/EdgeServer1.png" width="1000"/>
 
-Finalización del wokwi:
-
-<img src="./assets/6.2.3 Evidence for sprint/Wokwi.png" width="1000"/>
-
-
-
----
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -1080,7 +1090,22 @@ El cual crea un túnel para que se comunique con nuestro web service y este pued
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
----
+**Embedded Application**
+Hemos desarrollado la implementacion del Embbeded en ramas de la siguiente manera por ramas para poder realizar una POO.
+
+<img src="./assets/6.2.3.8 Team Collaboration Insights during Sprint/Embedded branches.PNG" width="700"/>
+
+**Edge Server**
+Hemos desarrollado la implementacion del Edge Server en los siguientes commits.
+
+
+<img src="./assets/6.2.3.8 Team Collaboration Insights during Sprint/Branches Edge.PNG" width="700"/>
+
+Collaboración de repositorios:
+
+<img src="./assets/6.2.3.8 Team Collaboration Insights during Sprint/Collaboration Embedded.PNG" width="700"/>
+
+<img src="./assets/6.2.3.8 Team Collaboration Insights during Sprint/Colllaboration Edge.PNG" width="700"/>
 
 ## 6.3. Validation Interviews
 
