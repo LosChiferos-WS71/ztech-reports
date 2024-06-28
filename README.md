@@ -35,10 +35,27 @@ TB1: El equipo ha abordado con éxito los puntos requeridos para la entrega soli
 
 TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destreza en la elaboración del informe mediante el uso de Markdown, capitalizando la versatilidad de esta interfaz para integrar código HTML. Nos complace informar que hemos cumplido de manera integral con los puntos requeridos en el entregable. Además, es importante destacar que se ha registrado un progreso sustancial tanto en la optimización de la página de inicio como en el desarrollo de la aplicación web.
 
+TB2: Para la tercera entrega (TB2), el equipo priorizó el desarrollo de la aplicación web y el servicio backend, logrando completar gran parte de ambos. El desarrollo del frontend web se realizó utilizando Angular, mientras que para el servicio backend se empleó Spring Boot. En cuanto a la documentación, se llevó a cabo el Sprint 2, considerando las historias de usuario que se ajustaban al desarrollo tanto del backend como del frontend web.
+
+TF1: En la entrega final, el equipo abordó los productos de edge server, aplicación embebida y aplicación móvil. Se llevó a cabo la documentación del Sprint 3, priorizando la finalización de todas las historias de usuario. Además, el equipo revisó las entregas anteriores e implementó mejoras en aquellas que requerían atención.
+El desarrollo de la aplicación embebida se centró en optimizar el rendimiento y asegurar la integración fluida con los demás componentes del sistema.Por último, se realizaron revisiones de código y sesiones de depuración para asegurar que todos los módulos del proyecto funcionaran correctamente y cumplieran con los estándares de calidad establecidos.
+
+> Analíticos para el TB1
+
+![](./assets/ProjectReportCollaborationInsights/Analiticos_tb1.png)
+
 > Analíticos para el TP
 
 ![](./assets/ProjectReportCollaborationInsights/analiticos_tp_pt1.png)
 ![](./assets/ProjectReportCollaborationInsights/analiticos_tp_pt2.png)
+
+> Analíticos para el TB2
+
+![](./assets/ProjectReportCollaborationInsights/Analiticos_tb2.png)
+
+> Analíticos para el TF1
+
+![](./assets/ProjectReportCollaborationInsights/Analiticos_tf1.png)
 
 ---
 # Contenido
