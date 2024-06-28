@@ -95,57 +95,57 @@
 		<tr>
 			<td>US007</td>
 			<td>Set up the flowerpot</td>
-			<td>As a Plant Owner<br>I want to be able to configure the pot with my plant details in the web application<br>So that my plant has good care</td>
-			<td>--- Scenario: successful plant details configuration<br>Given the user already added the flowerpot to their account<br>When the user chooses his plant<br>Then a message of success when entering your plant details will be displayed.<br><br>--- Scenario: Manual configuration of plant details successful<br>Given the user already added the flowerpot to their account<br>When the user does not see the plant they want to choose, then they will enter the details manually<br>Then a message of success when entering your plant details will be displayed.</td>
+			<td>As a Plant Owner<br>I want to be able to configure the pot with my plant details in the web application<br>So that my plants are more personalized</td>
+			<td>--- Scenario: successful plant details configuration<br>Given the user adds the pot to their account<br>When the user chooses their plant, they upload a photo and enter the name of the plant<br>Then a success message is then displayed when uploading your plant data.<br><br>--- Scenario: Manual configuration of plant details successful<br>Given the user already added the flowerpot to their account<br>When the user does not see the plant they want to choose, then they will enter the details manually<br>Then a message of success when entering your plant details will be displayed.</td>
 			<td>EP002</td>
 		</tr>
 		<tr>
 			<td>US008</td>
 			<td>Set up the flowerpot</td>
-			<td>As a Plant Owner<br>I want to be able to configure the pot with my plant details in the mobile app<br>So that my plant has good care</td>
-			<td>--- Scenario: successful plant details configuration<br>Given the user already added the flowerpot to their account<br>When the user chooses his plant<br>Then a message of success when entering your plant details will be displayed.<br><br>--- Scenario: Manual configuration of plant details successful<br>Given the user already added the flowerpot to their account<br>When the user does not see the plant they want to choose, then they will enter the details manually<br>Then a message of success when entering your plant details will be displayed.</td>
+			<td>As a Plant Owner<br>I want to configure the pot with my plant details in the mobile app<br>So that my plant has good care</td>
+			<td>--- Scenario: successful plant details configuration<br>Given the user has already added the flowerpot to their account<br>When the user chooses their plant<br>Then a success message is displayed when entering the plant details.<br><br>--- Scenario: Manual configuration of plant details successful<br>Given the user has already added the flowerpot to their account<br>When the user does not see the plant they want to choose and enters the details manually<br>Then a success message is displayed when entering the plant details.</td>
 			<td>EP002</td>
 		</tr>
 		<tr>
 			<td>US009</td>
 			<td>Generate report</td>
-			<td>As a Plant Owner<br>I want to see a report of the humidity, temperature and sunlight that my plant receives in the web application<br>So that my plant has better care</td>
-			<td>--- Scenario: report generated successfully<br>Given the user already has his plant in the flowerpot<br>When the user orders a report<br>Then a report will be shown on the data captured by the sensors.<br><br>--- Scenario: report not generated<br>Given the user already has his plant in the flowerpot<br>When the user orders a report<br>Then the report will not be generated because some sensor is damaged or there is no signal.</td>
+			<td>As a Plant Owner<br>I want to see a report of the humidity, temperature, and sunlight that my plant receives in the web application<br>So that my plant receives better care</td>
+			<td>--- Scenario: report generated successfully<br>Given the user already has their plant in the flowerpot<br>When the user requests a report<br>Then a report will be displayed showing the data captured by the sensors.<br><br>--- Scenario: report not generated<br>Given the user already has their plant in the flowerpot<br>When the user requests a report<br>Then the report will not be generated because some sensor is damaged or there is no signal.</td>
 			<td>EP002</td>
 		</tr>
 		<tr>
 			<td>US010</td>
 			<td>Generate report</td>
-			<td>As a Plant Owner<br>I want to see a report of the humidity, temperature and sunlight that my plant receives in the mobile app<br>So that my plant has better care</td>
-			<td>--- Scenario: report generated successfully<br>Given the user already has his plant in the flowerpotWhen the user orders a report<br>Then a report will be shown on the data captured by the sensors.<br><br>--- Scenario: report not generated<br>Given the user already has his plant in the flowerpot<br>When the user orders a report<br>Then the report will not be generated because some sensor is damaged or there is no signal.</td>
+			<td>As a Plant Owner<br>I want to see a report of the humidity, temperature, and sunlight that my plant receives in the mobile app<br>So that my plant receives better care</td>
+			<td>--- Scenario: report generated successfully<br>Given the user already has their plant in the flowerpot<br>When the user requests a report<br>Then a report is displayed showing the data captured by the sensors.<br><br>--- Scenario: report not generated<br>Given the user already has their plant in the flowerpot<br>When the user requests a report<br>Then the report is not generated because some sensor is damaged or there is no signal.</td>
 			<td>EP002</td>
 		</tr>
 		<tr>
 			<td>US011</td>
 			<td>Receive notifications</td>
 			<td>As a Plant Owner<br>I want to receive notifications related to the status of my plant in the mobile app<br>So that I know about the situation of my plant.</td>
-			<td>--- Scenario: notification received successfully<br>Given the user already has his plant in the flowerpot<br>When the user spends a few hours without entering the app<br>Then a notification about the situation of your plant will reach you.</td>
+			<td>--- Scenario: notification received successfully<br>Given the user already has their plant in the flowerpot<br>When the user spends a few hours without entering the app<br>Then a notification about the situation of their plant is received.</td>
 			<td>EP002</td>
 		</tr>
 		<tr>
 			<td>US012</td>
 			<td>Recover password</td>
-			<td>As a Plant Owner<br>I want to be able to recover my password if it is lost in the web application<br>So that I do not lose my data or my already made subscriptions.</td>
-			<td>--- Scenario: successful password recovery<br>Given the user must log in to the app again and does not have access to their account credentials<br>When you ask to recover your password and confirm the message that arrives in your email.<br>Then you will change the password and you will be able to log in to your account.<br><br>--- Scenario: failed password recovery<br>Given the user must log in to the app again and does not have access to their account credentials<br>When you ask to recover your password and cannot confirm the message that arrives in your email.<br>Then you will not be able to change your password or log in to your account.</td>
+			<td>As a Plant Owner<br>I want to recover my password if it is lost in the web application<br>So that I can regain access to my data and existing subscriptions.</td>
+			<td>--- Scenario: successful password recovery<br>Given the user needs to log in to the app again and does not have access to their account credentials<br>When they request to recover their password and confirm the message received in their email<br>Then they will be able to change their password and log in to their account.<br><br>--- Scenario: failed password recovery<br>Given the user needs to log in to the app again and does not have access to their account credentials<br>When they request to recover their password but cannot confirm the message received in their email<br>Then they will not be able to change their password or log in to their account.</td>
 			<td>EP003</td>
 		</tr>
 		<tr>
 			<td>US013</td>
 			<td>Recover password</td>
-			<td>As a Plant Owner<br>I want to be able to recover my password in case of loss in the mobile app<br>So that I do not lose my data or my already made subscriptions.</td>
-			<td>--- Scenario: successful password recovery<br>Given the user must log in to the app again and does not have access to their account credentials<br>When you ask to recover your password and confirm the message that arrives in your email.<br>Then you will change the password and you will be able to log in to your account.<br><br>--- Scenario: failed password recovery<br>Given the user must log in to the app again and does not have access to their account credentials<br>When you ask to recover your password and cannot confirm the message that arrives in your email.<br>Then you will not be able to change your password or log in to your account.</td>
+			<td>As a Plant Owner<br>I want to recover my password in case of loss in the mobile app<br>So that I do not lose my data or existing subscriptions.</td>
+			<td>--- Scenario: successful password recovery<br>Given the user needs to log in to the app again and does not have access to their account credentials<br>When they request to recover their password and confirm the message received in their email<br>Then they will be able to change their password and log in to their account.<br><br>--- Scenario: failed password recovery<br>Given the user needs to log in to the app again and does not have access to their account credentials<br>When they request to recover their password but cannot confirm the message received in their email<br>Then they will not be able to change their password or log in to their account.</td>
 			<td>EP003</td>
 		</tr>
 		<tr>
 			<td>US014</td>
 			<td>File claims</td>
-			<td>As a Plant Owner<br>I want to file complaints in case there are any in the web application<br>So that the company can fix it and take it into account in the future.</td>
-			<td>--- Scenario: claim successfully filed<br>Given the user has a claim<br>When you ask to make a claim and enter your claim<br>Then the support team will try to resolve your complaint.</td>
+			<td>As a Plant Owner<br>I want to file complaints in the web application<br>So that the company can address the issue and take it into account for future improvements.</td>
+			<td>--- Scenario: claim successfully filed<br>Given the user has a complaint<br>When they request to file a claim and submit their complaint<br>Then the support team will attempt to resolve the issue.</td>
 			<td>EP003</td>
 		</tr>
 		<tr>
@@ -158,43 +158,43 @@
 		<tr>
 			<td>US016</td>
 			<td>Check stock</td>
-			<td>As a Supplier<br>I want to consult the company's shares in the web application<br>So you can be prepared for future orders.</td>
-			<td>--- Scenario: stock seen correctly<br>Given the supplier wants to consult the stock<br>When you log in to your account<br>Then the current stock of the company will appear in the main view</td>
+			<td>As a Supplier<br>I want to check the company's stock in the web application<br>So that I can be prepared for future orders.</td>
+			<td>--- Scenario: stock seen correctly<br>Given the supplier wants to check the stock<br>When they log in to their account<br>Then the current stock of the company will appear in the main view.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
 			<td>US017</td>
 			<td>Check stock</td>
-			<td>As a Supplier<br>I want to check the company's shares in the mobile app<br>So you can be prepared for future orders.</td>
-			<td>--- Scenario: stock seen correctly<br>Given the supplier wants to consult the stock<br>When you log in to your account<br>Then the current stock of the company will appear in the main view</td>
+			<td>As a Supplier<br>I want to check the company's stock in the mobile app<br>So that I can be prepared for future orders.</td>
+			<td>--- Scenario: stock seen correctly<br>Given the supplier wants to check the stock<br>When they log in to their account<br>Then the current stock of the company will appear in the main view.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
 			<td>US018</td>
 			<td>Track orders</td>
-			<td>As a Supplier<br>I want to track the orders I send in the web application<br>To verify that they are in good condition</td>
-			<td>--- Scenario: Successful order tracking<br>Given the supplier has already sent the order<br>When you ask to see the tracking panel<br>Then you can see the status of your order if it is approved or not.</td>
+			<td>As a Supplier<br>I want to track the orders I send in the web application<br>So that I can verify that they are in good condition.</td>
+			<td>--- Scenario: Successful order tracking<br>Given the supplier has already sent the order<br>When they request to see the tracking panel<br>Then they can see the status of their order, including whether it is approved or not.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
 			<td>US019</td>
 			<td>Track orders</td>
-			<td>As a Supplier<br>I want to track the orders I ship in the mobile app<br>To verify that they are in good condition</td>
-			<td>--- Scenario: Successful order tracking<br>Given the supplier has already sent the order<br>When you ask to see the tracking panel<br>Then you can see the status of your order if it is approved or not.</td>
+			<td>As a Supplier<br>I want to track the orders I ship in the mobile app<br>So that I can verify that they are in good condition.</td>
+			<td>--- Scenario: Successful order tracking<br>Given the supplier has already sent the order<br>When they request to see the tracking panel<br>Then they can see the status of their order, including whether it is approved or not.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
 			<td>US020</td>
 			<td>Consult user complaints</td>
-			<td>As a Supplier<br>I want to see user complaints in the web application<br>So that I can identify those that are related to the sensors and I can improve my product</td>
-			<td>--- Scenario: View complaints correctly<br>Given the provider wants to review user complaints<br>When you ask to see the claims<br>Then the claims the appear in order of seniority.</td>
+			<td>As a Supplier<br>I want to see user complaints in the web application<br>So that I can identify those related to the sensors and improve my product.</td>
+			<td>--- Scenario: View complaints correctly<br>Given the supplier wants to review user complaints<br>When they request to see the claims<br>Then the claims appear in order of seniority.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
 			<td>US021</td>
 			<td>Consult user complaints</td>
-			<td>As a Supplier<br>I want to see user complaints in the mobile application<br>So that I can identify those that are related to the sensors and I can improve my product</td>
-			<td>--- Scenario: View complaints correctly<br>Given the provider wants to review user complaints<br>When you ask to see the claims<br>Then the claims the appear in order of seniority.</td>
+			<td>As a Supplier<br>I want to see user complaints in the mobile application<br>So that I can identify those related to the sensors and improve my product.</td>
+			<td>--- Scenario: View complaints correctly<br>Given the supplier wants to review user complaints<br>When they request to see the claims<br>Then the claims appear in order of seniority.</td>
 			<td>EP004</td>
 		</tr>
 		<tr>
