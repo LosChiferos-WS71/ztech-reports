@@ -9,6 +9,25 @@
 - El Capítulo V, titulado "Solution UI/UX Design", proporciona una cobertura exhaustiva de los elementos esenciales del diseño de interfaz de usuario e interfaz de usuario para aplicaciones, enfocándose especialmente en la integración y optimización de experiencias de usuario en web, móviles y sistemas IoT. Este capítulo ofrece directrices estilísticas generales y específicas que aseguran la coherencia y accesibilidad del diseño. Se abordan también aspectos estructurales como la arquitectura de información, sistemas de organización, etiquetado, SEO, y sistemas de navegación, todos cruciales para el desarrollo eficaz de interfaces que mejoren la interacción del usuario final con la tecnología IoT. La sección también incluye métodos prácticos para la creación de wireframes, mock-ups, diagramas de flujo de aplicaciones, y prototipos, proporcionando a los estudiantes herramientas fundamentales para conceptualizar y refinamiento visual de soluciones antes de su implementación efectiva.
 - El Capítulo VI, "Product Implementation, Validation & Deployment", detalla minuciosamente el proceso de implementación, validación y despliegue de productos software en el contexto de soluciones IoT. Este capítulo abarca desde la gestión de configuración de software y el manejo del código fuente hasta la definición de estilos y convenciones, lo cual es fundamental para mantener la integridad y coherencia del código en proyectos complejos y colaborativos. También se profundiza en la configuración de despliegues de software y se detalla cómo preparar y ejecutar sprints dentro de un entorno ágil, incluyendo la planificación, gestión de backlogs y la generación de evidencia de desarrollo para revisiones de sprint. Adicionalmente, se enfoca en la validación del producto mediante entrevistas, diseño de entrevistas, y evaluaciones heurísticas, asegurando que las soluciones no solo cumplan con las expectativas técnicas sino también con las necesidades del usuario final. Este enfoque integral capacita a los estudiantes para ejecutar proyectos de IoT desde la conceptualización hasta la implementación real y evaluación, destacando la importancia de la colaboración efectiva y el seguimiento riguroso de buenas prácticas a lo largo del ciclo de vida del desarrollo de software.
 - Los puntos de aplicaciones web, aplicaciones móviles, aplicaciones embebidas, edge backend y backend general abarcan un espectro integral de desarrollo tecnológico necesario para implementar soluciones de IoT efectivas y completas. Las aplicaciones web y móviles permiten una interfaz accesible y funcional para los usuarios, garantizando que puedan interactuar de manera eficiente con la tecnología IoT desde cualquier dispositivo y ubicación. Las aplicaciones embebidas, por su parte, son cruciales para el funcionamiento autónomo y en tiempo real de los dispositivos IoT, integrando software y hardware para operaciones específicas y eficientes. Por otro lado, el backend de edge y el backend general son esenciales para el procesamiento y la gestión de datos en la periferia y en la nube, respectivamente. Esto permite una recopilación y análisis de datos más rápidos y seguros, facilitando decisiones en tiempo real que son fundamentales para muchos sistemas IoT, como aquellos en el sector ambiental y servicio urbano.
+- En el Video About-The-Team los aspectos mas importantes que se resaltan es la integración de múltiples componentes tecnológicos, incluyendo aplicaciones web y móviles, backend tradicional, backend de edge, y aplicaciones embebidas. Cada componente fue diseñado con el propósito de recolectar, procesar y utilizar datos en tiempo real para mejorar la gestión de cultivos mediante tecnologías de edge computing. La aplicación web y móvil ofrecen una interfaz accesible y funcional para los usuarios finales, permitiéndoles interactuar fácilmente con el sistema y obtener información vital sobre las condiciones de sus cultivos. El backend tradicional maneja la lógica de negocio, procesamiento de datos y la integración de servicios, mientras que el backend de edge optimiza la recopilación y el procesamiento local de datos, reduciendo la latencia y mejorando la eficiencia del sistema. Las aplicaciones embebidas en dispositivos IoT realizan el monitoreo directo y continuo de las variables ambientales, asegurando que los datos sean precisos y actualizados.
+
+    <img src="./assets/anexos/ScreenAboutTheTeam.png" width="700"/>
+
+    Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/EShG_565LYFFkvU-9NCAtl0BMBfZwv_F_UDaPkL40S0RxA?e=GMNCEa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+    Link YouTube: https://youtu.be/49ktNwq9MjQ
+
+        Timing de inicio de cada integrante:
+
+        Chicana Romero, Marzzio Braulio: 0:05 - 3:30
+
+        Carrasco Hernandez, Florentino Josue: 3:31 - 6:07
+
+        Pastrana León, Aldo Francisco: 6:08 - 8:54
+
+        Ramirez Zapata, Sebastián Jesús: 8:55 - 13:12
+
+        Perez Pizarro, Pedro Jeremy: 13:13 - 15:52
 
 ---
 **Recomendaciones**
@@ -21,6 +40,27 @@ Estas prácticas ayudarán a asegurar que estás desarrollando un producto que r
 - En el Capítulo V, "Solution UI/UX Design", se recomienda concentrarse en comprender a fondo las guías de estilo para garantizar coherencia visual y funcional a través de diferentes plataformas. Es esencial profundizar en la arquitectura de la información para estructurar de manera lógica y accesible los datos, facilitando así la usabilidad en sistemas IoT complejos. Desarrolla sistemas de navegación y búsqueda intuitivos que permitan a los usuarios acceder fácilmente a la información necesaria. Además, perfecciona tus habilidades en la creación de prototipos y utiliza diagramas de flujo de usuario y mock-ups para visualizar y testear las interfaces antes de su implementación, lo que te permitirá realizar ajustes basados en feedback real y mejorar la experiencia del usuario final.
 - Para el Capítulo VI, "Product Implementation, Validation & Deployment", se recomienda enfocarse en comprender y aplicar efectivamente cada aspecto del proceso de implementación y despliegue de software. Asegúrate de manejar adecuadamente la configuración del software y la gestión del código fuente, utilizando ambientes de desarrollo y convenciones de estilo para mantener la calidad y coherencia del código. Profundiza en las técnicas de configuración de despliegues de software para asegurar que tus aplicaciones se integren y funcionen correctamente en el entorno de producción. Además, es vital que te familiarices con la planificación y ejecución de sprints ágiles, asegurándote de mantener un backlog organizado y generar evidencias de desarrollo que soporten las revisiones de sprint. No olvides la importancia de la validación a través de entrevistas, diseño de entrevistas y evaluaciones heurísticas para asegurar que el producto final cumpla con los requisitos del usuario y las expectativas del mercado.
 - Se recomienda diseñar interfaces intuitivas para las aplicaciones web y móviles que mejoren la interacción del usuario y mantengan coherencia entre dispositivos, optimizando la responsividad y accesibilidad. En cuanto a las aplicaciones embebidas, enfócate en integrar efectivamente sensores y actuadores, priorizando la optimización del consumo de energía y la seguridad. Para el edge backend, desarrolla habilidades en procesamiento de datos en el borde de la red para facilitar respuestas rápidas y reducir la latencia, crucial en aplicaciones de tiempo real. Fortalece también tus conocimientos en arquitecturas de servidor y gestión de bases de datos en el backend general, aprendiendo a implementar microservicios o arquitecturas serverless que aseguren escalabilidad y mantenibilidad.
+
+---
+**Video About-the-Team**
+
+<img src="./assets/anexos/ScreenAboutTheTeam.png" width="700"/>
+
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/EShG_565LYFFkvU-9NCAtl0BMBfZwv_F_UDaPkL40S0RxA?e=GMNCEa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Link YouTube: https://youtu.be/49ktNwq9MjQ
+
+    Timing de inicio de cada integrante:
+
+        Chicana Romero, Marzzio Braulio: 0:05 - 3:30
+
+        Carrasco Hernandez, Florentino Josue: 3:31 - 6:07
+
+        Pastrana León, Aldo Francisco: 6:08 - 8:54
+
+        Ramirez Zapata, Sebastián Jesús: 8:55 - 13:12
+
+        Perez Pizarro, Pedro Jeremy: 13:13 - 15:52
 
 ---
 **Bibliografía**
@@ -192,6 +232,12 @@ Estas prácticas ayudarán a asegurar que estás desarrollando un producto que r
 
 ---
 
-[Video de exposición TF1]()
+[Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/EShG_565LYFFkvU-9NCAtl0BMBfZwv_F_UDaPkL40S0RxA?e=GMNCEa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![videodeexposiciontf1](./assets/anexos/.png)
+![abouttheteam](./assets/anexos/ScreenAboutTheTeam.png)
+
+---
+
+[Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/EShG_565LYFFkvU-9NCAtl0BMBfZwv_F_UDaPkL40S0RxA?e=GMNCEa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![abouttheteam](./assets/anexos/ScreenAboutTheTeam.png)
