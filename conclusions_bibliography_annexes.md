@@ -232,12 +232,6 @@ Link YouTube: https://youtu.be/49ktNwq9MjQ
 
 ---
 
-[Video de exposición](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202022228_upc_edu_pe/EtNG-LRSz1dFrTHo_dpGtmgBadnj5-lEE6PWTbgEjZ5tVw?e=VmTke3)
-
-![abouttheteam](./assets/anexos/ScreenVideoExposicion.png)
-
----
-
 [Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/EShG_565LYFFkvU-9NCAtl0BMBfZwv_F_UDaPkL40S0RxA?e=GMNCEa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![abouttheteam](./assets/anexos/ScreenAboutTheTeam.png)
