@@ -1305,3 +1305,15 @@ Revisar y ajustar la distribución de espacios para mejorar la organización y l
 Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/ESPHi5ZnwxpIvjBGDpsDfBABhT58EsbN_YmxFk8HhxBbaQ?e=ttwd3u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MS44MX19
 
 Link YouTube: https://youtu.be/kTZ7VzPEfZc
+
+    Timing de inicio de cada integrante:
+
+    Ramirez Zapata, Sebastián Jesús: 0:05 - 0:42
+
+    Pastrana León, Aldo Francisco: 0:43 - 1:53
+
+    Chicana Romero, Marzzio Braulio: 1:54 - 2:29
+
+    Carrasco Hernandez, Florentino Josue: 2:30 - 3:58
+
+    Perez Pizarro, Pedro Jeremy: 3:59 - 4:22
