@@ -1302,4 +1302,6 @@ Revisar y ajustar la distribución de espacios para mejorar la organización y l
 
 <img src="./assets/6.4VideoAboutTheProduct/ScreenAboutTheProduct.png" width="700"/>
 
-Link: https://www.youtube.com/watch?v=5BpOWgw0KjA
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022228_upc_edu_pe/ESF7Pc_zuNBAlkQkKLStETABf-N5Wa4FxqMsqPajIb7LNA?e=6QC0Ts&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Link YouTube: https://youtu.be/kgm0pEQRAwA
